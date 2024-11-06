@@ -1,0 +1,304 @@
+{
+    "_id": "div",
+    "name": "Divulgação",
+    "description": "Projetos sérios",
+    "threads": {
+        "1": {
+            "1": {
+                "message": "Essa board permite quebra de anonimato, só não seja o louco de postar o teu nome real aqui, use nicks. Essa board é especificamente para divulgação de projetos pessoais e trabalhos em grupo, se você não tem motivo para existir além de querer attwhorar, caia fora."
+            }
+        },
+        "96": {
+            "96": {
+                "message": "Nova board do Dogolachan aqui"
+            },
+            "97": {
+                "message": "Board devidamente escondida no meu /tudo/ obrigado por avisar."
+            },
+            "98": {
+                "message": "/tudo/, obrigado por avisar QuickFix©."
+            }
+        },
+        "31": {
+            "31": {
+                "message": "Altchans bostileiros em ascensão! Fica aqui a divulgação do pobretão: É a minha proposta de fazer um chan funcional gastando zero reais: um chan TinyIB hospedado em um servidor com créditos gratuitos e um domínio grátis do NoIP. HUE Tem apenas uma board e a userbase é composta de viúvas do brchan, 55 e 84. Fiquem livres para nos dar um alô e obrigado ao bostilchan por permitir a divulgação aqui, a chanosfera do macaquil está uma merda e ter alternativas ao tchan/27/1500 sempre é bom. Irei passar mais tempo por aqui."
+            },
+            "32": {
+                "message": "Baseado anão pobretão. Precisamos de mais chans."
+            },
+            "33": {
+                "message": "Você, assim como o dono deste recinto, já se demonstrou ser um viadinho attwhore."
+            },
+            "34": {
+                "message": "Fique no 1500 então, que o baseadu Eni é o mais discreto de todos."
+            },
+            "35": {
+                "message": "Em pensar que daqui a algumas semanas isso pode encher de normie é paneleiros."
+            },
+            "36": {
+                "message": "A marreta que não tem na arrombadavela, tem aqui, além da criação de boards, para qualquer um banir paneleiros."
+            },
+            "37": {
+                "message": "dois chans novos"
+            },
+            "38": {
+                "message": "Já vingou, tem pelo menos 10 anões entre pobretão, bostil e eles estão colaborando, isso sem contar as velhasbichas que chegam aqui decepcionadas quando decidem lurkar uma vez no mês e procuram um lugar com menos câncer."
+            },
+            "39": {
+                "message": "mal tem 40 Todo dia registram 225 fios novos. Você é maluco."
+            },
+            "40": {
+                "message": "comemorando 10 anões Já perdi a conta de quantos chans achavam que iriam vingar porque lotavam nos primeiros dias. implicando que os mesmos macacos não criam novos fios IDs surgiram exatamente por isso, cada anão deve criar, no mínimo, uns 5 fios por dia. O Caravela está cheio de NEET e macacos home-office com tempo livre, já cansei de ver fio de anões pedindo ajuda porque não conseguem parar de scrollar o chan e fazer alguma coisa de produtivo."
+            },
+            "41": {
+                "message": "O N.egro responde fios que não são sobre moderação usando o próprio nome, não existe attwhore maior que ele. Você utiliza o 1500 com frequência? O catálogo é quase completamente renovado a cada dia, e isso nem é algo bom. Mais de metade desses fios são merda descartável."
+            },
+            "42": {
+                "message": "Os dez anões eu nem ao menos contei o que veio da merdavela. Fique tranquilo que não foi a cuvela que inventou os chans ou a userbase deles."
+            },
+            "43": {
+                "message": "Fora que ele nem está em el salvador."
+            },
+            "44": {
+                "message": "Estou divulgando o recinto com links embutidos em imagens. Boa sorte para a moderação preguiçosa dos outros chans para banir."
+            },
+            "45": {
+                "message": "Viajou de DF para o RJ em 30 minutos, nunca se esqueça."
+            },
+            "46": {
+                "message": "Você esqueceu a melhor parte, ele postando constantemente do Ceará."
+            },
+            "47": {
+                "message": "Puro lulz."
+            },
+            "48": {
+                "message": "Textboard brasileiro/lusófono com foco na liberdade de expressão. Sem regras globais contra nada além de ilegalidades e spam:"
+            },
+            "49": {
+                "message": "Nunca vi você, de onde nos encontrou? Favoritado aqui."
+            },
+            "50": {
+                "message": "Do /int/ do 4falhas."
+            },
+            "51": {
+                "message": "Excelente, realmente é um bom lugar para encontrarmos usuários da língua portuguesa. Irei divulgar seu recinto no"
+            },
+            "52": {
+                "message": "Fixado."
+            },
+            "53": {
+                "message": "Irei divulgar seu recinto no Obrigado."
+            },
+            "54": {
+                "message": "Seria legal se o 56 voltasse também."
+            },
+            "55": {
+                "message": "Se a Caravela já é uma bosta por ser cheia de travequeiros, e aqui ser o '''Bostil'''chan, você acha que eu iria pra um local onde a premissa básica é atrair os macacos pobres dessa latrina de país?"
+            },
+            "56": {
+                "message": "Alguém precisa aprender a lurkar antes de postar."
+            },
+            "57": {
+                "message": "Mamaco burro."
+            },
+            "58": {
+                "message": "Não entendi nada, seu filho da puta!"
+            },
+            "59": {
+                "message": "Vou começar a postar essas coisas na minha board, que aí posso banir e apagar posts do seu QI de dois dígitos. Leia"
+            },
+            "60": {
+                "message": "Pau no seu cu! Não vou ler essa merda, seu viadinho de bosta!"
+            },
+            "61": {
+                "message": "Meu fio foi citado."
+            },
+            "62": {
+                "message": "Anão de qualidade."
+            },
+            "63": {
+                "message": "O 55 antigo era postado no Orkut, newfag de merda."
+            },
+            "64": {
+                "message": "um erro não justifica o outro."
+            },
+            "65": {
+                "message": "Você é que determina que foi um erro?"
+            },
+            "66": {
+                "message": "Baseado moderador! Pra cima deles, anões."
+            },
+            "67": {
+                "message": "Era o R. e a panela dele que fazia isso."
+            },
+            "68": {
+                "message": "Sim, eu determino, eu sou seu Deus, anão."
+            },
+            "69": {
+                "message": "E funcionava. Cria uma userbase enorme no chan principal (que vai ser uma bosta por definição) enquanto o secundário filtra, ficando rápido '**e** com qualidade. Não foi só no Brasil. A relação 4chan-8chan funcionava da mesma forma. Um chama o movimento, o outro se beneficia tendo um universo maior de usuários para selecionar só os que beneficiam o chan de fato, e a cultura prospera por conta disso."
+            },
+            "70": {
+                "message": "Não se preocupem já estou providenciando uma página no passaro pro recinto! O que pode dar errado?"
+            },
+            "71": {
+                "message": "Sai do chan, N."
+            },
+            "72": {
+                "message": "Nada?"
+            },
+            "73": {
+                "message": "Olha que fortinho ele."
+            },
+            "75": {
+                "message": "Nada, a depender de que tipo de gente seja atraída."
+            },
+            "93": {
+                "message": "esse recinto ai tem máscara ?."
+            },
+            "94": {
+                "message": "Provavelmente já faliu. HUE!"
+            },
+            "95": {
+                "message": "Pois é, não está acessível aqui."
+            }
+        },
+        "78": {
+            "78": {
+                "message": "seja livre criação de boards. não proibe vpn nem tor."
+            },
+            "79": {
+                "message": "projeto sério cuzinho gostoso"
+            },
+            "87": {
+                "message": "Seja lá quem for o dono desse chan, você excluiu a minha board e ainda por cima me chamou de pereira. Peça desculpas ou eu não entrarei no seu recinto."
+            },
+            "88": {
+                "message": "Peça desculpas ou eu não entrarei no seu recinto. Isso é gíria pra troca-troca?"
+            },
+            "89": {
+                "message": "A verdade não se ofende ao ser questionada e ainda foi você quem excluiu."
+            },
+            "90": {
+                "message": "As abelhas estão agitadas nesta temporada."
+            },
+            "91": {
+                "message": "Mentiroso."
+            },
+            "92": {
+                "message": "Desculpe anon, eu resetei o chan, e eu nunca te chamei de pereira."
+            }
+        },
+        "2": {
+            "2": {
+                "message": "Anões que fazem vídeos para o VocêTubo, divulguem seus próprios canais, junto de um breve resumo sobre, e deem feedback uns aos outros."
+            },
+            "17": {
+                "message": "Acabei de lançar meu primeiro vídeo. Não tenho nenhum plano especifico para o canal, só falar do que me interessar no momento. É minha primeira vez fazendo esse tipo de narração, não gosto da minha voz e o microfone não é muito bom, mesmo assim espero que alguém goste. Link do vídeo:"
+            },
+            "18": {
+                "message": "Nada mal, a edição é meio genérica mas a critica ao filme foi bem construída, parabéns pelo ótimo roteiro. A sua voz ou seu microfone são completamente irrelevantes, apesar de sim afetarem o seu vídeo você não precisa se sentir envergonhado, pois é algo superficial apenas que não afeta a essência do vídeo. Enfim, ótimo vídeo, continue com o bom trabalho."
+            },
+            "19": {
+                "message": "Muito obrigado pelo feedback, anão. Quero melhorar e investir nesse novo hobby. Estou muito orgulhoso do meu trabalho."
+            },
+            "20": {
+                "message": "Sobe."
+            },
+            "21": {
+                "message": "30 horas de crítica?"
+            },
+            "22": {
+                "message": "Não tankei esse sotaque, sô."
+            },
+            "23": {
+                "message": "Não é ruim não, ein? Caprichou mesmo. Eu cliquei e fiquei escutando aqui, enquanto lurkava no tchã."
+            },
+            "24": {
+                "message": "Ficou bem maior do que esperava, saiu do controle. ocê num sabe que minas é o mió estadu desspáis. Muito obrigado por assistir."
+            },
+            "80": {
+                "message": "Lancei outro vídeo no meu canal: Agradeço se vocês puderem conferir, also, qual thumb vocês preferem? Ou as duas estão uma bosta?"
+            },
+            "81": {
+                "message": "A primeira é menos pior, na segunda o nome do jogo está um tanto pequeno e descentralizado e a personagem junto ao fundo podem dar a impressão de que o jogo é um JRPG. Thumbnails boas possuem pouco ou nenhum texto, apenas algumas palavras chaves deveriam estar presentes caso opte por incluir texto."
+            },
+            "82": {
+                "message": "Valeu, ainda estou aprendendo a fazer thumbnails, tentei copiar youtubers que gosto, mas não manjo do lojafotos"
+            },
+            "83": {
+                "message": "Como posso melhorar a primeira thumb?"
+            },
+            "84": {
+                "message": "Fiz essa aqui, acho que ficou bem melhor."
+            },
+            "85": {
+                "message": "Eu removeria o nome do jogo e deixaria apenas o logo (cobra), fundo e o antetítulo para despertar curiosidade em que visse. Está muito bom, até parece que foi feita por um canal grande."
+            },
+            "86": {
+                "message": "Eu prefiro a da direita."
+            }
+        },
+        "3": {
+            "3": {
+                "message": "Estou um pouco bêbado, pois é Quinta-Feira, mas pretendo lurar o rádio anão do 27 para cá, já que aquela merda está morta desde que o Ninja voltou com os autismos dele. Meu plano era enviar o equivalente de um cátalogo do chan via AX.25 por ondas curtas, criando um chan via rádio amador, mas também pensei em usar coisas como o JS8Call para simplesmente ter um chat no estilo IRC, sem precisar de internet. Irei postar mais informações nesse fio nos próximos dias."
+            },
+            "4": {
+                "message": "Bump do interesse."
+            },
+            "5": {
+                "message": "OP, por favor, relate as suas experiências mais marcantes nesse passatempo."
+            },
+            "6": {
+                "message": "Obrigado anão do SDR por me fazer viciar nesse hobby, gostei tanto que comprei meu primeiro rádio para receber ondas curtas. Usei esse caralhudinho para pegar rádios francesas, argentinas e a rádio dos chineses. Já estou pensando em pegar uns 20 metros de fio para fazer uma antena long wire e aumentar a recepção. De bônus, descobri que o volume desses rádios é alto pra caralho, puta que pariu. O volume vai nas alturas sem distorcer, nem chiar. Sem contar que tem suporte a cartão microSD, pendrive e mãefodendo bluetooth. É impressionante para um rádio barato. A próxima compra será um SDR ou um PX para colocar uma Flower Pot."
+            },
+            "7": {
+                "message": "Acabei de achar uma rádio russa ali pelo 17.58MHz, fode sim, eu nem ao menos estou usando antena externa, apenas coloquei um pouco perto do meu roteador e a recepção aumentou muito."
+            },
+            "8": {
+                "message": "Finalmente autismo de qualidade."
+            },
+            "9": {
+                "message": "Onde moro só toca rádio com músicas de corno, crente e bêbado. Minha experiência com esse mãeforniquendo ouvinte dos sete mares já me fez escutar música clássica russa e sucessos brasileiros dos anos 60. A rádio que estou, na 11.77MHz é ótima, parece que voltei para os anos 80. Deixo tocar como música de fundo e não me preocupo com playlists ou abrir o VocêTubo, apenas enjoo a experiência enquanto estou no PC durante a madrugada. Ainda não sei se consigo escutar o pessoal do radio amador nele, as vezes existe um pessoal testando propagação de um estado para o outro e é legal acompanhar o autismo dos tiozões no WebSDR, mas seria melhor ainda sem precisar de internet. Talvez precise de uma antena pra isso."
+            },
+            "10": {
+                "message": "Provavelmente é só a china radio international."
+            },
+            "11": {
+                "message": "Não é, a rádio deles é algumas frequências acima/abaixo. Achei ser a Radio Nacional da Amazônia, mas não tenho certeza. Dos russos deu para ouvir nitidamente que não era mandarim."
+            },
+            "12": {
+                "message": "Acabei de ouvir, estou na Brasil Central de Goiânia. No site diz transmitir na 11.81MHz, mas no rádio está um pouco antes. A diferença deve ser por ser seletor de frequência no potenciômetro, o display analógico não deve ser muito exato."
+            },
+            "13": {
+                "message": "Ainda não sei se consigo escutar o pessoal do radio amador nele Dificilmente você vai conseguir. Ele não aparenta fazer SSB. É bem raro achar pessoas modulando em AM nas frequências baixas, talvez ache caminhoneiros na banda dos 10 metros. Compre um rtl-sdr v4 e instale o driver certo depois. Talvez uma MLA-30+ para antena. A antena de tamanho aleatório sem filtros vai saturar a entrada desse radinho aí e você provavelmente não vai pegar nada com ele. Até o rtl-sdr satura sem filtros."
+            },
+            "15": {
+                "message": "Essa rádio chega bem fraca pra mim. Só 7 Killowatts. Sim, esses rádios tem esse problema de deslizar a cordinha do capacitor variável e mostrar a frequência errada. Mas excelente que esteja pegando esta rádio, anão. Tente receber os informes de tempo do Chile e da Argentina. Provavelmente se você ligar o áudio em um computador vai conseguir receber, mesmo demodulando em AM."
+            },
+            "16": {
+                "message": "Anões que são adeptos desse passatempo, por favor, relatem as suas experiências mais marcantes."
+            },
+            "25": {
+                "message": "O rádio anão já fez altas aventuras, inclusive detectou uns sinais bizarros vindo de operadores da OTAN na época das enchentes do Rio Grande do Sul. Acho que ele não sabe do bostil, temos que convidar ele lá no 27."
+            },
+            "26": {
+                "message": "Anões, vocês podem me mostrar o caminho das pedras para estudar sobre radioamadorismo?"
+            },
+            "27": {
+                "message": "Tem um fio no fvm do 1500 completo que era do rádio anão explicando as frutarias, eu vou pegar ele para postar aqui."
+            },
+            "28": {
+                "message": "- Pardinho, SP, BR"
+            },
+            "30": {
+                "message": "Obrigado, anão."
+            },
+            "76": {
+                "message": "Estou louco para pegar um RTL-SDR para poder escutar transmissões em casa sem internet, mas custa um pouco."
+            },
+            "77": {
+                "message": "Porra, certeza que tem algum caminhão parado por aí com um PX mofando em algum lugar. Novo essas merdas custam mais de mil conto de réis."
+            }
+        }
+    }
+}

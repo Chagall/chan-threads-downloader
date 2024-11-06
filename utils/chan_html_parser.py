@@ -9,7 +9,7 @@ class ChanHTMLParser(HTMLParser):
 
     def handle_data(self, data):
         # Remove newlines, carriage returns, and quotation marks
-        data = data.replace("\n", "").replace("\r", " ").replace('"', " ").replace("==", " ").strip()
+        data = data.replace("\n", "").replace("\r", " ").replace('"', " ").replace("==", " ").replace("||", " ").strip()
         # Remove references to other posts (e.g., >>12345 or >12345)
         data = re.sub(r">>\d+", "", data).strip()
         data = re.sub(r">\d+", "", data).strip()
@@ -30,8 +30,7 @@ class ChanHTMLParser(HTMLParser):
 
 # parser = ChanHTMLParser()
 # parser.feed(
-#     '>18014 E eu também demorei demais https://old.27chan.org/ pra agir, poderia ter poupado mais o https://www.youtube.com/watch?v=BFzL4q95kAY passarinho se eu não fosse bicha e não tivesse medinho de esmagar ele com algum objeto pesado. Por mim, a pá pode ter sido uma morte menos dolorosa, mas acho que só o tempo que eu demorei pra pegar a porra da pá e pensar em como matar pode ter feito ele sofrer mais. "apenas membros" fixe\'d. ==Limpeza realizada!==Dessa vez foram as boards que não foram abandonadas a serem limpas, acompanhe na thread de tábuas no >>>/mod/. >início de 2017 >faço a Fuvest em Ribeirão Preto >conheço um sujeito redpillado enquanto espero o portão abrir >falamos sobre o Trump >falamos sobre assuntos que eram discutidos nos chans da época >não falamos abertamente que somos anões >nem mencionamos o recinto uma única vez Eu tenho minhas dúvidas se o cara também era channer, mas é muita coincidência encontrar alguém que sabia com detalhes sobre a forçação do mês. Se estiver lendo isso, saiba que você é baseado.'
+#     "O quanto de ciência tem isso aqui? Digo, o quanto frequências podem afetar materiais orgânicos? Usar frequências para curar o corpo é algo real, mas os esquizos que postam esse tipo de foto sabem nada sobre o assunto. Você precisa de um aparelho de ressonância que nem é mais fabricado, pois o próprio criador morreu pobre depois dos dubaienses ferrarem a vida dele. Desculpa por não ter o nome na língua, você também não vai achar facilmente na internet, estão espero que um anão elabore mais."
 # )
-# print("\nparsed_message:", parser.text)
-
 # parsed_message = parser.get_parsed_text()
+# print("\nparsed_message:", parsed_message)

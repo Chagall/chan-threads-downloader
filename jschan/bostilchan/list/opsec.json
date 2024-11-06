@@ -1,0 +1,519 @@
+{
+    "_id": "opsec",
+    "name": "OPSEC",
+    "description": "Board para te manter longe das grades, ou não",
+    "threads": [
+        {
+            "id": 2,
+            "replies": [
+                {
+                    "id": 2,
+                    "message": "Fio para dúvidas qeu não merecem um fio sobre."
+                },
+                {
+                    "id": 3,
+                    "message": "Acabou-se? Espero que não. Por favor, digam que não."
+                },
+                {
+                    "id": 4,
+                    "message": "Está certo, pra burlar o firewall chinês se usa o Azure Meek até onde eu sei. Lá eles fazem DPI (Inspeção de Pacotes Profunda) então você tem alguns subterfúgios como o Shadowsocks, VMess、VLESS、WireGuard、Trojan、Trojan-Go、NaïveProxy、Hysteria 和 TUIC e etc."
+                },
+                {
+                    "id": 10,
+                    "message": "Qual a diferença entre usar o Whonix e usar o Tor?"
+                },
+                {
+                    "id": 12,
+                    "message": "Whonix e Tor têm propósitos diferentes, embora estejam interligados. Tor é uma rede que oculta seu IP e permite navegar com uma segurança maior. Whonix é um sistema operacional projetado para ser utilizado em conjunto com o Tor. Ele roda em duas máquinas virtuais: uma para conexão à rede Tor (Gateway) e outra para as atividas do usuário (Workstation), isolando as atividades. Em resumo, Tor é a rede que fornece anonimato, enquanto Whonix é um ambiente seguro que utiliza essa rede para proteger ainda mais a privacidade do usuário."
+                },
+                {
+                    "id": 14,
+                    "message": "Entendi. Obrigado, ChatLGBT. Se eu usar o Whonix, ainda tenho que deixar o JS desativado ou zero fodas?"
+                },
+                {
+                    "id": 16,
+                    "message": "O Whonix já é muito seguro por padrão. Desativar o JS é uma boa prática."
+                },
+                {
+                    "id": 18,
+                    "message": "Não me passou confiança."
+                },
+                {
+                    "id": 19,
+                    "message": "avião cai e deixa 200 mortos Não concordo"
+                },
+                {
+                    "id": 20,
+                    "message": "Hue. Comigo é assim."
+                },
+                {
+                    "id": 21,
+                    "message": "Desativar o JS no Whonix é extremamente desnecessário, o Whonix já roteia TODA a rede TOR através da maquina virtual. A falha do JS só é possível de explorar se você estiver utilizando o navegador do TOR na sua maquina principal, porque aí se você baixar um arquivo contaminado por algum agressor, ele pode acabar obtendo o seu IP e te localizando, mas se você baixar esse mesmo arquivo no Whonix, não pega nada, seu IP continuará sendo mascarado pela rede TOR."
+                },
+                {
+                    "id": 22,
+                    "message": "Muito grato. Agora senti confiança! Anões, vocês sabem o motivo de existir a opção secure move no Eraser?"
+                },
+                {
+                    "id": 23,
+                    "message": "eraser Baixe e use o baseado Bleachbit para limpar e sobreescrever os seus dados. É open source e é melhor que o primeiro."
+                },
+                {
+                    "id": 24,
+                    "message": "Certo. Obrigado pela dica. Por que ele é melhor?"
+                },
+                {
+                    "id": 25,
+                    "message": "Ele é open source, então você pode explorar o código à vontade. Não há nada a esconder. Existem várias opções de limpeza e sobrescrição; thumbnails, cache e uma caralhada. Você pode até limpar o histórico do seu navegador por meio dele, e cada opção é adaptada para diferentes SOs. No Linux, por exemplo, é possível limpar o histórico de comandos do terminal, Journaling, etc."
+                },
+                {
+                    "id": 26,
+                    "message": "Muito agradecido."
+                },
+                {
+                    "id": 43,
+                    "message": "O que vocês acham do Squirrelmail?"
+                },
+                {
+                    "id": 44,
+                    "message": "Qual a melhor VPN da atualidade?"
+                },
+                {
+                    "id": 45,
+                    "message": "MullvadVPN. Mas se você foir mais paranóico, hoste a sua com o OpenVPN. Also, eu li a política de privacidade do ProtonVPN e eles afirmam que não guardam nenhum log."
+                },
+                {
+                    "id": 55,
+                    "message": "Não conheço, do que se trata?"
+                },
+                {
+                    "id": 73,
+                    "message": "Qual melhor serviço para hostear um provedor de e-mail próprio, e de preferência gratuitamente? Gostaria de escapar de hotmail, gmail e afins."
+                },
+                {
+                    "id": 74,
+                    "message": "Hospedagem de e-mail é completamente filha da puta porque o mundo vai lhe tratar como serviço de spam até que se prove o contrário. A centralização do e-mail se deve justamente porque ninguém sabe lidar com spam nessa merda."
+                },
+                {
+                    "id": 75,
+                    "message": "Porra, mas que merda. Só queria ter meu próprio serviço sem depender (((deles)))."
+                },
+                {
+                    "id": 76,
+                    "message": "Anões, preciso de um aplicativo de microfone espião oculto para Android."
+                },
+                {
+                    "id": 77,
+                    "message": "Mail2tor."
+                },
+                {
+                    "id": 78,
+                    "message": "Baseado. Obrigado, anão."
+                },
+                {
+                    "id": 79,
+                    "message": "Qual é o melhor navegador?"
+                },
+                {
+                    "id": 80,
+                    "message": "Librewolf e Tor Browser."
+                },
+                {
+                    "id": 81,
+                    "message": "Aquele que te faz mais feliz. Como o anão acima disse, librewolf e tor browser são excelentes, mas um Firefox bem configurado e com extensões focadas em segurança também é bom. Só fique longe de navegadores baseados em Chromium."
+                },
+                {
+                    "id": 82,
+                    "message": "Firefox bem configurado De certa forma, o Librewolf e o Tor Browser são Firefox bem configurados, kek. Só fique longe de navegadores baseados em Chromium O problema são os vídeos e outras que coisas que dependem de GPU, os chromium-based são muito melhores pra isso."
+                },
+                {
+                    "id": 83,
+                    "message": "Mullvad browser ou TOR."
+                },
+                {
+                    "id": 89,
+                    "message": "Qual OS devo usar no VirtualBox?"
+                },
+                {
+                    "id": 90,
+                    "message": "Qualquer OS? E se você quiser brincar com VMs no Windows, use o HyperV. Hypervisor do tipo 1 é mil vezes superior ao do tipo 2."
+                },
+                {
+                    "id": 91,
+                    "message": "A única coisa que não me agrada no Whonix é que ainda não tem versão iso. Eu particularmente não gosto de usar VM ou um outro SO para usá-lo."
+                },
+                {
+                    "id": 104,
+                    "message": "Você pode usar o Tails, que é seguro por padrão. A diferença é que este é livedistro e amnésico."
+                },
+                {
+                    "id": 159,
+                    "message": "Firefox é um ótimo navegador pra opsec?"
+                },
+                {
+                    "id": 160,
+                    "message": "Tem mais configurações, mas acho melhor usar um fork do firefox, como o LibreWolf."
+                }
+            ]
+        },
+        {
+            "id": 157,
+            "replies": [
+                {
+                    "id": 157,
+                    "message": "Quais são as melhores práticas de OPSEC para celular? Eu apenas uso o tor e o proton vpn, a cada 1 hora eu altero o servidor, daqui a alguns dias vou instalar o lubuntu no meu computador aqui."
+                },
+                {
+                    "id": 158,
+                    "message": "Primeiramente, anão, não existe opsec para celular, até porque o celular já é um spyware de alto nível por causa do sistema. Entretanto, existem algumas formas de aliviar a situação. desbloquear o bootloader e instalar uma ROM alternativa focada em segurança. VPN, recomendo a Mullvad, pois não guarda logs. criptografar o celular. usar uma máquina virtual no celular. usar lojas de apps como Aurora Store ou F-Droid ao invés da Play Store. usar uma conexão que não seja ligada a você, como, por exemplo, redes Wi-Fi das pessoas, seja do seu bairro ou de algum local que você esteja. Em alguns casos, essas redes podem ser facilmente acessadas no Android, com o WPSApp, que localiza redes WPS próximas a você e pode lhe gerar o acesso por meio de códigos PIN fornecidos pelo próprio app. Os códigos podem não funcionar em todas as redes Wi-Fi listadas no aplicativo, mas é muito provável que você consiga em alguma. usar e-mails anônimos, como dnmx e mail2tor. usar números virtuais Acho que é isso, mas existem outras coisas para fazer também, se quiser outras dicas é só chamar, :)."
+                }
+            ]
+        },
+        {
+            "id": 156,
+            "replies": [
+                {
+                    "id": 156,
+                    "message": "procurando podcasts sobre opsec em português encontro essa peça Perdi duro. Se o mundo fosse como nos títulos clickbait desse cara ele já teria acabado a muito tempo. Os anões conhecem bons podcasts sobre segurança? Pego duas horas de ônibus por dia e gostaria de escutar algo informativo. Não precisa estar disponível no gadofy."
+                }
+            ]
+        },
+        {
+            "id": 109,
+            "replies": [
+                {
+                    "id": 109,
+                    "message": "Aparentemente, foi um use-after-free na engine do CSS e já vem ativamente sendo usado na rede Tor."
+                },
+                {
+                    "id": 110,
+                    "message": "Já foi consertado, é só atualizar o Firefox."
+                },
+                {
+                    "id": 121,
+                    "message": "Existe alguma alternativa ao Tor? Rede I2P?"
+                },
+                {
+                    "id": 122,
+                    "message": "I2P e GNUnet"
+                },
+                {
+                    "id": 123,
+                    "message": "Yggdrasil Network Brincadeira, aquilo não serve pra anonimato pra valer, só pra hospedar coisa mesmo."
+                },
+                {
+                    "id": 124,
+                    "message": "Já foi consertado Não mentiu, mas o que você falou não é a verdade."
+                },
+                {
+                    "id": 155,
+                    "message": "Não entendi."
+                }
+            ]
+        },
+        {
+            "id": 152,
+            "replies": [
+                {
+                    "id": 152,
+                    "message": "Venho por meio deste fio compartilhar um Dockerfile e arquivos de configuração para o deployment de um servidor Baïkal (WebDAV para calendários e listas de contatos). O Baïkal centraliza e permite o compartilhamento de eventos de calendário e contatos entre vários dispositivos (assim como o Google Agenda permite). A vantagem de hospedar sua própria instância do Baïkal é ter acesso aos seus calendários e contatos mesmo sem acesso à internet, poder fazer backups das suas agendas e contatos facilmente e conseguir compartilhar eventos e contatos com outras pessoas sem ter que depender da boa vontade de uma Big Tech. Segue o Dockerfile que fiz para hospedar o Baïkal localmente: [code]yaml FROM php:8.2-fpm-alpine WORKDIR /usr/share/nginx RUN cp /usr/local/etc/php/php.ini-production /usr/local/etc/php/php.ini COPY configs/baikal-php.ini /usr/local/etc/php/conf.d/custom.ini RUN apk --no-cache update && \\ apk --no-cache --virtual add nginx zip supervisor RUN mkdir /var/run/php-fpm && \\ rm /usr/share/nginx/http-default_server.conf && \\ rmdir /usr/share/nginx && \\ wget -O /usr/share/baikal.zip && \\ unzip /usr/share/baikal.zip -d /usr/share/ && \\ mv /usr/share/baikal /usr/share/nginx && \\ rm /usr/share/baikal.zip RUN chown -R www-data:www-data /usr/share/nginx/html /usr/share/nginx/Specific /usr/share/nginx/config /etc/supervisord.conf COPY configs/baikal-fpm.conf /usr/local/etc/php-fpm.d/zz-docker.conf COPY configs/baikal-nginx.conf /etc/nginx/nginx.conf COPY configs/baikal-nginx-default.conf /etc/nginx/conf.d/default.conf COPY supervisor/baikal.conf /etc/baikal.conf COPY scripts/baikal-entrypoint.sh /usr/local/bin/docker-entrypoint RUN chmod +x /usr/local/bin/docker-entrypoint RUN chown -R www-data:www-data /var/log/nginx /run/ /usr/lib/nginx /run/nginx /var/lib/nginx VOLUME [ /usr/share/nginx/Specific , /usr/share/nginx/config ] EXPOSE 80 USER www-data RUN set PATH=PATH:/usr/local/bin CMD [ supervisord , -n , -c , /etc/baikal.conf ] [/code] Qualquer sugestão para melhorar o deployment é bem vinda, mas não encham meu saco por usar Docker ao invés de uma VM, por favor."
+                },
+                {
+                    "id": 153,
+                    "message": "Esse é o baikal-php.ini: [code]dosini [PHP] upload_max_filesize = 75M post_max_size = 75M memory_limit = 512M max_execution_time = 300 [/code] Esse é o baikal-fpm.conf: [code]conf [global] error_log = /proc/self/fd/2 daemonize = no ; log_limit = 8192 [www] listen = /var/run/php-fpm/php-fpm.sock listen.owner = www-data listen.group = www-data listen.mode = 0660 access.log = /dev/null clear_env = no ; Ensure worker stdout and stderr are sent to the main error log. catch_workers_output = yes decorate_workers_output = no ping.path = /ping pm.status_path = /status ; Choose how the process manager will control the number of child processes. pm = dynamic pm.max_children = 75 pm.start_servers = 10 pm.min_spare_servers = 5 pm.max_spare_servers = 20 pm.process_idle_timeout = 10s [/code] Esse é o baikal-nginx.conf: [code]nginx worker_processes auto; error_log stderr warn; pid /run/nginx/nginx.pid; events { worker_connections 1024; } http { include /etc/nginx/mime.types; default_type application/octet-stream; log_format main '$remote_addr - $remote_user [$time_local] $request ' '$status $body_bytes_sent $http_referer ' ' $http_user_agent $http_x_forwarded_for '; access_log /dev/stdout main; error_log /dev/stderr notice; sendfile on; keepalive_timeout 65; server_tokens off; include /etc/nginx/conf.d/*.conf; } [/code] Esse é o baikal-nginx-default.conf: [code]conf server { listen 80; server_name dav.local; root /usr/share/nginx/html; index index.php; rewrite ^/.well-known/caldav /dav.php redirect; rewrite ^/.well-known/carddav /dav.php redirect; charset utf-8; location ~ /(\\.ht|Core|Specific|config) { deny all; return 404; } location ~ ^(.+\\.php)(.*)$ { try_files $fastcgi_script_name =404; include /etc/nginx/fastcgi_params; fastcgi_split_path_info ^(.+\\.php)(.*)$; fastcgi_pass unix:/var/run/php-fpm/php-fpm.sock; fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name; fastcgi_param PATH_INFO $fastcgi_path_info; } } [/code] Esse é o baikal.conf (para o supervisor): [code]conf [supervisord] nodaemon=true logfile=/dev/null logfile_maxbytes=0 pidfile=/run/supervisord.pid [unix_http_server] file=/tmp/supervisor.sock chmod=0700 [rpcinterface:supervisor] supervisor.rpcinterface_factory = supervisor.rpcinterface:make_main_rpcinterface [supervisorctl] serverurl=unix:///tmp/supervisor.sock [program:php-fpm] command = /usr/local/sbin/php-fpm -R stdout_logfile=/dev/stdout stdout_logfile_maxbytes=0 stderr_logfile=/dev/stderr stderr_logfile_maxbytes=0 autostart=false autorestart=true startretries=3 [program:nginx] command = /usr/sbin/nginx -g daemon off; stdout_logfile=/dev/stdout stdout_logfile_maxbytes=0 stderr_logfile=/dev/stderr stderr_logfile_maxbytes=0 autostart=false autorestart=true startretries=3 [program:entrypoint] command = docker-entrypoint ;user=root stdout_logfile=/dev/stdout stdout_logfile_maxbytes=0 stderr_logfile=/dev/stderr stderr_logfile_maxbytes=0 autostart=true autorestart=false startretries=0 [/code] Esse é o baikal-entrypoint.sh: [code]sh #!/bin/sh set -e supervisorctl -c /etc/baikal.conf start php-fpm supervisorctl -c /etc/baikal.conf start nginx [/code]"
+                },
+                {
+                    "id": 154,
+                    "message": "Essa configuração não tem SSL e expõe a porta do Baïkal diretamente para a rede, não é recomendado rodar assim se for expor sua instância para a internet. Como estou rodando apenas para minha rede local, não tem muito problema. É bem fácil configurar o Traefik para fazer o proxy reverso desse container e expô-lo com HTTPS, posso ensinar a fazer se surgir interesse."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "replies": [
+                {
+                    "id": 5,
+                    "message": "Isso é o básico que precisa fazer: ublock origin no navegador do computador, este sendo librewolf ou brave app tracking protection do navegador duckduckgo ativado no celular mullvad ou windscribe como VPN para atividades um pouco mais sigilosas, tanto no computador como celular substituir gmail e outlook por tutamail ou cockli como e-mail principal Seguindo essa OPsec 90% dos seus problemas serão eliminados."
+                },
+                {
+                    "id": 6,
+                    "message": "Isso para PC ou Andreoli?"
+                },
+                {
+                    "id": 7,
+                    "message": "Outro muito importante que deixei passar: private DNS ativado no celular e computador, quad9 é um bom provedor Tudo que citei funciona tanto no pc quando android/ios."
+                },
+                {
+                    "id": 8,
+                    "message": "Entendi. Me diga uma coisa: ProtonVPN está no mesmo nível da Windscribe?"
+                },
+                {
+                    "id": 9,
+                    "message": "VPN depende muito da sua confiança. O proton é bem falado, mas o windscribe é open source, então pra mim tansmite mais segurança. O proton você precisa acreditar que o programa deles realmente não está coletando seus dados, e acreditar que as auditorias realmente não estão encontrando nenhum rastro nos servidores deles. Já com o windscribe, se for bom nas computadorias, pode compilar o código por conta própria e inspecionar por conta própria que nada ali estará enviando seus dados."
+                },
+                {
+                    "id": 11,
+                    "message": "TUTANOTA NÃO É SEGURO! Um serviço de e-mail criptografado alemão negou as alegações de um ex-oficial de inteligência da polícia canadense sob julgamento por vender segredos confidenciais a criminosos de que agia como uma fachada para agências de inteligência e aplicação da lei. Cameron Ortis, ex-oficial de inteligência da Polícia Montada Real Canadense (RCMP), acusado de supostamente passar informações operacionais confidenciais, alegou em uma audiência judicial que o serviço de e-mail, Tutanota, estava alinhado para coletar inteligência sobre criminosos organizados. As alegações foram categoricamente negadas pelo provedor de e-mail criptografado, agora renomeado Tuta, que disse que as alegações eram completamente falsas . A Tutanota e a Tuta nunca operaram e nunca operarão uma 'fachada' para nenhuma agência de inteligência ou aplicação da lei. Isso contradiria completamente nossa missão como uma organização de proteção à privacidade , disse a empresa em um comunicado. A loja visava atrair criminosos Em transcrições judiciais divulgadas na sexta-feira, 10 de novembro, Ortis testemunhou que havia sido abordado por um colega de uma agência de inteligência estrangeira com informações sobre um serviço de mensagens criptografadas que estava sendo usado como uma fachada para agências de inteligência. Ele disse ao tribunal em Ottawa que uma vitrine era um negócio falso, online ou físico, secretamente criado por uma agência de inteligência ou de aplicação da lei. O objetivo comum é atrair criminosos ou alvos de diferentes tipos de investigações para essa vitrine para que eles se envolvam em seus serviços , disse Ortis ao tribunal. Ortis, ex-diretor geral da Inteligência Nacional da RCMP, disse ao tribunal que foi abordado por seu colega em uma agência estrangeira no outono de 2014. Ele disse que foi informado de que uma vitrine estava sendo criada para atrair alvos para um serviço de e-mail criptografado online, Tutanota, para coletar inteligência. Ele disse que a agência estrangeira seria capaz de alimentar a inteligência, incluindo e-mails interceptados, por meio da rede de inteligência Five Eyes — uma colaboração entre os EUA, Reino Unido, Canadá, Austrália e Nova Zelândia — de volta à Polícia Montada Real Canadense. As informações que seriam coletadas eram convincentes e demonstravam claramente uma ameaça direta e grave, disse ele. “Eu poderia corroborar muitas das informações analisando os arquivos OR [Operation Research] existentes e os acervos da RCMP”, ele disse na audiência em 3 de novembro. “Recebi uma advertência estrita para não compartilhar as informações com ninguém”, ele acrescentou. Nenhuma base para alegações A Tuta, anteriormente conhecida como Tutanota, disse que não havia base para as alegações da Ortis. A empresa disse que todo o seu código-fonte é publicado no GitHub e pode ser revisado por pares para garantir que não haja backdoors ocultos na criptografia de ponta a ponta da Tuta. De acordo com o relatório de transparência da Tuta, a empresa responde apenas a ordens judiciais emitidas por tribunais alemães. Ela publica um “warrant canary” confirmando que seus serviços não foram submetidos a uma ordem da Agência de Segurança Nacional dos EUA e que sua criptografia não foi sujeita a nenhum backdoor. Tuta recebeu ordens de tribunais alemães para entregar dados de inventário, que podem incluir dados bancários, dados de cartão de crédito e nomes de usuário do PayPal, e metadados em tempo real, que podem incluir os endereços de e-mail do remetente e do destinatário dos e-mails, e o horário em que as mensagens foram enviadas, mas não o conteúdo. O serviço de e-mail também foi ordenado a divulgar e-mails criptografados, no entanto Tuta ressalta que não tem acesso às chaves de descriptografia e não pode entregar mensagens descriptografadas. A chave é criptografada com a senha do usuário. Nunca sabemos a senha, pois apenas um hash da senha é transmitido ao servidor. Portanto, não podemos saber a chave de descriptografia , disse a porta-voz da Tuta, Hanna Bozakov. Phantom Secure Os promotores alegam que Ortis usou sua posição em uma unidade secreta dentro da RCMP para tentar vender inteligência coletada pelo Canadá e pelos Five Eyes para pessoas ligadas ao crime organizado. Ortis foi acusado de compartilhar informações com Vincent Ramos, o CEO da Phantom Secure, uma empresa canadense que fabricava telefones BlackBerry criptografados para uso por criminosos. As agências policiais canadenses, australianas e norte-americanas derrubaram a Phantom Secure em uma operação conjunta em março de 2018. Ramos se declarou culpado de extorsão e foi condenado a nove anos. A RCMP prendeu Ortis em setembro de 2019, quando ele foi acusado de sete acusações sob a Lei de Segurança da Informação (SOIA) e o código penal. As acusações, que Ortis negou, incluíam comunicação não autorizada de informações operacionais especiais, em violação da SOIA, e atos preparatórios, que incluíam aqueles para comunicações ilegais e não autorizadas de informações protegidas. Ortis também foi acusado de quebra de confiança por um funcionário público e uso não autorizado de um computador sob o Código Penal Canadense. Enviar feedback"
+                },
+                {
+                    "id": 13,
+                    "message": "Não confie em VPNs de terceiros. Crie a sua própria usando OpenVPN. Navegadores? Tor browser configurado com safest. Não esqueça de desligar o javascript e webRTC para evitar rastreamento e vazamento do IP real. SO? Qualquer distro Linux com boas práticas de segurança como atualizações, fogoparede configurado, etc. Mas se você é autista; Qubes, Whonix ou Tails. O Whonix é máquina virtual e Tails livedistro. Tem o OpenBSD que é baseado no Unix. E evite adicionar muitas extensões no seu navegador para evitar uma fingerprint unica. O ideal é ser mais um grão de areia."
+                },
+                {
+                    "id": 15,
+                    "message": "Meusa migos... o único provedor seguro é o Mail2tor."
+                },
+                {
+                    "id": 17,
+                    "message": "Não existe provedor de email seguro, 99% são cooptados por serviços de inteligência para espionagem, e, não tem como confiar nos 1%, pois você não sabe se eles realmente são bons ou não, ou seja, uma caixa de pandora que eu não ousaria tentar abrir. Sinceramente, eu só TENTARIA confiar em provedores de emails presentes em redes alternativas a internet convencional como a Yggdrasil Network e o Invisible Internet Project (I2P). Fora que emails já estão ultrapassados, o certo mesmo é utilizar mensageiros criptografados de ponta a ponta como o tox.chat e o simplex.chat."
+                },
+                {
+                    "id": 33,
+                    "message": "Resume essa porra aí, irmão."
+                },
+                {
+                    "id": 34,
+                    "message": "OPSec pra quê? OPSec pra um estelionatário vai ser uma questão muito mais complicada do que para um anão médio. Dito isso, o ideal para acessar o chan com segurança é a partir do Tor com JavaScript desabilitado como eu estou acessando agora. Não usar o PDF Viewer do Firefox nem assistir vídeos a partir do navegador, só em um player como o MPV em um container sem acesso a Internet criado com o firejail, por exemplo. No máximo usar o Whonix em um hospedeiro mínimo como o AntiX/MX Linux e usar o KeePassXC pra guardar a senha do seu usuário aqui e usar 2FA nativo do KeePassXC. Also, já está na hora do admin limpar a feature de limpar o nome dos arquivos. Todas as outras questões são descartáveis. Seu fio foi muito generalista."
+                },
+                {
+                    "id": 35,
+                    "message": "chatgpt.com iask.ai"
+                },
+                {
+                    "id": 36,
+                    "message": "Dito isso, o ideal para acessar o chan com segurança é a partir do Tor com JavaScript desabilitado como eu estou acessando agora. Não faz sentido acessar esse chan pelo Tor. O servidor está hospedado fora da rede tor. Usando DNS privado e HTTPS, seu ISP não sabe nem o que está acessando nem o que está transferindo. Entretanto, os administradores do servidor sabem seu IP. Se não confiar nos administradores do recinto, use uma VPN então transferirá sua confiança para os administradores da VPN. O cantou a letra do selfhost. Estou com um SFF baseadinho aqui aguardando um SSD e fonte novos para começar minha jornada. Não usar o PDF Viewer do Firefox nem assistir vídeos a partir do navegador, só em um player como o MPV em um container sem acesso a Internet criado com o firejail, por exemplo. Isso aí já é OPsec de pedoleiro maluco. No máximo usar o Whonix em um hospedeiro mínimo como o AntiX/MX Linux OPsec de maluco. Por que hospedeiro mínimo? Virtualiza o Whonix de qualquer distro decente que já é sucesso. usar o KeePassXC pra guardar a senha do seu usuário aqui e usar 2FA nativo do KeePassXC Pra quê 2FA quando pode simplesmente memorizar uma senha mestra de uns 50 caracteres?"
+                },
+                {
+                    "id": 37,
+                    "message": "dito isso, o ideal para acessar o chan com segurança é a partir do Tor com JavaScript desabilitado como eu estou acessando agora Única parte que concordei. Não precisa ser obcecado por segurança, só o TOR browser com JS desligado faz a bostíca bostileira chorar."
+                },
+                {
+                    "id": 38,
+                    "message": "Imagina só confiar num admin que entregaria seu IP só pra se safar numa investigação policial. São os dois patetas, o Zanon e o Cirnomod, uma bicha histérica que bania qualquer animefag da Caravela por nada, ain o VHSchan não sei o quê lá e outra bicha histérica que attwhorava em warning e foi chorar no 27chan depois de ser chutado, persona non grata. Ainda apagaram a minha imagem de uma menininha chupando um pirulito por nada, parece que importaram o retardo da Caravela, tem medo de criança."
+                },
+                {
+                    "id": 39,
+                    "message": "ublock origin no navegador do computador, este sendo librewolf ou brave Usem o Mullvad Browser, não instalem extensões, não maximizem a tela e não usem nenhuma informação pessoal nesse browser. É tudo o que você precisa. Se você fizer isso, seu fingerprint ficará quase idêntico a todos usuários do Mullvad Browser, deixando você menos dificil de rastrear. Não esqueçam de usar a Mullvad VPN também. Leiam: mullvad.net/en/browser/hard-facts Para mais artigos sobre esse browser: mullvad.net/en/browser"
+                },
+                {
+                    "id": 40,
+                    "message": "Só postar por trás de uma VPN no-logs ou TOR browser com JS desligado."
+                },
+                {
+                    "id": 41,
+                    "message": "É claro que você usurá o Mullvad Browser e VPN apenas para chans e sites que você precisa de segurança mas não aceitam Tor. Agora, se você quer um Browser para checar o seu e-mail, trabalhar e conversar com familiares, utilize um Brave com sua conexão real."
+                },
+                {
+                    "id": 42,
+                    "message": "se você quer um Browser para checar o seu e-mail, trabalhar e conversar com familiares, utilize um Brave com sua conexão real Melhor o Chromium."
+                },
+                {
+                    "id": 46,
+                    "message": "Brave usa engine do google e vazava dns tempos atrás, quem confiaria nisso?"
+                },
+                {
+                    "id": 52,
+                    "message": "Nunca ouviram falar do Thunderbird?"
+                },
+                {
+                    "id": 69,
+                    "message": "open source E você por algum acaso compila a source do seu Windscribe ou baixa o executável diretamente do site deles? Hue. Além disso, você ainda vai estar se conectando nos servidores DELES, qual é a porra do sentido?"
+                },
+                {
+                    "id": 150,
+                    "message": "O ProtonVPN é open-source e não coleta nem entrega dados."
+                },
+                {
+                    "id": 151,
+                    "message": "O client, o server é closed source."
+                }
+            ]
+        },
+        {
+            "id": 93,
+            "replies": [
+                {
+                    "id": 93,
+                    "message": "Anões do /opsec/, qual a melhor VPN para usar? Durante a semana, pela manhã, estou na universidade e, no meu tempo livre, gosto de lurkar no Caravela. Infelizmente, alguém passou o meu IP do 4g. Uso o ProtonVPN no esperto, mas é preciso ter uma paciência enorme para encontrar um IP que não tenha sido queimado. Além disso, se você ficar trocando de conexões por muito tempo no Proton, chega uma hora em que aparece um timer, e você tem que esperar de 3 a 20 minutos por uma nova conexão. Existe alguma VPN que tenha um número maior de conexões ou que não tenha essa limitação de tempo?"
+                },
+                {
+                    "id": 94,
+                    "message": "Qualquer uma daquelas Brazil VPN ou outras fajutas gratuitas tem bons IPs pra postar, vivo usando lá. Não são confiáveis, mas funcionam para o chan."
+                },
+                {
+                    "id": 96,
+                    "message": "Esse que é o problema, vocês falam as VPNs e essas VPNs vão ser rapidamente queimadas porque um paneleiro usou pra fazer merda e postar CP. Infelizmente não dá pra dizer quais VPNs dá pra usar em qualquer chan, tem que tratar essa merda como um segredo de família, ainda mais ser for IP desconhecido."
+                },
+                {
+                    "id": 97,
+                    "message": "É que realmente eu pego qualquer aleatória na Play Store e testo. Agora, das pagas, a NordVPN tinha muito IP funcionando na caravela. Já não sei hoje em dia."
+                },
+                {
+                    "id": 103,
+                    "message": "A MullvadVPN é bem conhecida por não registrar logs, e eles deixam isso claro na política de privacidade. Até agora, não houve relatos de usuários que tiveram problemas por usarem o serviço. A ProtonVPN também é uma boa opção e garante que não armazena logs, mas muitas pessoas confundem o serviço de VPN com o de e-mail que eles oferecem. Quando comparamos os relatórios de transparência de ambas, a situação é a seguinte: O ProtonMail, por exemplo, revela quantas ordens legais recebeu ao longo dos anos. Eles tiveram 6.378 ordens, das quais 5.971 foram cumpridas e 407 contestadas. Isso significa que a maioria foi atendida, mas uma parte considerável foi questionada. Já no caso do ProtonVPN, eles têm um relatório que mostra as solicitações legais que receberam, e esse relatório é atualizado sempre que surge um pedido relevante. Apenas ordens de tribunais suíços são válidas para eles, e o ProtonVPN não armazena logs, então não pode atender a pedidos de identificação de usuários. A lei suíça também garante que, se houver uma solicitação, o usuário é notificado e pode contestar. Em 2024, o ProtonVPN recebeu 27 ordens, todas negadas. Em 2023, foram 60 ordens, que também foram rejeitadas. Essas solicitações buscavam identificar usuários por IPs e horários, mas o ProtonVPN não consegue fazer isso."
+                }
+            ]
+        },
+        {
+            "id": 92,
+            "replies": [
+                {
+                    "id": 92,
+                    "message": "Anons do /opsec/ o que é NMAP de fato? O que é possível fazer com NMAP? É possivel rodar NMAP no Android através do Termux? Se sim, o processo de instalação e a interface é a mesma? Eu consigo descobrir quem está logado na minha internet?"
+                },
+                {
+                    "id": 95,
+                    "message": "NMAP é um programinha para escanear redes, encontrar portas abertas em máquinas e derivados. Tem como instalar NMP no Termux, mas para todas as funcionalidades, você precisa ter o celular rooteado, pois o fakeroot não funciona direito."
+                },
+                {
+                    "id": 98,
+                    "message": "Posso descobrir quem está logado na minha rede?"
+                },
+                {
+                    "id": 99,
+                    "message": "Imagino que você seja um estudante. Nmap rastreia uma rede e vê quais são as portas que respondem a conexão. Por exemplo: quero saber quais são os IPs da range entre 192.168.0.0 até 192.168.0.255 que tem um site aberto? Um site é porta 80 ou 443, então é só usar o comando: [code] $ nmap -p 80,443 192.168.0.0/24 # o /24 é o CIDR da range que eu falei acima, estude sobre essa notação [/code] Também tem outras coisas que você pode fazer, como rastrear UDP e até alguns scripts em lua. Se você quis dizer em ver quem tá no teu wifi, sim."
+                },
+                {
+                    "id": 100,
+                    "message": "Obrigado, anão. Irei estudar sobre ela. Sobre ver quem está no meu wi-fi, você poderia me ensinar ou me passar o link de algum blog/vídeo que explique?"
+                },
+                {
+                    "id": 102,
+                    "message": "/24 [/code] Você pode encontrar sua máscara com [code] ip addr [/code]"
+                }
+            ]
+        },
+        {
+            "id": 84,
+            "replies": [
+                {
+                    "id": 84,
+                    "message": "Anões do /opsec/ e oldfags do chan, como descobrir se uma imagem está batizada e como desbatizar ela? Isso é possível ou eu preciso abrir o arquivo e apagar o Código Postal manualmente?"
+                },
+                {
+                    "id": 85,
+                    "message": "É a segunda vez que fazem essa pergunta. Imagemagick converte e remove o batismo caso tenha."
+                },
+                {
+                    "id": 86,
+                    "message": "Algum camarada sabe como faz para ter acesso ao que está dentro da imagem?"
+                },
+                {
+                    "id": 87,
+                    "message": "Eu uso o"
+                },
+                {
+                    "id": 88,
+                    "message": "Obrigado, camarada."
+                }
+            ]
+        },
+        {
+            "id": 70,
+            "replies": [
+                {
+                    "id": 70,
+                    "message": "''Silk Guardian'' is an anti-forensic LKM kill-switch that waits for a change on your usb ports then deletes precious files and turns off your computer. Inspired by [usbkill]( I remade this project as a Linux kernel driver for fun and to learn. Many people have contributed since, and I thank them. Why? There are 3 reasons (maybe more?) to use this tool: In case the police or other thugs come busting in. The police commonly uses a [« mouse jiggler »]( to keep the screensaver and sleep mode from activating. You don't want someone retrieve documents from your computer via USB or install malware or backdoors. You want to improve the security of your (Full Disk Encrypted) home or corporate server (e.g. Your Raspberry)."
+                },
+                {
+                    "id": 71,
+                    "message": "Não é perigoso usar isso aí? O PC nem ao menos vai desligar instantaneamente. MicroSD na boca e mastigar parece ser deveras mais seguro."
+                },
+                {
+                    "id": 72,
+                    "message": "Claro que é, OP é um vendedor ou bot."
+                }
+            ]
+        },
+        {
+            "id": 57,
+            "replies": [
+                {
+                    "id": 57,
+                    "message": "Todos nós usamos criptografia todos os dias, seja para acessar sites em HTTPS, conectar na sua rede WiFi ou fazer login naquele site vagabundo da sua faculdade/trabalho. Acredito que é frutífero entender o básico da criptografia, já que isto é tão presente no nosso dia a dia, além de ser muito útil no ramo da OPSEC. Deixarei aqui alguns recursos sobre criptografia que acho interessantes e espero que esse fio seja usado para discussões sobre esse tópico, projetos envolvendo criptografia e qualquer dúvida relacionada. documentação Uma introdução sobre criptografia moderna feita no site da Kaspersky: Página da Wikipédia sobre criptografia: Especificação de algoritmos e métodos de criptografia: Jogue no Google/search engine da sua escolha algo como [nome do algoritmo/método] specification. prática Cryptopals tem alguns desafios envolvendo criptografia que são bem divertidos e informativos: CryptoHack é uma plataforma mais gameficada (que palavra horrível) de CTFs focados em criptografia: A universidade de Southampton tem um site destinado a desafios envolvendo criptografia. Não tem tanta coisa moderna mas é bem divertido: Por enquanto é isso."
+                },
+                {
+                    "id": 64,
+                    "message": "Colocando na watchlist para ler mais tarde."
+                },
+                {
+                    "id": 65,
+                    "message": "Para os anões que querem entender como que essas criptografias funcionam, recomendo estudarem Teoria dos Grupos. É praticamente a parte mais fundamental de todas as criptografias, sem teoria dos grupos você não tem criptografia."
+                },
+                {
+                    "id": 68,
+                    "message": "Nunca mergulhei muito fundo na parte matemática da criptografia, gostaria de começar. Pode compartilhar algum recurso sobre teoria dos grupos que seja mais focado em ser uma introdução à criptografia?"
+                }
+            ]
+        },
+        {
+            "id": 47,
+            "replies": [
+                {
+                    "id": 47,
+                    "message": "NordVPN é a melhor VPN existente e não há absolutamente nada que você fale que irá mudar este fato. protocolo IKEv2/IPsec na NordVPN, ou seja, conexão rápida como a foda e vai otimiza o handshaking. tem uma tecnologia de dupla VPN, ou seja, ele vai encapsular os pacotes de dados em dois níveis de criptografia que é o AES-256-GCM, que pelo NIST, é um dos algoritmos mais seguros existentes. tem um recurso da CyberSec que tem uma lista de bloqueio dinâmico e algoritmos heurísticos que vai mitigar qualquer tipo de tráfego malicioso, ou seja, vai previnir qualquer tipo de maneira de você ser grabbado/phishado estruturas de servidores espalhados por todo o mundo Literalmente a melhor VPN existente."
+                },
+                {
+                    "id": 48,
+                    "message": "IPsec em fodendo 2024 PUTA QUE PARIU!"
+                },
+                {
+                    "id": 49,
+                    "message": "Sério?"
+                },
+                {
+                    "id": 50,
+                    "message": "Não adianta nada se você precisa entregar os seus dados para ter uma conta e se eles vão entregar os seus dados e os logs quando o governo pedir."
+                },
+                {
+                    "id": 51,
+                    "message": "faz o verdetexto mal como a foda acha que a vpn ser cheia de bloqueios é bom acha que uma vpn kyc é a melhor que existe Para o lixo vai."
+                },
+                {
+                    "id": 53,
+                    "message": "dando sage como deslike Volte para o reddit."
+                },
+                {
+                    "id": 54,
+                    "message": "Que dados que você precisa entregar para usar a VPN? Você deve ser imbecil. De qualquer forma, estou analisando os pontos técnicos da VPN e não os termos de privacidade dela."
+                },
+                {
+                    "id": 56,
+                    "message": "Ainda acho que uma VPN configurada por você mesmo (usando Wireguard ou OpenVPN) numa VPS é melhor do ponto de vista de privacidade."
+                },
+                {
+                    "id": 58,
+                    "message": "Por quê?"
+                },
+                {
+                    "id": 59,
+                    "message": "Pelo simples fato de não ter ninguém além de você controlando suas chaves privadas, logs e servidor. É claro que o provedor da VPS pode sempre fuçar nas suas coisas, mas é muito mais simples resolver esse problema usando criptografia. Um provedor de VPN limita muito seu controle sobre sua conexão, apesar de prover muitas facilidades como poder trocar de localidade rapidamente, não precisar configurar o serviço manualmente, etc."
+                },
+                {
+                    "id": 60,
+                    "message": "Sabe ler?"
+                },
+                {
+                    "id": 61,
+                    "message": "não sabe nem quotar recomenda VPN com KYC Kek."
+                },
+                {
+                    "id": 62,
+                    "message": "NORDVPN KEEEEEEEEEEEEEEEEEK!"
+                },
+                {
+                    "id": 63,
+                    "message": "Não entendi, por muito tempo consideravam uma das melhores inclusive contra governos."
+                },
+                {
+                    "id": 66,
+                    "message": "Serviços de internet sempre começam perfeitos e depois vão se degenerando. Até o YouTube já foi legal uma vez."
+                },
+                {
+                    "id": 67,
+                    "message": "chan novo shillando essa merda Valeu, pereira."
+                }
+            ]
+        }
+    ]
+}

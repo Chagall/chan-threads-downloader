@@ -1,0 +1,42 @@
+{
+    "_id": "maneirinho",
+    "name": "Maneirinho",
+    "description": "Homenagem ao Maneirinho de Pablo",
+    "threads": [
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "REGRAS: 1-SIGA AS REGRAS GLOBAIS2-PODE SER PANELEIRO3-VIVA PABLO!"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "replies": [
+                {
+                    "id": 6,
+                    "message": "Testw"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "replies": [
+                {
+                    "id": 3,
+                    "message": "Qual é o objetivo dessa board?"
+                },
+                {
+                    "id": 4,
+                    "message": "Homenagear o pablo e o 84chan!"
+                },
+                {
+                    "id": 5,
+                    "message": "Sua board é inútil."
+                }
+            ]
+        }
+    ]
+}

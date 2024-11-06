@@ -1,0 +1,89 @@
+{
+    "_id": "prod",
+    "name": "Muzicinhas",
+    "description": "Board sobre produção musical",
+    "threads": [
+        {
+            "id": 2,
+            "replies": [
+                {
+                    "id": 2,
+                    "message": "SUNVOX FIO! Concentrem todas as informações sobre esse caralhudo aqui."
+                },
+                {
+                    "id": 3,
+                    "message": "Do que se trata isso aí, OP? É um Fruity Loops de balãozinho?"
+                },
+                {
+                    "id": 4,
+                    "message": "Essencialmente, e é de graça e pesa menos de 30MB."
+                },
+                {
+                    "id": 7,
+                    "message": "É difícil de um leigo brincar nisso e fazer algo?"
+                },
+                {
+                    "id": 9,
+                    "message": "Anão, não tem pessoa mais leiga em fazer música que eu aqui, e eu escolhi o sunvox justamente porque eu achei ele mais fácil que o FL studio."
+                },
+                {
+                    "id": 10,
+                    "message": "Interessante, não sei como é a dinâmica do programa mas irei testar, eu autistava muito no Fruity Loops e achava divertido."
+                },
+                {
+                    "id": 20,
+                    "message": "maefodendo Windows CE Que programa caralhudo."
+                },
+                {
+                    "id": 21,
+                    "message": "As duas musicas que eu postei no e foram feitas no sunvox, e ainda tem muita gente que faz uma espécie de sintetizador com ele usando o raspberry pi. E gente muito mais talentosa que eu consegue fazer uma tonelada de coisas só com o básico que tem no sunvox, dá pra fazer muita merda com esse caralhudinho."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "replies": [
+                {
+                    "id": 5,
+                    "message": "Postem suas próprias músicas em formato MP3"
+                },
+                {
+                    "id": 6,
+                    "message": "Onde você produz as músicas, anão?"
+                },
+                {
+                    "id": 8,
+                    "message": "Fiquem com esse breakcore que eu havia feito há um tempo."
+                },
+                {
+                    "id": 11,
+                    "message": "FL Studio, as ferramentas não importam mas sim como você as usa."
+                },
+                {
+                    "id": 12,
+                    "message": "Justo, mas eu não entendo porra nenhuma de Repetições Frutosas. Só consegui fazer uma música phonk seguindo um tutorial do YouTube."
+                },
+                {
+                    "id": 13,
+                    "message": "Patrício, ótima música."
+                },
+                {
+                    "id": 14,
+                    "message": "Obrigado, anão. Fique com essa também."
+                },
+                {
+                    "id": 15,
+                    "message": "Bump para escutar."
+                },
+                {
+                    "id": 16,
+                    "message": "Gostei! Essa música é boa!"
+                },
+                {
+                    "id": 19,
+                    "message": "Quero produzir uma música, acho que vou testar aquele Sunvox que o anão postou."
+                }
+            ]
+        }
+    ]
+}

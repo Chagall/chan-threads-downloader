@@ -1,0 +1,1279 @@
+{
+    "_id": "sc",
+    "name": "Sala de Controle",
+    "description": "Board de moderação e melhorias relacionadas ao chan.",
+    "threads": [
+        {
+            "id": 314,
+            "replies": [
+                {
+                    "id": 314,
+                    "message": "EDIT: ACESSO PELO TOR LIBERADO , porém está sendo bloqueado a postagem por Tor via DNSBL. Infelizmente não posso permitir apenas postagens sem imagens por enquanto, vou trabalhar pra fazer a configuração global quando eu puder.Estarei dando rangeban à todos os postadores da rede Tor no chan, porém ainda permitirei o uso de VPNs e proxies. O motivo é simples: estava tomando muita raid de CP. Por questões de agir rápido, eu apenas bloqueei os IPs de acessarem nas configurações do nginx mas estou trabalhando para remover isso, ainda quero permitir que usuários do Tor ainda tenham acesso ao chan, só não quero que eles **postem**.Eu entendo que a maioria dos anões não querem que eu tenha acesso aos seus IPs e acho um motivo válido, visto as coisas que vem acontecido no Brasil e também porque faz umas boas décadas que **anão não é mais irmão** e vocês não confiam em mim, mas infelizmente existem usuários que não sabem se comportar direito.Também sobre os paneleiros que querem fazer merda, não vou mais expor os IPs de anões que querem estragar o recinto de alguma forma porém ainda continuarei catalogando-os caso façam merda.E um adendo para os anões sobre os IPs: sim, o chan salva os IPs puros no servidor e quero deixar isso bem claro, porém moderadores e global staffs não tem acesso aos IPs, somente eu que tenho acesso aos IPs, o que os moderadores veem são uma hash dos IPs com uma salt."
+                },
+                {
+                    "id": 315,
+                    "message": "Ninguém vai pisar na tua favela só porque você demorou 7 (sete) minutos pra tirar o CP do ar, cabrunco velho."
+                },
+                {
+                    "id": 316,
+                    "message": "Zanon, o único meio que eu achei para permitir Tor e evitar CP no jschan é permitir postagens e criação de fios apenas logado. Isso permite que o registro seja travado em ataques, inutilizando a raid na hora. Se Tor for uma coisa importante, mesmo com suas vulnerabilidades, devido ao estado político que andam as coisas, essa pode ser uma alternativa. Sempre usei VPN, então para mim não fez tanta falta."
+                },
+                {
+                    "id": 318,
+                    "message": "Faltou clarificar que pode ser configurado para apenas postagens com Tor pedirem login. Já programei isso uma vez em um fork, só não enviei nenhuma alteração para o projeto."
+                },
+                {
+                    "id": 319,
+                    "message": "Boa. Ensine esse porra a programar."
+                },
+                {
+                    "id": 320,
+                    "message": "Me passa o diff, se puder. Ainda tenho que montar o ambiente de dev aqui pra eu não testar em produção."
+                },
+                {
+                    "id": 332,
+                    "message": "Zanon, você poderia só proibir postagem de imagens por anonimizadores, isso é uma feature nativa do JSchan e foi a solução encontrada pela STAFF do rchan quando estavam raidando lá. Muita gente usa Tor pra postar, isso foi uma puta cagada, ainda mais com sua política de manter logs. Você vai ver como isso tudo só vai cércea a experiência do usuário que logo logo vai ter que postar de IP pelado como no TCHAN e ainda ter o IP exposto como você já fez. Aí fica foda."
+                },
+                {
+                    "id": 334,
+                    "message": "Infelizmente eu não posso fazer isso porque essa configuração é por board e não tem nenhuma configuração global para isso.Porém eu vi que tinha configuração para usar o DNSBL, então eu estou usando. Acesso pelo Tor liberado , porém ainda sem postagens."
+                },
+                {
+                    "id": 343,
+                    "message": "O que você pode fazer é o seguinte: Criar um hidden service, bloquear todos os uploads de imagens/vídeos a partir dele direto no nginx. Desta forma ficam permitidas apenas as postagens de texto feitas no hidden service, proibida por completo a postagem via Tor no endereço da clearnet, e ainda não precisa mexer na configuração de DNSBL (ou pode até deixar mais forte, na verdade), nem forkar o código como sugeriram. Outro benefício é que tem como bloquear todas as postagens do hidden service rapidamente nas configurações de board caso aconteça alguma raid só de texto (acho que tem na configuração global também) e, ao contrário do acesso clearnet+DNSBL, não tem como burlar, o servidor sempre vai identificar que determinado usuário está acessando pelo endereço onion."
+                },
+                {
+                    "id": 346,
+                    "message": "Faz sentido o motivo do banimento, envolvendo o Tor, espero que você organize as coisas um pouco melhor do que já é."
+                }
+            ]
+        },
+        {
+            "id": 348,
+            "replies": [
+                {
+                    "id": 348,
+                    "message": "Mensagem ao dono da board /dogola/. Eu havia até pensado em deixar a board fluir mas por mas por informações que eu recebi sobre a movimentação contra os chans, decidi fechar a board por questões de segurança. Sua conta será mantida e você poderá fazer board de outros temas."
+                },
+                {
+                    "id": 351,
+                    "message": "Okay."
+                }
+            ]
+        },
+        {
+            "id": 344,
+            "replies": [
+                {
+                    "id": 344,
+                    "message": "Sou administrador da board /dogola/ Minhas credenciais não estão funcionando. No momento da criação da conta, anotei meu login e senha, mas não estou conseguindo acessá-los. Requesto que, por favor, sejam deletados tanto a board quanto a conta goec . Pretendo recriar uma nova conta e uma nova board."
+                },
+                {
+                    "id": 345,
+                    "message": "Ambos deletados."
+                },
+                {
+                    "id": 347,
+                    "message": "Obrigado. Amanhã vou recriar a conta e a board."
+                }
+            ]
+        },
+        {
+            "id": 340,
+            "replies": [
+                {
+                    "id": 340,
+                    "message": "Por que incluir VPNs na blacklist? Daqui a pouco, isso aqui vai virar um Tchan com JS."
+                },
+                {
+                    "id": 341,
+                    "message": "Tinha botado uns outros servers de dnsbl porque tava tendo alguns exit nodes que o chan não tava pegando. Removi eles agora."
+                }
+            ]
+        },
+        {
+            "id": 115,
+            "replies": [
+                {
+                    "id": 115,
+                    "message": "Discussão sobre as regras do chan. O ponto principal aqui é a ilegalidade , a regra 1, e a sua interação com os dogoleiros. A regra 1 significa todo e qualquer tipo de ilegalidade, não apenas sexualização de menores mas qualquer porra que possa atrelar o chan à crimes (com exceção de crimes de opinião ), por exemplo, agora apareceu gente tentando passar sites de venda de drogas pelo cebolão, no qual eu bani. O cebolão em si não é crime, e eu não me importo com gente usando cebola e VPN, e também há muita coisa útil no Tor, assim como no Yggdrasil, I2P, Lokinet e outras redes mesh que possam a vir a surgir. Jorgismo, pelo que eu entendo, não é crime, é só gente falando merda e fazendo bravata com coisa estúpida, mas ameaças, personificação e deep fakes podem dar merda no chan, e é o que os dogoleiros vem feito à rodo, e é por isso que venho fazer esse post aqui. Eu estou prestes a começar banir os dogoleiros também, não pelo jorgismo mas por essas coisas duvidosas que possam vir a ser considerados como atrelamento, mas o que vocês acham sobre isso?"
+                },
+                {
+                    "id": 119,
+                    "message": "Moldagem de conteúdo. Deixa eles postarem algo ilegal, dai bane, deleta e reporta pro pereira."
+                },
+                {
+                    "id": 120,
+                    "message": "Escrevendo aqui, logo envio."
+                },
+                {
+                    "id": 121,
+                    "message": "Tomar esse tipo de cuidado só é realmente importante caso você ache que sua opsec não será suficiente para lidar com as consequências que ser o dono/admin de um IB pode trazer. Normalmente os problemas não envolvem polícia, apenas nos casos mais extremos. De resto, você precisa levar em consideração o que a userbase do chan pensa a respeito disso. Por mim, zero fodas dadas as tentativas de atrelagem dos dogoleiros com qualquer infeliz que seja, você só precisa tomar cuidado com (((café pilão))) que eles podem começar a enviar."
+                },
+                {
+                    "id": 122,
+                    "message": "Eu acho que tem que banir os dogoleiros, eles sujam a imagem do chan e a vontade é pegar a foda fora quando vejo diversos dogoleiros no chan."
+                },
+                {
+                    "id": 123,
+                    "message": "Secundo. Qualquer coisa além disso pode acabar colocando o chan totalmente na mira, o que sempre acaba em feijoada para eles e ruína para o recinto afetado."
+                },
+                {
+                    "id": 124,
+                    "message": "Supunhetamos que o bostilchan é uma empresa japonesa, a nossa startup pequenina que mal começou no mercado e está sofrendo esses dilemas. Não temos muito fluxo de caixa, advogado conhecemos apenas um fulano por indicação e ainda estamos em fase de sentir o mercado. O que um peixe pequeno faz para não ser engolido? Segue as regras. Nossas regras atuais, são as japonesas e como no Brasil, onde os únicos que podem relativizar as leis são os que estão em posições privilegiadas, no Japão a coisa funciona parecida, vide Yakuza. Como não possuímos padrinhos, somos apenas colegiais fudidos da universidade, fazendo um projeto entre amigos que possuem famílias de língua portuguesa, não queremos problema. Sendo assim, nos amparamos na lei japonesa. Seguindo os casos que já ocorreram por aqui, aplicamos o que está no Código Penal Japonês. Primeiro caso: Doxxing no /kapote/ - Artigo 230 e 231 do Código Penal Japonês, sobre calúnia e difamação, além da Act on the Protection of Personal Information (APPI), que é o equivalente funcional da LGPD brasileira. Segundo caso: Ameaças de morte e estupro no /b/ - Artigos 222, 223 que pune pessoa que ameaça outra com violência ou dano à vida. Terceiro caso - Sexualização de menores: Artigo 7 e 32, que tratam de proibir a produção, distribuição e posse de pornografia infantil, além de proteger crianças contra abusos sexuais e exploração, incluindo disposições que proíbem o aliciamento de menores para fins sexuais, respectivamente. Quarto caso - Venda de drogas: Artigo 4 e 5 da Lei de Controle de Narcóticos. Acho que tudo que fere esses artigos é passível de punição global. Alguém discorda?"
+                },
+                {
+                    "id": 125,
+                    "message": "BANA!BANA TODOS! Esses macacos não têm nada de bom a oferecer. Tem que matar o mal antes que ele crie raízes. Se você tocar o foda-se, esse aqui vai ser só mais um 84, e não queremos isso. Eu não quero, pelo menos."
+                },
+                {
+                    "id": 126,
+                    "message": "Secundo o anão espertão."
+                },
+                {
+                    "id": 127,
+                    "message": "O problema é banir, essas pragas sempre voltam. Falo por experiência própria. A solução é ter uma moderação pesada e ativa, sem dar bobeira."
+                },
+                {
+                    "id": 128,
+                    "message": "É possível fechar o cerco conforme a disposição dos BOs, desde soluções mais simples, como descentralização e vigilância, até votekick entre BOs e boards que permitem apenas anões com conta postarem. Tudo é possível, basta sentir o que será suficiente para desmotivar as crianças."
+                },
+                {
+                    "id": 129,
+                    "message": "Complementando, votekick se trata de democracia entre BOs com um mínimo de tempo e atividade e boards login-only uma solução facilmente implementável no backend do jschan (olhei o código fonte e vi que é muito fácil)."
+                },
+                {
+                    "id": 130,
+                    "message": "Disso tudo que você falou o que vai pegar é o segundo ponto, que eles sempre ficam bem no meio entre fazer bravata e fazer ameaça, e eu não quero adotar a política de dar default pra ban nesses casos porque é sempre assim que uma moderação começa a fazer merda. Quero ter regras que atendam os usuários do bostil mas também regras que não permitam futuros global staff (mods) de fazer merda e feijoar pra eles, como o que acontece no caravela, um mod fazendo merda tem que ficar bem claro que ele tá fazendo merda e só dá pra fazer isso com regras claras e punição concisa. Tem algumas coisas que eu estou aprendendo do jschan. Tem uns 3 global staff hoje e 1 agora ficou fora por um tempo, não sei quantos exatamente vou precisar pra monitorar tudo, então vou ter que jogar um pouco de trabalho pra cima dos BOs também. Me desculpem por isso."
+                },
+                {
+                    "id": 131,
+                    "message": "Segundo. Os dogoleiros atraem jornalistas, escória e paneleiros. Tem que banir."
+                },
+                {
+                    "id": 132,
+                    "message": "Não se sinta mal por dar mais autonomia aos BOs, eu acho que é um ponto positivo principalmente para não sobrecarregar a staff global."
+                },
+                {
+                    "id": 133,
+                    "message": "muh imagem Porra, chan costumava ser a máquina de ódio da internet. Anão era legião. E você ai se preocupando com imagem?"
+                },
+                {
+                    "id": 134,
+                    "message": "Also, quando moderadores são BOs e não apenas moderadores, o cu deles tá na reta. Não é apenas um cargo, é uma board inteira que é responsabilidade deles."
+                },
+                {
+                    "id": 135,
+                    "message": "Chan é anti-sistema, tá para nascer algo mais sistema do que sair ameaçando e atrelando os outros, imitando o cancelamento que pessoas do governo fazem."
+                },
+                {
+                    "id": 136,
+                    "message": "Andou lendo a Wikinet, newfag?"
+                },
+                {
+                    "id": 137,
+                    "message": "É engraçado eles não entendendo de onde veio máquina de ódio da internet e Anão é legião ."
+                },
+                {
+                    "id": 138,
+                    "message": "Se você gosta de gente tipo a porca chamando atenção para o recinto, o que só aumenta os paneleiros e jorgismos. Não tenho problema com ódio , só não quero jorges forçando umor nego mêo como se postar link do cebola e falar que vai estuprar judeu fosse a coisa mais engraçada do mundo."
+                },
+                {
+                    "id": 139,
+                    "message": "Hide existe pra isso. Uso chans antes desses memes existirem. Tome seus remédios."
+                },
+                {
+                    "id": 140,
+                    "message": "tome seus remédios Se você queria convencer alguém, agora você ferrou tudo."
+                },
+                {
+                    "id": 141,
+                    "message": "hide existe pra isso Você é burro ou se faz? Dogoleiros atraem jornalistas. Por que não cria o seu próprio chan onde dogoleiros são permitidos?"
+                },
+                {
+                    "id": 142,
+                    "message": "Só quero um lugar comfy para interagir, rir e talvez ajudar em algum projeto, anão é para ser irmão. E hide resolve o problema? O fio já vai ter me incomodado e vai estar no caminho de outros anões acharem um bom fio para interagir. Hide só funciona até certo nível, quando é panelagem e forçação tem que chutar para fora mesmo. Quer que o recinto feche ou seja tomado por spam, pizza de queijo e paneleiros? Entendo que o Santificado queira manter a liberdade no máximo e as regras mínimas, mas tem que ter jogo de cintura para lidar com esses macacos. É melhor matar o monstro quando ainda é um bebê."
+                },
+                {
+                    "id": 143,
+                    "message": "Ele já tem. se chama boiolavelachan"
+                },
+                {
+                    "id": 144,
+                    "message": "muh jornalistas, muh srs bizniz, muh cancer. Se o câncer gosta de ficar aqui, é porque os usuários criaram um ambiente que o câncer aprecia. Any community that gets its laughs by pretending to be idiots will eventually be flooded by actual idiots who mistakenly believe that they're in good company."
+                },
+                {
+                    "id": 145,
+                    "message": "Se o câncer gosta de ficar aqui, é porque os usuários criaram um ambiente que o câncer aprecia. E o que dogolismo é? É baziadu?"
+                },
+                {
+                    "id": 146,
+                    "message": "É, vamos fazer o seguinte: só tomem cuidado com os links que possam a vir a ser coisas como venda de drogas e outras coisas ilícitas, vamos começar a banir ameaças e doxxing, mesmo entre os dogoleiros, eu havia mantido o /kapote/ porque o único doxxado lá era o cogufag mas mesmo entre eles é melhor banir. Eu estou sempre de olho aqui e vou ver se consigo chamar mais alguns para serem global staff, talvez manter uns 5 global staff (contando comigo) sejam o suficiente para o tamanho atual do chan, visto a facilidade que a overboard traz pra moderar o chan."
+                },
+                {
+                    "id": 147,
+                    "message": "Eu quero um chan brasileiro que não seja uma extensão da estupidez brasileira e essa obsessão em ser comandado. Eu já vejo isso desde o 55, um bilhão de regrinha e tudo era aiiin, modi, bani isso q eu não gostu ."
+                },
+                {
+                    "id": 148,
+                    "message": "Acho que ninguém está procurando ordens aqui, mas apenas pontos em comum. A maioria já concorda que dogolismo atrai problemas"
+                },
+                {
+                    "id": 149,
+                    "message": "Entre em contato com o dono do pobrechan, ele tem interesse."
+                },
+                {
+                    "id": 150,
+                    "message": "Não, que nem os areianegros ou um câncer mesmo. Eles invadem um ambiente saudável e o destroem. Se esse mal se multiplica, os bons usuários vão embora e aí sim o lugar fica em ruínas, por isso banimentos são necessários."
+                },
+                {
+                    "id": 151,
+                    "message": "Se esses viados tomarem o sítio, nem chan terá, amigo, esse é o problema. Vai ficar causando dor de cabeça, até legalmente, e o Santificado fecha tudo. Ai eu, você e todo mundo que quer um bom espaço tomamos nos nossos cus."
+                },
+                {
+                    "id": 152,
+                    "message": "A conta é mcgorila."
+                },
+                {
+                    "id": 153,
+                    "message": "Vou te dar uma dica, cara: é só não dar atenção. O fato de eu permitir quebra de anonimato no /b/ não é porque eu gosto disso mas é porque eu não quero fazer paneleiros e dogoleiros sentirem que não são especiais por poderem postar com nome e jorgear. ** Se todo mundo é super, ninguém mais é super. ** E, aparentemente, vem dado certo, pelo menos não vejo eles completamente alucinados como são no caravela. E também é porque o /b/ é lugar de fazer merda mesmo. Não vou fechar por jorgismo porque eu estou fazendo a minha parte, a regra 1 está dada e eu estou obedecendo ela, assim como tem o meu contato na home do bostil. Fala pra ele entrar em contato pelo meu e-mail, se tiver entrado em contato com ele."
+                },
+                {
+                    "id": 154,
+                    "message": "Se existir staff ativa para proteger os bons anões da criançada postando eventuais merdas no /b/ e sujando a overboard (vide 27 sendo raidado com CP e o Ninja morto), não vejo problema nisso."
+                },
+                {
+                    "id": 155,
+                    "message": "Enviei o e-mail."
+                },
+                {
+                    "id": 158,
+                    "message": "Beleza, funcionando. Vou continuar como BO normal, mas quando precisar, eu ajudo global."
+                },
+                {
+                    "id": 159,
+                    "message": "Beleza. Obrigado, anão."
+                },
+                {
+                    "id": 160,
+                    "message": "Você não é responsável pelo conteúdo. Apenas repasse os dados para as autoridades, deixe rolar."
+                },
+                {
+                    "id": 161,
+                    "message": "Beleza, mas o servidor em tese está no Japão, para dar merda para vocês alguém primeiro teria que fazer o R.O. aqui no Brasil, enviar para as autoridades japonesas, para elas analisarem, e talvez tomarem providências. A maioria dos alvos de Doxx (paneleiros) e DeepFakes (famosinhas/políticos) não vão pegar quando isso for feito. E mesmo que chegue até a moderação, novamente, entregue os dados e exclua o conteúdo do recinto. Vocês estão colocando os bois na frente da carroça."
+                },
+                {
+                    "id": 162,
+                    "message": "Então vale a pena o risco?"
+                },
+                {
+                    "id": 163,
+                    "message": "Não se trata de valer o risco, apenas de repassar a responsabilidade. O chan deve ter uma moderação robusta, só não precisa responsabilizar os donos por tudo que acontece. A moderação deve deixar claro que não vai permitir que o câncer tome conta do recinto."
+                },
+                {
+                    "id": 164,
+                    "message": "Exato, proibir e banir é a melhor coisa, não é nossa responsabilidade lidar com posts criminosos."
+                },
+                {
+                    "id": 180,
+                    "message": "Santificado ( ou qualquer mod que se disponha a responder ), o caso da pica é passível de punição? Não sou mão frouxa, mas pensei que se eu aplicasse a dura no anão, iria causar alvoroço. Em tese, ele não cometeu nenhuma ilegalidade, mas agiu uma uma bicha histérica. Nesse caso, algum anão poderia dizer muh, é só dar hide . Visto isso, como proceder?"
+                },
+                {
+                    "id": 181,
+                    "message": "KKKKKKKKKKKKKKKKKKKKKKKKKKK Uma porra dessa tomando denúncia global, se isso fosse no rein, quem denunciou que iria tomar um ban por encher o saco da STAFF global. Nem o B.O do /a/ liga, vão se foderem."
+                },
+                {
+                    "id": 190,
+                    "message": "Isso no mínimo é panelismo, se fora do /b/ merecia marretada e se incentivar jorgismo, fica fora das leis japonesas e também merece ban. Basta ver aquele fio de melhores fios dos chans para ver qual era o padrão da época, é uma palhaçada ter que aguentar esses malucos atuais."
+                },
+                {
+                    "id": 191,
+                    "message": "bane board TPP por desculpa de que já existe o /pol/"
+                },
+                {
+                    "id": 192,
+                    "message": "Então é permitido panelismo, mas não panelismo de esquerda, anão caga regra?"
+                },
+                {
+                    "id": 193,
+                    "message": "board para assuntos específico sem entupir/sobrecarregar o /pol/"
+                },
+                {
+                    "id": 194,
+                    "message": "Na época eu havia achado que você era paneleiro querendo causar porque a board tava escondida. Pode criar."
+                },
+                {
+                    "id": 195,
+                    "message": "Aproveitando que está online, gostaria de pedir para desativar o CSS estrito nas opções do chan se possível. Eu estava criando um CSS personalizado para minha tábua mas não me deixou adicionar links nem nada do tipo no tema. Also, se estiver generoso, gostaria de pedir para que permitisse banners na resolução da pica relatada. Se não quiser, tudo bem, mas pelo menos pense no que lhe pedi sobre a opção de CSS estrito. Tinha ficado muito bom, mas quando vou validar, retorna o seguinte erro: Modo estrito CSS está ativo e não permite o seguinte: @ , url("
+                },
+                {
+                    "id": 205,
+                    "message": "O @ e o url() podem ser usados para fazer XSS. Não posso permitir."
+                },
+                {
+                    "id": 232,
+                    "message": "Poxa, queria adicionar uns assets na tábua. Mas tudo bem, entendo seu ponto."
+                },
+                {
+                    "id": 237,
+                    "message": "Santificado, peço que leia minha mensagem e me dê um parecer: deixo o anão livre ou aplico a marreta? Não estamos no Rein. Se os anões quiserem fazer reports em alguma das boards que eu modero, fiquem à vontade. Moderação é para trabalhar (se vou ou não aplicar punição, já é outra história)."
+                },
+                {
+                    "id": 238,
+                    "message": "Se estiver dizendo sobre o anão da /pnf/, deixe-o livre."
+                },
+                {
+                    "id": 240,
+                    "message": "Se foi fora do /b/, marreta."
+                },
+                {
+                    "id": 339,
+                    "message": "Você pode deixar para só permitir assets locais..."
+                }
+            ]
+        },
+        {
+            "id": 333,
+            "replies": [
+                {
+                    "id": 333,
+                    "message": "Eu ~~quero~~ ~~exijo~~ sugiro que assinatura de posts seja proibida no /b/."
+                },
+                {
+                    "id": 335,
+                    "message": "Mas é o /b/, o chorume do chan."
+                },
+                {
+                    "id": 336,
+                    "message": "É possível haver shitpost sem ter que ficar vendo um retardado newfag defendendo a personalidade que ele quer criar no chan."
+                },
+                {
+                    "id": 337,
+                    "message": "O contrário também é verdade. Se fode aí."
+                },
+                {
+                    "id": 338,
+                    "message": "A carapuça serviu. Nem me referi a você, mas, sim, ao carente spammador de soyjak."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "replies": [
+                {
+                    "id": 4,
+                    "message": "/sc/ - Sala de Controle Board independente de Moderação e melhorias do Bostilchan. Usemos esta tábua para denunciar anons, relatar bugs/glitches no chan, sugerir melhorias, debater meios de divulgação, tirar dúvidas, etc. Como dito no início do texto, esta é uma board independente, ou seja, foi criada por um dos anônimos que frequentam este recinto. O objetivo é concentrarmos aqui tudo que envolva a parte técnica do chan, para que, dessa forma, o /b/ não seja tomado por conteúdos ou discussões que, na maior parte das vezes, se estendem por bastante tempo e, consequentemente, afogam a board principal. A existência desta board também é uma forma eficaz de fazer com que nossos apelos cheguem ao Baseado Santificado. A board é livre, só não acidentalmente o host do chan ou coloquem o Zanon numa cela de Bangu."
+                },
+                {
+                    "id": 7,
+                    "message": "Obrigado por criar essa board, anão. Estarei acompanhando para ver o que eu posso fazer."
+                },
+                {
+                    "id": 8,
+                    "message": "Denunciando os marujinhos, já estão troslando muito e postando no nível merdavela de qualidade. Aos BOs, fiquem de olho, os marujos vão passar a atacar a partir de agora."
+                },
+                {
+                    "id": 9,
+                    "message": "Sou o anão da primeira captura de tela. Qual o problema em denunciar a panelagem da moderação daquela board?"
+                },
+                {
+                    "id": 10,
+                    "message": "Recomendo que use o /d/ ao invés do /b/."
+                },
+                {
+                    "id": 11,
+                    "message": "Os donos das boards podem apagar seus posts mas não afetar o global. Acho que dessa vez é só um moderador de board maluco, mesmo, nada com relação ao chan em geral."
+                },
+                {
+                    "id": 12,
+                    "message": "Nenhuma das postagens seguia as regras da board, não entendi vocês."
+                },
+                {
+                    "id": 13,
+                    "message": "O moderador da board /brudito/ tornou-se meu rival a partir do momento em que me baniu, de forma injusta, por ironizar a sua utilização de inteligência artificial. Com isso, estou mostrando que, sem essa ferramenta, ele falha."
+                },
+                {
+                    "id": 15,
+                    "message": "Você nem com ChatGPT."
+                },
+                {
+                    "id": 16,
+                    "message": "Ótimo argumento, anã. Fui homem e admiti que a minha correção, nesse contexto, estava errada."
+                },
+                {
+                    "id": 17,
+                    "message": "Foi homem agindo igual criança?"
+                },
+                {
+                    "id": 18,
+                    "message": "Trata-se de uma defesa da honra, paquiderme."
+                },
+                {
+                    "id": 19,
+                    "message": "Você está no mesmo plano espiritual que o meu?"
+                },
+                {
+                    "id": 20,
+                    "message": "Não entendi. Por favor, discorra."
+                },
+                {
+                    "id": 21,
+                    "message": "Papo de louco do caralho."
+                },
+                {
+                    "id": 22,
+                    "message": "Não desvirtue(m) a conversa. Meus pontos são esses:"
+                },
+                {
+                    "id": 23,
+                    "message": "Repetindo: Você está com a sanidade em dia?"
+                },
+                {
+                    "id": 24,
+                    "message": "Estamos no /sc/, rapaz. Caso queira conversar sobre psicologia, recomendo o /b/ ou o /d/. Mesmo que o paneleiro moderador do /brudito/ não seja deposto deste chan, saio vitorioso, pois humilhei-o publicamente."
+                },
+                {
+                    "id": 25,
+                    "message": "Terra chamando anão, tem alguém aí?"
+                },
+                {
+                    "id": 26,
+                    "message": "Limpe essa panelagem. Temos uma coisa boa aqui. Não deixe esses viados estragarem o recinto."
+                },
+                {
+                    "id": 27,
+                    "message": "moderador bundalouca do chupetavela postando câncer do 1500 aqui floodando a /brudito/ e evadindo bans infinitamente cria a board /co/ para desenhos animados e comics usa o mesmo padrão de escrita no fio de estréia é descoberto apaga o fio cria outro escrito apenas Kek apaga a board Admin, depois olhe o log, ele é um absoluto feijão humano."
+                },
+                {
+                    "id": 28,
+                    "message": "Eu sou o anão que está lutando contra a panelagem que ocorre na board /brudito/. Não sou moderador do 1500chan e nunca criei e nem pretendo criar uma board neste recinto em que estamos."
+                },
+                {
+                    "id": 29,
+                    "message": "lutando contra a panelagem que ocorre na board /brudito/ O chan tem livre criação de boards, pare de deixar na cara que você está de pilantragem."
+                },
+                {
+                    "id": 30,
+                    "message": "Já apresentei os meus pontos nesses posts, moderador paneleiro:"
+                },
+                {
+                    "id": 31,
+                    "message": "E o que você propõe para o admin, apagar a board?"
+                },
+                {
+                    "id": 32,
+                    "message": "Não proponho nada, pois o próprio chan parece endossar panelagem, infelizmente. Portanto, apenas estou humilhando aquela putinha. Viu que ele editou os meus posts estuprando-o na board dele?"
+                },
+                {
+                    "id": 33,
+                    "message": "Super estuprão esse seu fio, imagino a necrose mental que deveria ser a escrita original."
+                },
+                {
+                    "id": 34,
+                    "message": "E antes que eu me esqueça, como diria o N: A porta da rua é a serventia da casa ."
+                },
+                {
+                    "id": 35,
+                    "message": "não pode brincar no chan que nasceu anteontem"
+                },
+                {
+                    "id": 36,
+                    "message": "Não endosso, eu simplesmente não quero ser lulzcow de paneleiro, as merdas que aconteceram em 2021 com os adolemerdas do discord foi também culpa do N, e também não quero moldar nada, quero que os usuários façam o chan eu pois essa engine permite que eles construam a sua board. Como Global Staff e admin, só vou seguir as regras descritas no porém as minhas boards também terão as suas próprias regras. Você pode muito bem criar uma board random em que a quebra de anonimato é proibida, inclusive já criaram e esse é o /d/."
+                },
+                {
+                    "id": 37,
+                    "message": "Eu não estou envolvido na criação desse fio da sua captura de tela. Não seja desonesto, anão, pois você sabe muito bem que eu estuprei-o ao demonstrar que, sem inteligência artificial, você tem severa dificuldade para escrever um texto básico."
+                },
+                {
+                    "id": 38,
+                    "message": "Leia , vai chorar? Claro que mostrou."
+                },
+                {
+                    "id": 39,
+                    "message": "Quem está chorando o fio inteiro aqui é você, confrade."
+                },
+                {
+                    "id": 40,
+                    "message": "Claro que mostrou. Fico feliz que tenha reconhecido a minha vitória."
+                },
+                {
+                    "id": 41,
+                    "message": "Claro que é. Que bom."
+                },
+                {
+                    "id": 42,
+                    "message": "Se eu estou reclamando, é sinal que me importo. Por imaginar que você não tem envolvimento na administração deste recinto, apenas ignorarei essa afirmação."
+                },
+                {
+                    "id": 43,
+                    "message": "(You) Claro que é. Que bom."
+                },
+                {
+                    "id": 44,
+                    "message": "Certo. Apenas ficarei humilhando as putinhas, então."
+                },
+                {
+                    "id": 45,
+                    "message": "Se importa a ponto de desrespeitar as regras de um anão na própria board dele. Copie e cole novamente agora."
+                },
+                {
+                    "id": 47,
+                    "message": "Santificado, posso atacar boards que não gosto, como o /b/? Gostaria de postar conteúdo duvidoso e se possível, spammar."
+                },
+                {
+                    "id": 48,
+                    "message": "Se importa a ponto de desrespeitar as regras de um anão na própria board dele. Veja: . Trata-se de uma defesa da honra."
+                },
+                {
+                    "id": 49,
+                    "message": "/b/ é lugar de fazer merda então que se foda, e se postar alguma coisa que faça a polícia me contactar eu vou dedurar, saiba disso. E pra falar a verdade, eu questionando é a sua sanidade mental. Você realmente quer levar o /b/ a sério?"
+                },
+                {
+                    "id": 50,
+                    "message": "Não existe regra de defesa da honra na board, enfie ela no olho do seu cu."
+                },
+                {
+                    "id": 51,
+                    "message": "O seu post tem um cheiro fortíssimo de ardência de ânus. Hue, lembrou aquele soyjack chorando."
+                },
+                {
+                    "id": 52,
+                    "message": "soyjack Continue postando, está cada vez melhor."
+                },
+                {
+                    "id": 53,
+                    "message": "Esse post me lembrou desse aqui:"
+                },
+                {
+                    "id": 54,
+                    "message": "Poste mais."
+                },
+                {
+                    "id": 55,
+                    "message": "Dúvida honesta: O que você está fazendo neste fio, anão? Você é o moderador que vem sendo estuprado, certo? Caso contrário, pare de zaralhar a board."
+                },
+                {
+                    "id": 56,
+                    "message": "Tem certeza que sou eu que estou zaralhando?"
+                },
+                {
+                    "id": 57,
+                    "message": "Vai continuar desvirtuando a conversa? Responda à minha pergunta, pois, com essa pergunta, apenas está provando o meu ponto."
+                },
+                {
+                    "id": 58,
+                    "message": "Responda à minha pergunta, pois, com esse teu post, apenas está provando o meu ponto. Consertado."
+                },
+                {
+                    "id": 59,
+                    "message": "Responda a minha pergunta."
+                },
+                {
+                    "id": 60,
+                    "message": "Eu perguntei primeiro. Ah, e volte a usar o ChatGPT."
+                },
+                {
+                    "id": 61,
+                    "message": "Me obrigue."
+                },
+                {
+                    "id": 62,
+                    "message": "Você, que é o criador da board /brudito/, não sabe escrever corretamente e censura aqueles que o ironizam."
+                },
+                {
+                    "id": 63,
+                    "message": "Chorão, burro e descarrilador"
+                },
+                {
+                    "id": 64,
+                    "message": "Kek, manipulou os fios para tentar sair por cima . Vá aprender a escrever corretamente, escurinho. Aliás, você sabe que eu já tratei sobre isso; veja: . Tente trazer novos argumentos."
+                },
+                {
+                    "id": 65,
+                    "message": "Está insistindo que sabe regras de português com excelência por qual motivo, se já mostrou que erra?"
+                },
+                {
+                    "id": 66,
+                    "message": "Acredito que todos cometem erros, mas isso não impede que eu conheça e aplique as regras de português corretamente. Diferentemente de você, na hora de redigir um texto, garanto que eu não erro."
+                },
+                {
+                    "id": 67,
+                    "message": "Se você erra as regras que lhe permitem acertar, como vai redigir um texto assertivo?"
+                },
+                {
+                    "id": 68,
+                    "message": "Apenas errei uma vez, e foi em uma correção. Já aprendeu a usar vírgula explicativa e vírgula restritiva?"
+                },
+                {
+                    "id": 69,
+                    "message": "Como você vai provar que só errou uma vez em um ambiente anônimo?"
+                },
+                {
+                    "id": 70,
+                    "message": "O seu modo de operação é bem comum, mas não pode ser aceito como normal: desvirtua a conversa anda em círculos e volta a comentar sobre argumentos já rebatidos ignora todas as perguntas"
+                },
+                {
+                    "id": 71,
+                    "message": "esse derreteabaixo do moderador do 1500 Eu não achava que a competição fosse tão grande."
+                },
+                {
+                    "id": 72,
+                    "message": "Agora que você está tentando inverter a conversa, vou sumir para ficar na cara a sua forçação. Grande abraço, retardado!"
+                },
+                {
+                    "id": 73,
+                    "message": "Obrigado por, mais uma vez, reconhecer a minha vitória. Peço que aprenda a escrever corretamente e, assim, pare de censurar aqueles que o ironizam na /brudito/. Relembrando: O seu modo de operação é bem comum, mas não pode ser aceito como normal: desvirtua a conversa anda em círculos e volta a comentar sobre argumentos já rebatidos ignora todas as perguntas foge como putinha"
+                },
+                {
+                    "id": 74,
+                    "message": "Não sou o anão que você estava quotando, mas deu para perceber que você está tentando enrolar a userbase. Vamos todos ser amigos, não tem motivo para brigas."
+                },
+                {
+                    "id": 75,
+                    "message": "Não sou o anão que você esta a quotando Eu sei que é. mas deu para perceber que você está tentando enrolar a userbas Você ao menos leu o fio? não tem motivos para briga Fui obrigado a defender a minha honra neste fio. Se você o tivesse lido, veria que foi esse rapaz quem começou todo o imbróglio."
+                },
+                {
+                    "id": 76,
+                    "message": "Sem diálogo fica difícil, anão."
+                },
+                {
+                    "id": 77,
+                    "message": "Com essa resposta, confirmou ser o próprio moderador paneleiro. Pesquise por algo chamado stylometry ."
+                },
+                {
+                    "id": 78,
+                    "message": "Que bobeira, anão."
+                },
+                {
+                    "id": 212,
+                    "message": "Porra, Santificado, sequer vai poder ter fio do Reginaldo? Sugiro que comece a dizer o que pode ser feito, porque atualmente temos mais restrições do que existem no navio negreiro (na prática)."
+                },
+                {
+                    "id": 213,
+                    "message": "Para de encher o saco, filho da puta. Pergunte para a IA o que é ilegal e acabou."
+                },
+                {
+                    "id": 214,
+                    "message": "Estou perguntando, macaco, porque o fio do Reginaldo foi apagado. Agora me diz em qual país entrar na porra de uma live pública e perturbar é crime? Vai xingar o teu pai que te largou, viado."
+                },
+                {
+                    "id": 217,
+                    "message": "Ele não é o OP daquele fio, que, no caso, sou eu."
+                },
+                {
+                    "id": 223,
+                    "message": "Perturbar falando que vai estuprá?"
+                },
+                {
+                    "id": 231,
+                    "message": "Pelo visto você nunca teve num Reginaldo. Vou esperar a resposta do Santificado."
+                },
+                {
+                    "id": 233,
+                    "message": "Pode ter mas provavelmente foi deletado de algum paneleiro, que a gente saiu deletando todos os posts por um tempo. Não vejo problemas com isso, o Reginaldo é conhecido dentro dos chans mesmo."
+                },
+                {
+                    "id": 234,
+                    "message": "Pode ou não pode, putão? Dê o seu veredictum aqui, por favor, coisa linda: /sc/203."
+                },
+                {
+                    "id": 324,
+                    "message": "Eu sinto saudade desse anão dos GIFs gays e cansei de fingir que não."
+                }
+            ]
+        },
+        {
+            "id": 321,
+            "replies": [
+                {
+                    "id": 321,
+                    "message": "Agora vocês podem fazer sugestões e contribuições ao projeto no gitgud.io."
+                },
+                {
+                    "id": 322,
+                    "message": "Ótimo, irei enviar a alteração logo que puder."
+                },
+                {
+                    "id": 323,
+                    "message": "Aproveitando, é interessante mencionar que o cenário político na internet irá mudar nos próximos meses, provavelmente para melhor. Sendo assim, será ótimo adicionar novas funcionalidades no projeto, já que com uma internet mais livre, o bostil tem muito mais chance de dar espaço para bons conteúdos."
+                }
+            ]
+        },
+        {
+            "id": 308,
+            "replies": [
+                {
+                    "id": 308,
+                    "message": "Zanão, meu nobre, cheque o report desse fio."
+                },
+                {
+                    "id": 309,
+                    "message": "Que report?"
+                },
+                {
+                    "id": 310,
+                    "message": "Primeiramente: Você recebeu autorização para chamá-lo de Zanão ?"
+                },
+                {
+                    "id": 311,
+                    "message": "Segundamente: Diga do que se trata."
+                },
+                {
+                    "id": 312,
+                    "message": "Foi removido, mas obrigado por me avisar. Quando for assim, veja se ficou pelo modo privado pra não pegar o cache. **E apague seu cache.**"
+                },
+                {
+                    "id": 313,
+                    "message": "Beleza. Toma no teu cu, menó. Eu ein."
+                }
+            ]
+        },
+        {
+            "id": 279,
+            "replies": [
+                {
+                    "id": 279,
+                    "message": "bostilchan.org Verifying you are human. This may take a few seconds. bostilchan.org needs to review the security of your connection before proceeding. Bom dia, Zanão. Tire isso imediatamente, Zanão."
+                },
+                {
+                    "id": 283,
+                    "message": "Por enquanto ainda não, mas devo tirar em breve."
+                },
+                {
+                    "id": 285,
+                    "message": "Para mim não faz diferença alguma, nem com VPNs."
+                },
+                {
+                    "id": 301,
+                    "message": "Boa tarde, Zanão. Por que, há cerca de 1 (uma) semana, não posso mais acessar esta podridão com o Javascript desativado? Eu quero os meus direitos."
+                },
+                {
+                    "id": 302,
+                    "message": "Aliás, quem foi o filho da puta que excluiu o fio do time oficial do chan?"
+                },
+                {
+                    "id": 303,
+                    "message": "Eu já puxei a orelha do moderador que fez isso. Ainda estou avaliando se já posso diminuir o nível de segurança."
+                },
+                {
+                    "id": 304,
+                    "message": "O 27 é exatamente assim, é só desativar depois do CloudFlare. Qual o motivo para somente o bostilchan ser obrigado a reduzir a segurança?"
+                },
+                {
+                    "id": 305,
+                    "message": "Eu já puxei a orelha do moderador que fez isso. Zanão, coisa linda, tens o fio aí no histórico? Poderia, por favor, enviar o texto aqui? Pretendo reabri-lo. Qual o motivo para somente o bostilchan ser obrigado a reduzir a segurança? Não queira descobrir. Pica relatada."
+                },
+                {
+                    "id": 306,
+                    "message": "Infelizmente não, peço desculpas por isso."
+                },
+                {
+                    "id": 307,
+                    "message": "Tenente Zanon Xiiii..."
+                }
+            ]
+        },
+        {
+            "id": 286,
+            "replies": [
+                {
+                    "id": 286,
+                    "message": "Seria interessante a possibilidade de moderar o próprio fio, assim como é no tchan. Gosto muito do recinto, mas infelizmente ele está lotado de paneleiros de merda."
+                },
+                {
+                    "id": 287,
+                    "message": "Os paneleiros estão restritos ao /b/, que é a board de contenção. No /d/ eles são instabanidos. Also, nada impede que você crie a própria board e modere ela, se for exemplo, quiser fazer fio de muié, mas não tolerar paneleiros."
+                },
+                {
+                    "id": 288,
+                    "message": "se por exemplo Consertado."
+                },
+                {
+                    "id": 299,
+                    "message": "/d/ é uma boa ideia mas não funciona na prática. Quando o 27 abriu as boards era a mesma merda."
+                },
+                {
+                    "id": 300,
+                    "message": "O Ninja deixava o recinto mofar, não tem comparação com aqui."
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "replies": [
+                {
+                    "id": 196,
+                    "message": "Não sabia que as raids estavam proibidas. Uma pena. Usarei deste fio para rir desse newfag tentando se enturmar. HAHAHAHAHAHA!"
+                },
+                {
+                    "id": 197,
+                    "message": "Aliás, administração, por que estão proibidas? É praticamente impossível o recinto se foder com elas."
+                },
+                {
+                    "id": 198,
+                    "message": "Ilegalidades, atrai jornalistas e outros retardados que podem ativamente foder com o chan e devido às situações que esse recinto se encontra eu não estou em condições de bater o B.O. no peito."
+                },
+                {
+                    "id": 199,
+                    "message": "Vocês vão banir bostavelenses que nem o da pica? Esse comportamento deixa o chan insuportável a longo prazo."
+                },
+                {
+                    "id": 200,
+                    "message": "Certo. Mas você não concorda que o que já há aqui é mais criminoso do que as próprias invasões? Explico: Os invadidos não conseguiriam saber que é algo organizado no Bostilchan."
+                },
+                {
+                    "id": 201,
+                    "message": "mar de /b/osta esperando alguma coisa de útil nisso Tem o /d/. Crimes de opinião esse eu até bato o B.O. no peito, podem jorgear desde que não seja uma ameaça direta ou tentativa de se passar por outra pessoa."
+                },
+                {
+                    "id": 202,
+                    "message": "Tenho uma dica. Toda vez que sentirem duvidas se vai dar merda, pesquisem no iask.ai ou no chatgpt.com sobre o Código Penal Japonês. O problema não é ser baziadu y tanká us judê , o problema é ter dor de cabeça e perda de tempo com o host reclamando por causa de pessoas que nem estão aqui para agregar, mas somente para tentar foder com o recinto. Essa é a minha opinião."
+                },
+                {
+                    "id": 203,
+                    "message": "podem jorgear desde que não seja uma ameaça direta ou tentativa de se passar por outra pessoa Estou confuso. Podemos __tentar__ raidar - a palavra tentar está sublinhada porque não acho que teríamos um número suficiente de anões ? E se invadíssemos apenas reuniões estrangeiras? Por que estou, a todo momento, recebendo mensagem de ban? Baniram muitos IPs do Tor?"
+                },
+                {
+                    "id": 204,
+                    "message": "Demorei uns 5 (cinco) minutos trocando de IP até achar um que não estivesse banido."
+                },
+                {
+                    "id": 206,
+                    "message": "Vocês macaqueando obrigam os IPs serem banidos em Wide Range. Querem que isso aqui vire merdavela?"
+                },
+                {
+                    "id": 207,
+                    "message": "Estou confuso. Podemos __tentar raidar__? A palavra tentar está sublinhada porque não acho que teríamos um número suficiente de anões. Consertado"
+                },
+                {
+                    "id": 208,
+                    "message": "Fode não, negrei até na hora de consertar."
+                },
+                {
+                    "id": 209,
+                    "message": "Vocês implicando Não foda, canalha. A conversa aqui é de nível. Enfie os seus devaneios no ânus."
+                },
+                {
+                    "id": 210,
+                    "message": "Que fortinho ele."
+                },
+                {
+                    "id": 211,
+                    "message": "De todas as boards e fios para zaralhar e shitpostar, você vem fazer isso logo aqui? Não descarrilhe o fio com a tua negrice."
+                },
+                {
+                    "id": 215,
+                    "message": "Que moralmente correto você."
+                },
+                {
+                    "id": 216,
+                    "message": "Você é newfag e não consegue esconder."
+                },
+                {
+                    "id": 218,
+                    "message": "O newfag underage é você."
+                },
+                {
+                    "id": 219,
+                    "message": "Meu Deus... Apenas saia do fio. Você não contribui e suspeito que seja depósito."
+                },
+                {
+                    "id": 220,
+                    "message": "Você é fetolino, volte pro Discord."
+                },
+                {
+                    "id": 221,
+                    "message": "Já parou para pensar que você pode estar quotando um dos administradores?"
+                },
+                {
+                    "id": 222,
+                    "message": "Minha amiga, apenas se retire. Não dá, bicho não dá."
+                },
+                {
+                    "id": 224,
+                    "message": "Não dá, bicho, não dá... Consertado."
+                },
+                {
+                    "id": 225,
+                    "message": "Não sou administrador."
+                },
+                {
+                    "id": 226,
+                    "message": "Eu sou."
+                },
+                {
+                    "id": 227,
+                    "message": "Então, por favor, apague as participações descarrilhadoras desse energúmeno."
+                },
+                {
+                    "id": 228,
+                    "message": "O objetivo é te fazer pegar pilha. Apenas ria, eles ficam postando merdas assim no Discord."
+                },
+                {
+                    "id": 229,
+                    "message": "Que bobão você."
+                },
+                {
+                    "id": 230,
+                    "message": "Entendi. Obrigado por avisar, anão, de verdade mesmo."
+                },
+                {
+                    "id": 235,
+                    "message": "Querer um chan civilizado livre de macacos é ser mulher? Vai se fuder."
+                },
+                {
+                    "id": 236,
+                    "message": "Chegou ontem e não sabe o que é um /b/, kek. No mais, ignorarei, como recomendou o ."
+                },
+                {
+                    "id": 243,
+                    "message": "Zanon, sua gorda imunda, me responda: ."
+                },
+                {
+                    "id": 250,
+                    "message": "Qualquer forma de organização contra outras pessoas estão proibidas. Não proíbo vocês convidarem a ir para lives, porém pra fazer raids ou qualquer coisa que possa afetar o host negativamente, não."
+                },
+                {
+                    "id": 252,
+                    "message": "ZANON , responda minha dúvida sobre postar e-boojs pirateados no chan."
+                },
+                {
+                    "id": 253,
+                    "message": "Pode."
+                },
+                {
+                    "id": 254,
+                    "message": "Zanão, o anão pediu se rola fazer CyTube por aqui. O que acha?"
+                },
+                {
+                    "id": 255,
+                    "message": "Zanon, abrir um fio para fazer igual ao que está acontecendo no vídeo relatado está proibido?"
+                },
+                {
+                    "id": 256,
+                    "message": "Anão, posso chamar o Zanon de Zanão também? É que eu acho Santificado simplesmente muito brega e Zanão lembra nome de filósofo helenistico."
+                },
+                {
+                    "id": 257,
+                    "message": "Sempre teve aquele anão que postava o Cytube todo fim de semana, não é? Desde que ele faça no /b/ ou no /div/, sem problemas."
+                },
+                {
+                    "id": 258,
+                    "message": "Pra que me ignorar, Zanão? Seja mais humilde e dê uma resposta positiva aqui: ."
+                },
+                {
+                    "id": 259,
+                    "message": "Sim, está. Infelizmente não estou em condições de bater o B.O. no peito pra isso."
+                },
+                {
+                    "id": 260,
+                    "message": "EI, ZANÃO, VAI TOMAR NO CU! EI, ZANÃO, MEU PAU NA TUA MÃO! EI, ZANÃO, VAI TOMAR NO CU! EI, ZANÃO, MEU PAU NA TUA MÃO! EI, ZANÃO, VAI TOMAR NO CU! EI, ZANÃO, MEU PAU NA TUA MÃO! EI, ZANÃO, VAI TOMAR NO CU!"
+                },
+                {
+                    "id": 261,
+                    "message": "Lá ele."
+                },
+                {
+                    "id": 262,
+                    "message": "EI, ZANÃO, VAI TOMAR NO CU! Hue. EI, ZANÃO, VAI TOMAR NO CU!"
+                },
+                {
+                    "id": 263,
+                    "message": "Ei anão. Estava pensando em adaptar o CSS do caravela para a board 1500 como forma de sátira. Mas precisa do URL. Se quiser te envio os assets e você adiciona na board, aí te envio o código pronto, você analisa, e adiciona nela sem precisar liberar o @ e o URL para nós. O que acha?"
+                },
+                {
+                    "id": 264,
+                    "message": "Zanão, posso abrir um fio convidando os anões a entrarem em reuniões ''PÚBLICAS'' no Zoom? Lembre-se de que não há nada de ilegal neste ato."
+                },
+                {
+                    "id": 278,
+                    "message": "Bump."
+                },
+                {
+                    "id": 280,
+                    "message": "Dê um parecer sobre , por favor."
+                },
+                {
+                    "id": 281,
+                    "message": "Infelizmente, não vai rolar."
+                },
+                {
+                    "id": 282,
+                    "message": "Pode enviar o CSS que eu vou ver o que eu posso fazer."
+                },
+                {
+                    "id": 284,
+                    "message": "Ok, vou fazer e postar aqui nesse fio. É bom que dá um impulso na tábua."
+                },
+                {
+                    "id": 290,
+                    "message": "Qualquer url é só adicionar a pica relatada. [code] body { font-family: Calibri,sans-serif; font-size: .9em; color: #161616; background: #ebe5b5 url(/static/cafe-1.jpg); } .post-capcode{ color: red; } .modal{ background: #ebe5b5 url(/static/cafe-1.jpg); } .board-title{ color: darkred; } #postform{ background: #ebe5b5 url(/static/cafe-1.jpg); border: none; color:black; } .label, .bottom-reply, #livetext, #threadstats{ font-size: .9em; border: 1px solid rgba(173, 87, 19, .8); background: rgba(173, 87, 19, .5); box-shadow: inset 0 1px rgba(255, 255, 255, .4); } .post-container, .pages{ border: 1px solid rgba(149,177,149,.8); padding: 4px; min-width: 400px; background: rgba(149,177,149,.5); box-shadow: inset 0 1px rgba(255,255,255,.25); } .collapse, .stickynav, .postform-style, .modal, td{ background: rgba(149,177,149,.5); box-shadow: inset 0 1px rgba(255,255,255,.25); border: 1px solid rgba(149,177,149,.8); } hr { border-top: 0.1px solid #d0cba0; } .post-container.hoverhighlighted, .rlabel{ padding: 4px !important; border: 1px dashed #65ab6b !important; background-color: transparent !important; transition-duration: 0.125s !important; } a, a.quote{ color: #000; } a:hover, a.quote:hover{ color: red; } .navbar{ margin-top: 3px; color: rgba(33, 47, 33, 0.4); font-size: 10pt; word-spacing: 0px; position: fixed; top: 0; left: 0; right: 0; margin-top: 0; z-index: 30; box-shadow: 0 1px 2px rgba(0, 0, 0, .15); border-bottom: 1px solid; background-color: #c8c298c9; } .post-container.op{ border: none !important; } input, select, textarea, option{ color: #000 !important; background: #FFFF; box-shadow: inset 0 1px rgba(255,255,255,.25); border: 1px solid rgba(149,177,149,.8); font-family: arial, helvetica, sans-serif; font-size: inherit; } input:active{ background: grey; border: none !important; border: 1px solid rgba(149,177,149,.8); } th{ background: #ebe5b5 !important; border: 1px dashed #65ab6b !important; } [/code]"
+                },
+                {
+                    "id": 291,
+                    "message": "O correto é este: . Apaguei o anterior pois estava incompleto."
+                },
+                {
+                    "id": 292,
+                    "message": "Also, eu acho que quando é implementado pelo admin não precisa, mas caso a preview do post que é exibida quando passamos o mouse por cima do quote não ficar formatada no estilo do tema, basta adicionar !important nos valores do ''.post-container, .pages'', e no ''.post-container.hoverhighlighted, .rlabel''."
+                },
+                {
+                    "id": 293,
+                    "message": "Sinceramente, qual o ponto do seu chão? Um Xenforo com mensagens privadas tem mais liberdade que aqui, bicho. Pegando a foda fora."
+                },
+                {
+                    "id": 294,
+                    "message": "Coloquei o CSS no /1500/. O meu negócio é especificamente o url(), que permite que qualquer um coloque um CSS que faz requisição pra um honeypot, por isso eu não estou deixando board owners de usarem isso."
+                },
+                {
+                    "id": 295,
+                    "message": "Tudo bem, entendo seu ponto e não vou te cobrar algo que possa te causar problemas. Mas como eu disse, acreditei que fosse possível colocar como admin uma imagem no site sem precisar liberar o URL para nós."
+                },
+                {
+                    "id": 296,
+                    "message": "E eu coloquei, avaliei o CSS e implantei no 1500. Só que não vai dar pra deixar todo mundo fazer isso."
+                },
+                {
+                    "id": 297,
+                    "message": "Use o Xenforo com mensagens privadas então ou o 27 que vive com pedolaria."
+                },
+                {
+                    "id": 298,
+                    "message": "Tudo bem, foi só um pico de criatividade, e imaginei que poderia dar movimento pra tábua."
+                }
+            ]
+        },
+        {
+            "id": 268,
+            "replies": [
+                {
+                    "id": 268,
+                    "message": "Podemos ter uma /$/ tábua? Gostaria de uma tábua sobre finanças para discutirmos sobre economia, seja micro, macro, ou pessoal."
+                },
+                {
+                    "id": 269,
+                    "message": "Sem dúvidas, fique livre para criar, irei participar."
+                },
+                {
+                    "id": 271,
+                    "message": "Baseado. Obrigado, Anão. Estou no serviço agora, daqui uns minutos volto aqui e tento criá-la. Ainda estou me adaptando à essa nova estrutura de chan."
+                },
+                {
+                    "id": 272,
+                    "message": "ainda não faço ideia do que é um Bitcoin Fode não, a indolência financeira é uma merda."
+                },
+                {
+                    "id": 273,
+                    "message": "Era meme antigamente por deixar pessoas ricas, hoje é meme para tentar botar no cu de governos."
+                },
+                {
+                    "id": 274,
+                    "message": "OP aqui! A board foi criada. Os confrades podem acessar através de /fin/. Pretendo elaborar um barbante sobre investimentos básicos (caderneta de poupança, cdb e cdi). A medida que formos avançando, desenvolvo outros fios. Sintam-se livres para contribuir antes de mim, quem quiser!"
+                },
+                {
+                    "id": 275,
+                    "message": "Apenas desista, anão. Ninguém vai acessar aquela pomba. Já temos o /$/ do 1500chan."
+                },
+                {
+                    "id": 276,
+                    "message": "Volte para a caravela."
+                },
+                {
+                    "id": 277,
+                    "message": "OP novamente, anões! Eu abri uma board que introduz alguns livros e dois canais no vocêtubo para quem quiser dar uma olhada. Pretendo trabalhar mais na mesma, entretanto ainda estou no serviço e não sei que horas sairei. Novamente, quem quiser pode contribuir a vontade lá."
+                }
+            ]
+        },
+        {
+            "id": 265,
+            "replies": [
+                {
+                    "id": 265,
+                    "message": "Apenas para ficar claro, isso aqui é um tripcode."
+                },
+                {
+                    "id": 266,
+                    "message": "Isso aqui não é."
+                },
+                {
+                    "id": 267,
+                    "message": "Diferença zero."
+                },
+                {
+                    "id": 270,
+                    "message": "Bote o óculos e olhe novamente."
+                }
+            ]
+        },
+        {
+            "id": 244,
+            "replies": [
+                {
+                    "id": 244,
+                    "message": "A pirataria de livros é proibida no chan? Não que eu vá transformar isso aqui na Biblioteca de Alexandria, mas de vez em quando surge a necessidade de compartilhar algum conteúdo com alguém. Acredito que outros anões devem sentir o mesmo, vide o /exu/, onde às vezes se faz necessária a postagem de algum grimório raro ou algo do tipo. O mesmo pode acontecer no /pol/, com livros de economia ou sobre uma determinada ideologia política."
+                },
+                {
+                    "id": 247,
+                    "message": "A pirataria de livros é proibida no chan? Se for livro merda, sim. No entanto, se for livro bom, não."
+                },
+                {
+                    "id": 248,
+                    "message": "Beleza, senhor cagador de regra."
+                },
+                {
+                    "id": 249,
+                    "message": "Acho que é uma linha cinza, mas no lugar atual do host, eu não que não existe nenhum problema. O anão do Z pode confirmar."
+                }
+            ]
+        },
+        {
+            "id": 242,
+            "replies": [
+                {
+                    "id": 242,
+                    "message": "Coloquem ícone no sítio para ficar bonitinho nos favoritos do navegador."
+                }
+            ]
+        },
+        {
+            "id": 182,
+            "replies": [
+                {
+                    "id": 182,
+                    "message": "Primeiro: eu não uso discord, nunca gostei de aplicativos baseados em electron e sinceramente os paneleiros em 2021 conseguiram me fazer criar asco dessa desgraça. Eu só uso IRCs, e-mail e Tox, sendo que o meu e-mail está na home do bostilchan ( Segundo: qualquer coisa grande que eu faça, vocês tem que assumir que eu também sou um pouco attwhore pra não dizer pra caralho e vou querer garantir o máximo possível de coisas presas no nome Santificado ou Zanon . Dito isto, eu tenho uma assinatura digital OpenPGP que eu havia criado lá em 2023 associado ao e-mail que está na home e nesse post. E eu mantenho ele até hoje, e se você achar que sou eu em qualquer outro lugar da internet, me pede para assinar uma mensagem que eu assinarei. Podem inclusive considerar como uma espécie de autógrafo se conseguirem me achar perambulando pela internet, topkek. Sem assinatura, sem zanon."
+                },
+                {
+                    "id": 183,
+                    "message": "Na real real mesmo, é igual pai de família: O importante é você ser um pai presente e alguém que banca a casa. Se você come alguém fora, paciência, é como é. Você ainda não é o pai bêbado, travequeiro e ausente do N, então se você for melhor que ele, já vai ser muito."
+                },
+                {
+                    "id": 184,
+                    "message": "Além do cara criar o chan você quer que ele seja uma boa figura paterna pra você, LOOOOOOL."
+                },
+                {
+                    "id": 185,
+                    "message": "Figura paterna? Não entendi."
+                },
+                {
+                    "id": 186,
+                    "message": "Ótimo bait, tente na bostavela."
+                },
+                {
+                    "id": 187,
+                    "message": "Santificado é o auge da breguice."
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "replies": [
+                {
+                    "id": 165,
+                    "message": "Santificado! Aumente o limite de upload para 25MB e minha vida será sua!"
+                },
+                {
+                    "id": 166,
+                    "message": "Também estou começando a me incomodar com 10MB. Vou aumentar."
+                },
+                {
+                    "id": 167,
+                    "message": "Aumentado."
+                },
+                {
+                    "id": 171,
+                    "message": "Eu não estou completamente kitado, ainda dou umas olhadas no chan de vez em quando. De madrugada, tinha maluco postando CP na cara dura eu fui lá e bani o meliante por 1 milhão de anos, deletei o post e deletei os arquivos do servidor , a thread ficou em pé por mais de uma hora. Você tem que me dar acesso aos IPs porque aí eu mesmo posso expor o indivíduo que está cometendo atos ilícitos."
+                },
+                {
+                    "id": 172,
+                    "message": "Consigo ver pelos logs. Depois vá no IRC só pra eu confirmar que os IPs não são seus."
+                },
+                {
+                    "id": 173,
+                    "message": "Não sou o Aeternum, mas entrei lá."
+                },
+                {
+                    "id": 177,
+                    "message": "Entrem no canal da staff."
+                },
+                {
+                    "id": 178,
+                    "message": "Vai expor pra que, cara?"
+                },
+                {
+                    "id": 179,
+                    "message": "Estou online, aproveita e cola lá no tox agora, não tenho muito tempo. Não sei do que está falando."
+                }
+            ]
+        },
+        {
+            "id": 168,
+            "replies": [
+                {
+                    "id": 168,
+                    "message": "Deletem a board /hate/ Não tem finalidade decente. E o dono é um neonazista hollywoodiano edgy e imbecil. O cara é tão pilantra que vandalizou o artigo do chan na Wikinet e adicionou a board lixo dele no topo. Na boa, que cara cringe. Deve ser um underage pardo que mora no interior do Norte."
+                },
+                {
+                    "id": 170,
+                    "message": "A board não possuía nenhum post do BO. Como um macabrinho foi banido agora pouco, aproveitei para apagar a /hate/. Caso seja um equivoco, BO por obséquio entre em contato."
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "replies": [
+                {
+                    "id": 97,
+                    "message": "Não esqueçam de marcar a caixinha (global report) quando o post quebrar as regras do recinto em si."
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "replies": [
+                {
+                    "id": 79,
+                    "message": "Seria interessante se futuramente as Estadobolas fossem configurada aqui no chan para que se sincronizem com a região do IP dos anões, eu gostaria de torná-las obrigatórias na minha board mas por enquanto ainda não há como fazer isso."
+                },
+                {
+                    "id": 95,
+                    "message": "Up. Tal funcionalidade seria muito útil no /int/ e no /pol/."
+                }
+            ]
+        },
+        {
+            "id": 80,
+            "replies": [
+                {
+                    "id": 80,
+                    "message": "Posso fazer um fio de reboladeiras? Quero pedir antes para não dar trabalho para a administração. Claro, sem postar nudes. Apenas suavenucleo."
+                },
+                {
+                    "id": 81,
+                    "message": "Sem problemas."
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "replies": [
+                {
+                    "id": 5,
+                    "message": "O tema ser revertido para o Yotsuba Blue."
+                },
+                {
+                    "id": 6,
+                    "message": "x153 Quer que eu use uma lupa, OP?"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "First."
+                }
+            ]
+        }
+    ]
+}

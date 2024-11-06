@@ -1,0 +1,206 @@
+{
+    "_id": "lambda",
+    "name": "λ",
+    "description": "Programarias",
+    "threads": {
+        "66": {
+            "66": {
+                "message": "Aperte F12, vá em Console, copie e cole esse código hacker, aperte Enter e enjoe todo mundo no seu fio virar mesmabicha. [code] $$('a.quote').map((q) = {q.classList.add('you'); q.setAttribute('data-label', 'You'); console.log('Mesmabicha do caralho')}); [/code]"
+            }
+        },
+        "1": {
+            "1": {
+                "message": "Lambida."
+            },
+            "2": {
+                "message": "λx.λy.(x + y) Agora só programarias."
+            },
+            "65": {
+                "message": "BO, coloque o tema cyberhub como default da tábua."
+            }
+        },
+        "15": {
+            "15": {
+                "message": "500: await page.goto(f'{BOARD_URL}res/{thread_no}.html') await asyncio.sleep(10) # Add the replied post number to the replied list replied_list.append(replied_post['no']) # Type and submit reply await page.fill('textarea#body', f {replied_post['no']}\\n{raw_content} ) await page.click('input[type= submit ]') await asyncio.sleep(10) # Wait 5 seconds before restarting print(f Reply posted to thread {thread_no} ) await browser.close() async def run_indefinitely(): while True: try: await main() except Exception as e: print(f An error occurred: {e} ) print( Restarting the process... ) await asyncio.sleep(5) # Wait 5 seconds before restarting if __name__ __main__ : asyncio.run(run_indefinitely()) [/code]"
+            },
+            "16": {
+                "message": "Não entendo das programarias, mas gostaria de ver o tipo de resposta que o código fornece. Poderia fornecer prints?"
+            },
+            "17": {
+                "message": "Se eu postar, posso acabar sendo banido do 1500, o N está de olho aqui."
+            },
+            "18": {
+                "message": "Após executarem a primeira vez, passar o CloudFlare e a máscara, vai ser criado um cookie. Se não quiserem que fique pulando a janela do Firefox toda hora em [code] browser = await p.firefox.launch(headless=False) [/code] Mudem para [code] browser = await p.firefox.launch(headless=True) [/code] E o script vai rodar em segundo plano."
+            },
+            "21": {
+                "message": "Estou mentindo? O bot está rodando desde ontem e até agora, não tomou ban."
+            },
+            "22": {
+                "message": "Captura de tela ou não aconteceu."
+            },
+            "23": {
+                "message": "Tem um código inteiro pra você testar, se você é incluso o suficiente pra não rodar isso em uma VM, se for tão mula para ver que não é vírus, você não merece saber."
+            },
+            "24": {
+                "message": "Kek. Vá hackear outro, hackerzinho de merda. Não sou tonto de cair nessa bosta aí, filhão. Está achando que nasci ontem?"
+            },
+            "25": {
+                "message": "Pra ser burro assim, sem dúvida nasceu. Você nem precisava saber programação, só precisava ser menos burro. Doente. Jumento. Jegue. Aborígene. Chimpanzé."
+            },
+            "26": {
+                "message": "O que é um F12?"
+            },
+            "27": {
+                "message": "Um avião."
+            },
+            "29": {
+                "message": "Vai se foderem."
+            },
+            "30": {
+                "message": "Os moderadores estão em peso e até agora ninguém implicou com o robô. E olha que ele já deu um monte de manjadas, puta merda, que script maravilhoso."
+            },
+            "34": {
+                "message": "hue"
+            },
+            "35": {
+                "message": "fingindo"
+            },
+            "36": {
+                "message": "Se anão quiser quebrar captcha pode usar o capmonster"
+            },
+            "37": {
+                "message": "Você pode não ser tonto de cair em uma peripécia, mas você definitivamente é tonto de achar que o codigo do anão é uma artemanha para te pegar. Analisei o codigo e joguei no chatgpt e não tem nada perigoso nele, basta olhar os imports, nenhum import ali é suspeito ou usado para invadir ou danificar algum sistema."
+            },
+            "40": {
+                "message": "Desista, OP, ninguém vai cair nessa tua armadilha. Pode samefaggotear à vontade."
+            },
+            "42": {
+                "message": "Não entendi."
+            },
+            "43": {
+                "message": "Also, queria adicionar a nova versão, mas não tem como editar o post."
+            },
+            "44": {
+                "message": "500 and raw_content not in your_posts and raw_content != post5: your_posts.append(raw_content) your_posts.append(post5) print(f'Going to {BOARD_URL}res/{thread_no}.html') await page.goto(f'{BOARD_URL}res/{thread_no}.html') # Type and submit reply await page.wait_for_selector('textarea#body') print('Posting...') await page.fill('textarea#body', f {replied_post['no']}\\n{raw_content} ) await page.click('input[type= submit ]') await asyncio.sleep(10) # Wait 10 seconds before restarting print(f Reply posted to thread {thread_no} ) async def run_indefinitely(): while True: try: await main() except Exception as e: print(f An error occurred: {e} ) print( Restarting the process... ) await asyncio.sleep(5) # Wait 5 seconds before restarting if __name__ __main__ : asyncio.run(run_indefinitely()) [/code] Mesmo esquema, instalem as dependências e mudem o headless após rodar a primeira vez, se quiserem que rode sem janela ficar pulando."
+            },
+            "46": {
+                "message": "E ainda vai ter anão caindo."
+            },
+            "48": {
+                "message": "Sabia que você estava pescando."
+            },
+            "53": {
+                "message": "Oxi, mas não foi o OP que fez essa reply, fui eu, kek."
+            },
+            "55": {
+                "message": "Alguém sabe dizer onde encontrar IPs que não foram banidos na caravela? O bot acidentalmente postou como muié e tomou ban."
+            },
+            "63": {
+                "message": "criei Esse comentários denunciam que o chatgpt quem fez, hue. Essa é a maneira mais fácil de saber se o código foi gerador por IA ou não, só verificar o excesso de comentários em coisas óbvias como carregar e salvar o cookie."
+            },
+            "64": {
+                "message": "Coloquei uma caralhada de coisas que o GPT não fez, não entendi seu argumento."
+            }
+        },
+        "56": {
+            "56": {
+                "message": "Sopa, Anons! Acredito que esta pergunta se encaixe melhor aqui, já que não temos um /clt/ no nosso agradável chan. Gostaria de pedir a opinião de vocês sobre como entrar (ou reentrar) no mercado de TI. Trabalhei como terceirizado nos sistemas de uma ex-estatal, graças à indicação de um colega que já não está mais na empresa. Tentei voltar para lá, agora que é uma empresa privada, mas o ambiente ainda é dominado por funças, e ninguém me deu uma foda. Desde o dia 04/04 (data em que saí da empresa), já me candidatei a mais de 500 vagas. Consegui apenas 8 entrevistas até agora, mas não fui além disso. Tenho me esforçado para manter meu currículo bem alinhado com o que busco, incluindo keywords relevantes para as atribuições que desempenhei, mas muitos tech recruiters dão zero fodas para isso, aparentemente, simplesmente ignoram, não me mandam nem uma mensagem dizendo que o currículo é lixo ou similares. Gostaria de pedir dicas, perspectivas ou qualquer caminho das pedras que vocês tenham e queiram compartilhar. Algumas outras informações que julgo importante destacar na paredetexto abaixo: github: tenho, com vários projetos em diferentes linguagens de programação. Tento aprender o máximo possível para aumentar meu leque de opções, mas isso não tem funcionado muito linkedin: cerca de 190 conexões, sigo vários líderes de tecnologia e tenho conexões com alguns deles, além de outros programadores intermediário, consigo falar um pouco, mas ainda não sou fluente. Na leitura, me viro bem melhor Se quiserem, posso enviar meu currículo com informações ocultas em PDF, caso queiram ajudar na correção, sugerir melhorias ou até usar como referência para outros anões."
+            },
+            "57": {
+                "message": "O mercado de TI aqui está saturado, por isso você consegue poucas entrevistas e precisaria de um currículo irrecusável para ser aceito. Por que não tenta um concurso público de professor de informática ou técnico?"
+            },
+            "58": {
+                "message": "Oi, Anão. Obrigado por sua resposta. É, eu reparei isso, há muita gente tentando conseguir uma boquinha como Júnior ou Pleno e acaba que sobra muito pedreiro de código para poucas vagas. Por que não tenta um concurso público de professor de informática ou técnico? Eu não tinha pensado nisso, vou dar uma pesquisada sobre. Eu precisava de uma solução meio rápida pois já faz uns meses que estou desempregado, e, preciso ajudar nas contas em casa, minha mãe não aguenta mais me ver vagabundeando. Eu estive estudando e planejo fazer o concurso dos Correios; não é exatamente o emprego que eu gostaria, mas se eu passar vou ganhar um salário até que bom inicialmente."
+            },
+            "59": {
+                "message": "Sua demissão foi motivado por corte de gastos? A principal vantagem de ser concursado é a estabilidade no emprego, você não pode ser demitido sem justa causa após três anos de efetivo exercício. Também há evolução salarial garantida e não acontece o que ocorre em empresas, nas quais funcionários antigos são demitidos e recontratados."
+            },
+            "60": {
+                "message": "Sua demissão foi motivado por corte de gastos? Na verdade, Anão, é que como era uma estatal, a contratação de servidores, mesmo que terceirizados, só ocorria por meio de contratações com prazo de validade ou por meio de licitações. A minha ocorreu e teve duração de três anos e meio, poderia haver mais, entretanto, durante o processo de renovação a empresa foi privatizada, e eles rescindiram o contrato que haviam com a empresa que eu prestava esse serviço. A principal vantagem de ser concursado é a estabilidade no emprego, você não pode ser demitido sem justa causa após três anos de efetivo exercício. Sim, foram pontos que eu ponderei. Eu fiquei com receio de prestar porque bem, são os Correios e estão com o pé na porta para serem privatizados também, mas como é o Lula na presidência, acho que pelo menos por um tempo não haverá esse problema, então eu acho que conseguirei me organizar e pular para um emprego ou concurso melhor."
+            },
+            "61": {
+                "message": "Que tal outra organização como o Dataprev? Esta, certamente, não será privatizada e possui diversas vagas para seu campo de atuação. concursosnobrasil.com/concursos/2024/09/06/concurso-dataprev/"
+            },
+            "62": {
+                "message": "Dei uma olhada, Anão. Mas pelo que vi, a maioria das vagas exige Ensino Superior e a única que possui Ensino Médio é para o Rio de Janeiro. Sou de Santa Catarina. Pelo salário é relativamente interessante, será que com aproximadamente R$ 4.000,00 dá para alugar um kitnet e viver minimamente bem lá? Se sim, vou investir nele também."
+            }
+        },
+        "33": {
+            "33": {
+                "message": "Comprimindo vídeos para postar no chan Você quer postar algum mp4/WebM no chão, mas o limite mixuruca de 10mb está no caminho? Eu vou te ajudar! instale o handbrake: 1)escolha o vídeo que será comprimido 2)clique em perfil e escolha algum formato com very fast antes, com qualidade inferior se o vídeo for grande. 3)escolha aonde o vídeo será salvo e clique em iniciar conversão Pronto."
+            },
+            "38": {
+                "message": "Baseado freio de mão."
+            },
+            "39": {
+                "message": "Eu me enrolei para fazer um fio disso até agora e esqueci desse caralhudinho. Ele tem suporte a AV1?"
+            },
+            "45": {
+                "message": "Tem, sim."
+            },
+            "47": {
+                "message": "Boa, irei testar."
+            },
+            "49": {
+                "message": "Usei o Veryfast1080p30 em uma gameplay que gravei e foi de 7 GB para apenas 1 GB."
+            },
+            "50": {
+                "message": "Mesmo sendo very fast, ficou decente a qualidade? Usou qual formato?"
+            },
+            "51": {
+                "message": "Sim, ficou boa. Não consigo ver diferença, honestamente."
+            },
+            "52": {
+                "message": "Muito bom."
+            }
+        },
+        "3": {
+            "3": {
+                "message": "Fiquei com vontade de testar aquele codec caralhudo AV1 e ver se tem como upar episódios completos de SEL aqui, pesando apenas 8MB, igual fizeram com o Shrek e esse filme relatado."
+            },
+            "4": {
+                "message": "O filme tem maefodendo 2h35min, então é justo a qualidade ficar merda (ainda é impressionante ter um filme INTEIRO nisso), então episódios com 30min com certeza ficariam decentes em 8mb."
+            },
+            "19": {
+                "message": "Vou procurar como faz isso aqui no Windows, estou jogando e com preguiça de ir para o Linux."
+            },
+            "32": {
+                "message": "Bumpando pra não me esquecer de fazer isso."
+            }
+        },
+        "12": {
+            "12": {
+                "message": "serve para fazer joguinho serve para fazer ferramentas de linha de comando serve para fazer backend serve para fazer sistemas distribuídos serve para prototipação de qualquer merda Lua é uma linguagem simples, completa e Brasileira. Aprenda Lua hoje mesmo!"
+            },
+            "13": {
+                "message": "lua 5.4 não sendo luajit"
+            },
+            "14": {
+                "message": "Serve também."
+            }
+        },
+        "5": {
+            "5": {
+                "message": "Anões de front-end, como vocês fazem para planejar e desenvolver as páginas de vocês? Por exemplo, qual seria o processo criativo de vocês para criar essa página do zero: ? To com a ideia de um projeto aqui. Back-end e infra pra mim é tranquilo, sou um cara da matemática e ciência da computação, mas web design eu sempre sugo caralhos. Quero fazer um design com estética cyberpunk, mas não tenho criatividade para isso, o lado artistico do meu cérebro é atrofiado. Tava pensando se tem alguma IA que faça todo o web design para mim ou que pelo menos me dê uma inspiração. Já tenho os requisitos funcionais do projeto."
+            },
+            "6": {
+                "message": "Eu uso Penpot, versão open-source do Figma."
+            },
+            "7": {
+                "message": "Tenho a mesma dúvida. Toda vez que eu tento fazer alguma coisa mais gráfica, eu desanimo por que meu design é uma bosta completa."
+            },
+            "8": {
+                "message": "Valeu pela recomendação, não conhecia. Lembro que quando mexi com Figma pela última vez há uns 2 anos, só passei raiva com a interface confusa. E quando finalmente aprendi a usar minimamente, o design ainda ficou um lixo, hue. To disposto a tentar mais uma vez. Pois é, o problema não é nem escrever HTML, CSS e JavaScript, isso é bem fácil. Problema é conseguir fazer algo minimamente bonito com as fontes e cores corretas, sem parecer que foi feito por uma criança autista."
+            },
+            "9": {
+                "message": "O bom do Figma, e similares, é o minimo de noção do que você vai fazer. E você vai aprender que nem tudo que você imagina para o front é fácil de fazer, HUE."
+            },
+            "10": {
+                "message": "Brutal, fui começar a planejar o projeto e acabei sendo promovido pra assumir o lugar de um colega que vai sair da empresa. To usando meu tempo livre pra entender o trabalho dele, acabei não conseguindo fazer o UI pelo ponpot. Pelo menos, meu salário dobrou. Quando eu conseguir fazer o design, posto aqui para você ratear, anão."
+            },
+            "11": {
+                "message": "Excelente recomendação. Tenho um problema semelhante ao do OP e isso me ajudará muito."
+            }
+        }
+    }
+}

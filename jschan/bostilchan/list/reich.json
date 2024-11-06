@@ -1,0 +1,53 @@
+{
+    "_id": "reich",
+    "name": "reinchan",
+    "description": "Lets all love Lain",
+    "threads": [
+        {
+            "id": 4,
+            "replies": [
+                {
+                    "id": 4,
+                    "message": "Baita board, BO criou pra fazer volume."
+                },
+                {
+                    "id": 5,
+                    "message": "Kek."
+                },
+                {
+                    "id": 6,
+                    "message": "Interaja, miséria."
+                },
+                {
+                    "id": 7,
+                    "message": "Qual é o motivo desse cacete de board existir, se está morta?"
+                },
+                {
+                    "id": 8,
+                    "message": "QUAL É O MOTIVO DESSE CU EXISTIR?????"
+                },
+                {
+                    "id": 9,
+                    "message": "a mera existência de uma board causa tamanha bunda ardida Perdi duríssimo."
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "Que porra de reinchan o que! Vira homem, anão, pare de compartilhar seu cancer."
+                },
+                {
+                    "id": 2,
+                    "message": "Morreu hoje e o autista já quer criar uma board aqui."
+                },
+                {
+                    "id": 3,
+                    "message": "I'm god"
+                }
+            ]
+        }
+    ]
+}

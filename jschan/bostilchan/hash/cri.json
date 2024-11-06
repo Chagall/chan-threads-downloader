@@ -1,0 +1,69 @@
+{
+    "_id": "cri",
+    "name": "Criativo",
+    "description": "/gamemode 1",
+    "threads": {
+        "8": {
+            "8": {
+                "message": "Como aprender xadrez de fato? Já sei o movimento das peças, mas não passa disso. Quero aprender técnicas, como melhorar os lances, etc..."
+            },
+            "9": {
+                "message": "Pelo que entendi vendo o Gambito da Rainha, você lê um livro de jogadas, decora e depois sai treinando ad infinitum para ter todas as jogadas na mente. Alguém mais manjador vai saber dizer se é por aí ou não."
+            },
+            "10": {
+                "message": "Esqueça essa merda e aprenda algo de útil : POKER !"
+            },
+            "11": {
+                "message": "Crie um fio de pôquer se quer falar de pôquer, retardado mental."
+            },
+            "12": {
+                "message": "Texas hold 'em."
+            },
+            "13": {
+                "message": "Holde a minha pica, parece que você não sabe ler."
+            },
+            "14": {
+                "message": "Fodendo isso. Se não tem nada a contribuir, melhor nem dar reply."
+            },
+            "15": {
+                "message": "Big brain time."
+            },
+            "16": {
+                "message": "Isso era pra estar nessa board?"
+            },
+            "17": {
+                "message": "Só se aprende jogando. Sempre se desafie se você achar que está repetitivo; Veja vídeos sobre aberturas de jogos e tente replicá-los; Faça puzzles de xadrez pra encontrar as melhores opções; Veja vídeos de profissionais jogando, e as análises; Assim vai."
+            },
+            "18": {
+                "message": "Xadrez dos anões quando?"
+            }
+        },
+        "1": {
+            "1": {
+                "message": "Como faço para aprender a desenhar paisagens?"
+            },
+            "3": {
+                "message": "Comece aprendendo como desenhar perspectiva e composição, isso é a base de tudo quando se trata de paisagens e cenários. Aqui vão há dois livros pra te ajudar."
+            },
+            "6": {
+                "message": "Aproveitando o fio, utilizar GPT para aprender a desenhar é uma boa?"
+            },
+            "7": {
+                "message": "Desenhe paisagens até ficar bom nisso. A prática leva à perfeição. Also, já tentou pintar paisagens? É uma delícia."
+            }
+        },
+        "4": {
+            "4": {
+                "message": "meu oekaki de uma peituda e um ratinho militar"
+            },
+            "5": {
+                "message": "Cadê o rato, bicho?"
+            }
+        },
+        "2": {
+            "2": {
+                "message": "/toggledownfall"
+            }
+        }
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "_id": "k",
+    "name": "Militia",
+    "description": "Armas, guerras e militarismo",
+    "threads": {
+        "15": {
+            "15": {
+                "message": "Vide o título da thread."
+            },
+            "17": {
+                "message": "- GRUMEC, 1ª Cia Prec PQD, GERR COMANF, GPI-RJ, CORE-RJ e BOPE-RJ durante um adestramento conjunto de combate em ambiente confinado."
+            },
+            "18": {
+                "message": "- Mergulhador de combate do 4º Regimento Recce sul-africano."
+            },
+            "19": {
+                "message": "- Operadores do SBS (Serviço de Bote Especial) da Marinha Britânica no Afeganistão, no início da Guerra ao Terror."
+            },
+            "21": {
+                "message": "- Membros do Comando de Operações das Forças Especiais (KSSO) da Rússia, após conquistarem uma posição do ISIS na Síria."
+            },
+            "22": {
+                "message": "- Lionel Messi visitou ontem uma base da Força Aérea Argentina (FAA)."
+            }
+        },
+        "2": {
+            "2": {
+                "message": "O míssil sabe onde está o tempo todo. Ele sabe disso porque sabe onde não está. Subtraindo onde está de onde não está, ou onde não está de onde está (qualquer que seja maior), ele obtém uma diferença, ou desvio. O subsistema de guiamento usa desvios para gerar comandos corretivos para conduzir o míssil de uma posição onde está para uma posição onde não está, e chegando a uma posição onde não estava, agora está. Consequentemente, a posição onde está, agora é a posição que não estava, e segue-se que a posição que estava, agora é a posição que não está. No caso de a posição em que está não ser a posição em que não estava, o sistema adquiriu uma variação, a variação sendo a diferença entre onde o míssil está e onde não estava. Se a variação for considerada um fator significativo, ela também pode ser corrigida pelo GEA. No entanto, o míssil também deve saber onde estava. O cenário do computador de guiamento do míssil funciona da seguinte forma. Como uma variação modificou algumas das informações que o míssil obteve, ele não tem certeza de onde está. No entanto, ele tem certeza de onde não está, dentro de limites razoáveis, e sabe onde estava. Agora ele subtrai onde deveria estar de onde não estava, ou vice-versa, e diferenciando isso da soma algébrica de onde não deveria estar e onde estava, ele consegue obter o desvio e sua variação, que é chamada de erro."
+            },
+            "4": {
+                "message": "Nunca soube quais são as informações que ele obtém para fazer os cálculos. Me parece que pouco tem a ver com GPS."
+            },
+            "14": {
+                "message": "MAA-1 Piranha."
+            }
+        },
+        "12": {
+            "12": {
+                "message": "Refutem isso."
+            }
+        },
+        "5": {
+            "5": {
+                "message": "BULLPUP As armas com o sistema BullPup possuem uma estrutura diferente das armas convencionais, onde o carregador e o mecanismo de disparo estão localizados na parte traseira da arma, precisamente atrás do gatilho. Essa estrutura permite que a arma tenha um cano mais longo, o que faz com que a precisão da arma seja amplificada, ao passo que mantém um comprimento total menor, facilitando a manobrabilidade em ambientes mais confinados, como CQB. Mesmo com as vantagens, as armas bullpup possuem alguns problemas que fazem com que armas com este sistema não sejam tão preteridas por boa parte dos militaresPor ter o carregador da arma na parte traseira, ela automaticamente fica mais perto do rosto dos operadores, os problemas são: os gases de escape indo no seu rosto e causando desconforto como espirros, coceiras nos olhos e nariz os estojos da arma podem acabar pegando no seu rosto devido ser na parte traseira, se o seu rifle der um problema na alimentação e aquilo estourar, você se fodeu trocas de ombro são uma merda por que sempre esses problemas acima vão se repetirA parte forte do BullPup é ser compacto. Pegando o exemplo do AK, eu não sei quantas polegadas ele tem de cano, mas deve ter umas 10 polegadas. Um cano de 10 polegadas ocupa 70 centímetros, enquanto no BullPup, o mesmo cano de 10 polegadas, ocupa 60 centímetros ( acho que deu para entender, se não deu, vou postar uma imagem ilustrando )."
+            },
+            "6": {
+                "message": "Para quem entende inglês e quer aprender mais, vou deixar o vídeo de uma palestra com um SOF da Áustria sobre armas Bullpup. Quase no final do vídeo, há uma demonstração de uma arma padrão e uma Bullpup em ambiente CQB. Nessa parte, é demonstrada a compactação da AUG, e logo depois o operador também enfatiza a questão das trocas de ombro. Link:"
+            },
+            "10": {
+                "message": "Sempre pensei que a graça do bullpup era CQB mesmo, já que com ela, você pode atirar bem com uma mão só, se necessário, coisa que é inviável com um rifle normal."
+            },
+            "11": {
+                "message": "Outra coisa que eu não tinha reparado é que bullpup tem o cano maior, bastante interessante."
+            }
+        },
+        "1": {
+            "1": {
+                "message": "Esse é o primeiro post do /k/, que será seguido por uma série de fios informativos que pretendo criar aqui. O objetivo desses fios é enriquecer o leitor em relação aos aspectos e curiosidades do militarismo, tanto para aqueles que, como eu, são apaixonados por esse mundo, quanto para quem deseja aprender alguns termos técnicos e não ficar perdido em conversas onde eles aparecem. Tenho um caderninho de anotações, onde escrevo minhas descobertas e aprendizados, além de alguns rascunhos com opiniões e dissertações sobre assuntos do mundo militar. Periodicamente (ou seja, quando der na telha), tentarei condensar esses temas de uma forma mais técnica e com uma escrita mais regrada, postando aqui. Por fim, o /k/ também foi criado no Reinchan, onde farei os posts paralelamente a aqui."
+            },
+            "3": {
+                "message": "Drones anti-jammer, anão. Se souber sobre, comente, eu acho simplesmente uma das armas mais loucas da nossa era, pela simplicidade e efetividade."
+            }
+        }
+    }
+}

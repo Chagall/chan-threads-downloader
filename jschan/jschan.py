@@ -142,7 +142,7 @@ def get_thread_replies(chan_name, tld, board_id, thread_id):
 
 
 def save_board_data(chan_name, board_id, board_data):
-    with open(f"{chan_name}/{board_id}.json", "w", encoding="utf-8") as file:
+    with open(f"{chan_name}/list/{board_id}.json", "w", encoding="utf-8") as file:
         json.dump(board_data, file, ensure_ascii=False, indent=4)
 
 

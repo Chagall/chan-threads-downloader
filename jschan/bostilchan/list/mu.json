@@ -1,0 +1,42 @@
+{
+    "_id": "mu",
+    "name": "musica",
+    "description": "",
+    "threads": [
+        {
+            "id": 12,
+            "replies": [
+                {
+                    "id": 12,
+                    "message": "Harai the Maid (mais pós-apocalíptico): Yakui the Maid (bem metalcore dos anos 2000): Chikoi the Maid (estilos mais variados mas todos meio de algo mais reflexivo...?): Kaitai the Maid (mais nintendocore): Takai the Maid (puro e simples peso): Xenon the Maid (puro jorgismo):"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "replies": [
+                {
+                    "id": 11,
+                    "message": "Postem boas músicas e artistas pouco conhecidos que merecem uma atenção maior."
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "Esse fio não tem nada a ver com produção de músicas, mas essa foi a board que eu achei mais apropriada para isso. Irei usar esse fio para dump pessoal das autistarias underground e generos esquisitos que eu ouço, um deles é o **Noisecore**."
+                },
+                {
+                    "id": 8,
+                    "message": "criei o /mu/ mova esse fio para la anão"
+                },
+                {
+                    "id": 9,
+                    "message": "Bumpando para ouvir."
+                }
+            ]
+        }
+    ]
+}

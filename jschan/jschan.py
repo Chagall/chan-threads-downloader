@@ -27,7 +27,7 @@ def get_all_boards_data(chan_name, tld):
         board["threads"] = get_board_threads(chan_name, tld, board_id)
         threads_count = len(board["threads"])
 
-        print(threads_count, " threads found on board /", board_id)
+        print(threads_count, "threads found on board /", board_id)
 
         for thread in board["threads"]:
             if thread_counter % 20 == 0:

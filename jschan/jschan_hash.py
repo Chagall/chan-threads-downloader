@@ -138,6 +138,8 @@ def get_thread_replies_hash(chan_name, tld, board_id, thread_id):
 
 
 def save_board_data(chan_name, board_id, board_data):
+    os.makedirs(f"{chan_name}/hash/", exist_ok=True)
+
     with open(f"{chan_name}/hash/{board_id}.json", "w", encoding="utf-8") as file:
         json.dump(board_data, file, ensure_ascii=False, indent=4)
 

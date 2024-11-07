@@ -153,6 +153,10 @@
                 {
                     "id": 160,
                     "message": "Tem mais configurações, mas acho melhor usar um fork do firefox, como o LibreWolf."
+                },
+                {
+                    "id": 161,
+                    "message": "Hardened sim, mas o recomendável para OPSEC é MullvadBrowser ou TOR."
                 }
             ]
         },

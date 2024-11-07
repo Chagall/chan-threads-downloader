@@ -1,0 +1,133 @@
+{
+    "_id": "art",
+    "name": "Arte",
+    "description": "Pintura, Música e Cinema",
+    "threads": [
+        {
+            "id": 19,
+            "replies": [
+                {
+                    "id": 19,
+                    "message": "Sim, é wallpaper tempo!"
+                },
+                {
+                    "id": 27,
+                    "message": "Evitem wallpapers genéricos"
+                },
+                {
+                    "id": 28,
+                    "message": "日本"
+                },
+                {
+                    "id": 29,
+                    "message": "Evite ser chato."
+                },
+                {
+                    "id": 33,
+                    "message": "4 meses desde que abri esse fio..."
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "replies": [
+                {
+                    "id": 30,
+                    "message": "Olá, anões. Nos últimos anos estive buscando apenas bandas novas e gostaria de compartilhar com os senhores um pouco dos meus achados. O estilo que mais gostei foi o Stoner/Doom. No geral são bandas extremamente influenciadas por Black Sabbath, então sabemos que a riffagem é excelente."
+                },
+                {
+                    "id": 31,
+                    "message": "Under Acid Hoof Primeiro album full length da banda Acid Mammoth. Them! Me lembro até hoje de ouvir a introdução desta primeira música. Ouvindo a toda altura nos headphones parece que a guitarra está puxando sua alma para fora do corpo, como os ganchos de Hades no GOW 3. Tree of Woe Enquanto a primeira música do album usa muita intensidade, a segunda é lenta, com riffs pesados e hipnotizantes. Tusks of Doom Creio que hipnotizante é uma boa palavra para a maioria das músicas dessa banda, tanto do primeiro quanto do segundo album. Mas definitivamente recomento ouvir esta ao vivo:"
+                },
+                {
+                    "id": 32,
+                    "message": "Caravan Segundo album da banda. O primeiro album tinha uma temática totalmente satânica, este segundo entra com tudo em uma temática mais espacial e psicodélica, provavelmente por influência de bandas como Kal-El e Saint Karloff. Berserker Riffs legais, assim como todos os riffs da banda. Mas ofuscada pelo que vem a seguir. Psychedelic Wasteland Uma aula de estrutura musical, não darei nem spoilers. Caravan Já quis montar em uma caravana de mamutes viajando pelo cosmo? É a sensação que esta musica lhe dá do início ao fim."
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "replies": [
+                {
+                    "id": 18,
+                    "message": "Homer Simpsons."
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "replies": [
+                {
+                    "id": 9,
+                    "message": "1 From Mleta to Gudauri, 1868 por Ivan Ayvazovsky 2 October Breezes, 1908 - 1909 por Albert P. Lucas 3 Allee de l'Ete, Versailles, 1913 por Carroll Beckwith 4 Sunrise, Yosemite Valley, 1870 por Albert Bierstadt 5 The Voyage of Life: Old Age, 1939 por Thomas Cole"
+                },
+                {
+                    "id": 10,
+                    "message": "1 A View of Naples through a Window, 1824 por Ludwig_Catel 2 Nocturne in Blue and Silver: The Lagoon, Venice, 1879 - 1880 por McNeill Whistler 3 Villas at Trouville, 1884 por Gustave Caillebotte 4 Winter in the Jura, 1875 por Gustave Courbet 5 Strandgade, Sunshine, 1906 por Vilhelm Hammershøi"
+                },
+                {
+                    "id": 11,
+                    "message": "1 A Capriote, 1878 por Singer Sargent 2 Portrait of Dora Wheeler, 1882 – 1883 por Merritt Chase 3 Tannhäuser, 1886 por Henri Fantin-Latour 4 Evans Bay, 1893 por James M. Nairn 5 The Inn, Germany, 1873 por Walter Shirlaw"
+                },
+                {
+                    "id": 13,
+                    "message": "1 Pont de Gleize in Arles, 1888 por Vincent van Gogh 2 Apertando o lombilho, 1895 por Almeida Júnior 3 In the Woods, 1866 por George Inness 4 Midnight, 1891 por Jean-Charles Cazin 5 An Italianate landscape, 1800 por John White Abbott"
+                },
+                {
+                    "id": 14,
+                    "message": "1 Madame X, 1884 por Singer Sargent 2 Washerwomen, 1870 por Edgar Degas 3 Huntsman and hounds, 1809 por John Sartorius Jr 4 The dramatic muse, 1802 por Wilhelm von Schadow 5 Biblis, 1884 por William-Adolphe Bouguereau"
+                },
+                {
+                    "id": 15,
+                    "message": "1 Washing place in Grez-sur-Loing, 1901 por Asai Chū 2 Changing Pastures, 1863 por Rosa Bonheur 3 Gassed, 1918 por Singer Sargent 4 Bridge in Grez-sur-Loing, 1902 por Asai Chū 5 Seascape: Mera, 1904 por Aoki Shigeru"
+                },
+                {
+                    "id": 16,
+                    "message": "1 The Black Sea, 1881 por Ivan Aivazovsky 2 An indian trapper, 1889 por Frederic Remington 3 Woman in wheat field, 1897-1910 por Luis Astete 4 The flying dutchman, 1900 por Howard Pyle 5 Laziness, 1898 por Ramon Casas"
+                },
+                {
+                    "id": 17,
+                    "message": "1 The morphine's girl, 1894 por Santiago Rusiñol 2 Squall on the horizon, 1872 por Gustave Courbet 3 I fidanzati, 1869 por Silvestro Lega 4 Foreshortened female nude, 1894 por Ramon Casas 5 Rainstorm over the sea, 1828 por John Constable"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "Minha banda favorita, postarei as melhores músicas."
+                },
+                {
+                    "id": 4,
+                    "message": "O que a foda? O vocêtubo certa vez me recomendou uma música deles, mas eu me esqueci tanto da música quando da banda. Era King is White and in The Crowd. Estou ouvindo agora."
+                },
+                {
+                    "id": 5,
+                    "message": "Esse álbum New Gold Dream é excelente, sugiro ouvir todas as faixas."
+                },
+                {
+                    "id": 6,
+                    "message": "Em homenagem ao primeiro anão a participar do meu fio, a música do Simple Minds que ele citou."
+                },
+                {
+                    "id": 7,
+                    "message": "Essa banda tem diversas músicas famosas, mas as pessoas não reconhecem a banda em sí, essa é a faixa mais famosa e normie da banda. Música tema do filme O clube dos 5 . Conheci a banda por essa música na infância por causa do meu pai que ouve ela em loop até hoje. Atualmente acho que a banda tem várias músicas melhores que essa, já vi um comentário que os membros da banda não curtem muito ela apesar do sucesso por causa do filme."
+                },
+                {
+                    "id": 8,
+                    "message": "Acabei de descobrir mais uma música incrível deles, que música boa, meu Deus."
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "replies": [
+                {
+                    "id": 3,
+                    "message": "Teremos banners novos? Antigos? OCs? Sem tempo para pensar, postem banners."
+                }
+            ]
+        }
+    ]
+}

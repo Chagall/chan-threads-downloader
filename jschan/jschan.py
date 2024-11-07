@@ -1,11 +1,13 @@
 import json
 import os
 import sys
+from timeit import default_timer as timer
 
 import requests
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 from utils.chan_html_parser import ChanHTMLParser
+from utils.misc import print_execution_time
 
 
 def get_all_boards_data(chan_name, tld):
@@ -148,7 +150,18 @@ def save_board_data(chan_name, board_id, board_data):
         json.dump(board_data, file, ensure_ascii=False, indent=4)
 
 
-chans = [{"name": "bostilchan", "tld": ".org"}, {"name": "27chan", "tld": ".org"}]
+chans = [
+    {"name": "bostilchan", "tld": ".org"},
+    # {"name": "27chan", "tld": ".org"}
+]
+
+start_time = timer()
 
 for chan in chans:
     get_all_boards_data(chan.get("name"), chan.get("tld"))
+
+end_time = timer()
+
+total_time = end_time - start_time
+
+print_execution_time(start_time, end_time)

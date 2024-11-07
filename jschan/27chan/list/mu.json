@@ -1,0 +1,514 @@
+{
+    "_id": "mu",
+    "name": "Música",
+    "description": "O som aqui é bom!",
+    "threads": [
+        {
+            "id": 2,
+            "replies": [
+                {
+                    "id": 2,
+                    "message": "Esta tábua é dedicada ao compartilhamento, apreciação, discussão e criação de música e seus variados gêneros e artistas. Recursos: [4/mu/ Wiki]( Catálogo e Banco de Dados: [Discogs]( e [GnuDB]( [Hydrogenaudio Wiki]( Trackers públicos de música japonesa: [Tokyo Toshokan]( e [Nyaa]( Compartilhamento P2P: [Soulseek]( Bot de reconhecimento: Dêem preferência à [Opus]( o melhor **lossy codec**."
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "replies": [
+                {
+                    "id": 4,
+                    "message": "Continuação do"
+                },
+                {
+                    "id": 5,
+                    "message": "Ouvindo Akina's Best"
+                },
+                {
+                    "id": 7,
+                    "message": "Lio é puro ouro."
+                },
+                {
+                    "id": 25,
+                    "message": "Essa fofinha russa canta muito!"
+                },
+                {
+                    "id": 27,
+                    "message": "Essas musiquinhas japonesas estilo jazz empolgante de tokusatsu são muito boas!"
+                },
+                {
+                    "id": 28,
+                    "message": "Postei muita coisa naquele fio mas não conseguir embutir links desanima bastante."
+                },
+                {
+                    "id": 29,
+                    "message": "Tenho quase certeza que o Ninja nunca vai implementar nenhum **addon** ao JSchan, infelizmente."
+                },
+                {
+                    "id": 33,
+                    "message": "Estou voltando a escutar DnB após mais de 1 ano sem."
+                },
+                {
+                    "id": 34,
+                    "message": "Excelente, tambores e robalos é um excelente estilo. Curioso pois lembra a batida rápida com ritmos de jazz mais animado e ao mesmo tempo a dinâmica de eletrônico e instrumentais consegue balancear um ritmo que não para mas ao mesmo tempo não cansa. Me lembra de videogames e programas de TV antigos"
+                },
+                {
+                    "id": 35,
+                    "message": "Prefiro o sub-gênero **intelligent jungle**, escutava muito o canal Ambiance ( no caminho para a faculdade. O LTJ Bukem definiu aquele som usando muitos **samples** sci-fi que passam aquela sensação etérea. robalos Quis dizer rollers?"
+                },
+                {
+                    "id": 36,
+                    "message": "tambores e robalos"
+                },
+                {
+                    "id": 42,
+                    "message": "Baseado, você é o anão que vive postando .opus? Lembro de um fio antes no beta do 27jschan. Sabe uma fonte boa para baixar arquivos neste formato? Ou apenas você pega de serviços de streaming e converte?"
+                },
+                {
+                    "id": 43,
+                    "message": "você é o anão que vive postando .opus? Sou um deles. Opus é o melhor lossy codec, é o formato que o Youtube, Spotify, etc. usam. Para baixar o áudio Opus de um vídeo: `yt-dlp -x Baixo as **releases** de trackers públicos, do Soulseek e de anões caridosos em formato FLAC (lossless), daí converto para Opus para postar. Baixe opus-tools daqui: Se estiver no Windows, execute isso no cmd para converter um álbum inteiro: `for %i in (*.flac) do opusenc --bitrate 96 --framesize 60 --picture cover.jpg %i %~ni.opus `"
+                },
+                {
+                    "id": 48,
+                    "message": "Incrível, parei de baixar músicas em .flac faz um tempo então acabei baixando só mp3 porque é o que meu iPod de 10 anos atrás roda. Obrigado pela dica"
+                },
+                {
+                    "id": 52,
+                    "message": "Leitura essencial: `yt-dlp -x -o %(artist)s - %(title)s [%(id)s] --embed-metadata --embed-thumbnail --convert-thumbnails jpg v5RK2i5wdt0`"
+                },
+                {
+                    "id": 57,
+                    "message": "Escutando um **phonk** Z"
+                },
+                {
+                    "id": 58,
+                    "message": "Justiça do Marshmallow engatilhou meu autismo, ''não consigo parar'' de escutar!"
+                },
+                {
+                    "id": 59,
+                    "message": "Você é o Doorcuck?"
+                },
+                {
+                    "id": 70,
+                    "message": "Essa daqui me ajudou a vencer um morro de bike."
+                },
+                {
+                    "id": 71,
+                    "message": "Um salve para a"
+                },
+                {
+                    "id": 72,
+                    "message": "Gosto muito desta."
+                },
+                {
+                    "id": 84,
+                    "message": "Interessante, esse Valerie ele fazia ''sets'' de DJs franceses?"
+                },
+                {
+                    "id": 86,
+                    "message": "A está de volta!"
+                },
+                {
+                    "id": 102,
+                    "message": "Olhos verdes invejosos, não me deixem à sós!"
+                },
+                {
+                    "id": 103,
+                    "message": "A inveja de olho verde I think that's more accurate my nigga, but I'm not so sure."
+                },
+                {
+                    "id": 104,
+                    "message": "Foi uma tradução livre, desculpe :("
+                },
+                {
+                    "id": 105,
+                    "message": "A música é ótima, portanto não peça desculpas."
+                },
+                {
+                    "id": 106,
+                    "message": "não peça desculpas S-sim senhor!"
+                },
+                {
+                    "id": 107,
+                    "message": "Industrial Italiano para animar a madrugada..."
+                },
+                {
+                    "id": 108,
+                    "message": "Uma mestrepeça:"
+                },
+                {
+                    "id": 121,
+                    "message": "Pureza é nossa melhor arma."
+                },
+                {
+                    "id": 136,
+                    "message": "On verrait tous les tordus s'unir pour recréer Un monde meilleur à l'insu de ceux Qui les ont radiés!"
+                },
+                {
+                    "id": 142,
+                    "message": "Meu nome é lama."
+                },
+                {
+                    "id": 150,
+                    "message": "Esmeralda tingida de sangue."
+                },
+                {
+                    "id": 151,
+                    "message": "Me lembra uma época quando as coisas eram mais simples pré-2012."
+                },
+                {
+                    "id": 152,
+                    "message": "Estou escutando porque minha mãe mandou, achei muito abaitolada e depressiva."
+                },
+                {
+                    "id": 153,
+                    "message": "the cure Quantos anos tem sua mãe?"
+                },
+                {
+                    "id": 154,
+                    "message": "Exatos 50."
+                },
+                {
+                    "id": 157,
+                    "message": "Assisti Footloose (1984) ontem, e a música me soou muito familiar... É um cover japonês!"
+                },
+                {
+                    "id": 158,
+                    "message": "A tribo de Dana, 90s celta rap"
+                },
+                {
+                    "id": 170,
+                    "message": "Clássica do Initial D"
+                },
+                {
+                    "id": 174,
+                    "message": "Bom dia."
+                },
+                {
+                    "id": 175,
+                    "message": "Postem R.A.C."
+                }
+            ]
+        },
+        {
+            "id": 187,
+            "replies": [
+                {
+                    "id": 187,
+                    "message": "Algum anão daqui escuta TallyHall?"
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "replies": [
+                {
+                    "id": 21,
+                    "message": "Radio fio! - Maior coleção de rádios e TV da internet - Diretório de transmissões usando Icecast - Anime e Vidya - Rádio de chan - Frontend de rádios - Rádio online russa com dezenas de sub-rádios de todos estilos - Rádio específica de shoegaze, bom para conhecer coisas novas - O mesmo só que para folk - Synth/Vaporwave - DnB e Trance - Ambiente - Você escolhe uma cidade, assiste uma dashcam do trânsito local e escolhe rádios locais para ouvir - Similar ao anterior, é um globo interativo para descobrir rádios locais - Rádios divididas por gênero, curadas à mão - Frontend do Youtube Music Rádios da"
+                },
+                {
+                    "id": 22,
+                    "message": "- Rádio de anime song russa"
+                },
+                {
+                    "id": 23,
+                    "message": "- Rádio da Kunhatan."
+                },
+                {
+                    "id": 24,
+                    "message": "Já está no OP. Gosto muito dessa rádio, a seleção é pequena mas de bom gosto, descobri bossa nova de Touhou, jazz de Gunsmith Cats e prog rock, o album The Six Wives of Henry VIII é GOAT. A Gata forneceu a listagem completa aqui:"
+                },
+                {
+                    "id": 37,
+                    "message": "Chequem o Transistor , um catálogo de rádios para Android bem leve que usa a DB do Gostei dessa rádio francesa:"
+                },
+                {
+                    "id": 38,
+                    "message": "Tem esse aqui também que sempre gostei e postavam antigamente."
+                },
+                {
+                    "id": 40,
+                    "message": "Obrigado, OP. Enjoo escutar rádios e estava pensando em fazer um fio assim. Alguns que eu escuto: Música de Touhou. Radio de hip-hop, trap e phonk. É um gênero musical um pouco zoomer demais até pra mim que sou zoomer, mas gosto de ouvir as batidas. Funk do futuro. Radios de música sertaneja. Acho que os anões vão me zoar por isso, mas existem algumas poucas e boas músicas sertanejas gostosas de escutar, sem letra de corno ou algo do tipo. As vezes fico nessas rádios tentando pescar algumas modas de violas esquecidas mas que são ouro. De resto eu uso algumas já postadas no fio."
+                },
+                {
+                    "id": 41,
+                    "message": "Imagino que muitos não liguem, mas segue rádios brasileiras. inb4 não é brasileira"
+                },
+                {
+                    "id": 93,
+                    "message": "A voltou depois alguns meses caída!"
+                },
+                {
+                    "id": 184,
+                    "message": "JAZZ:"
+                }
+            ]
+        },
+        {
+            "id": 79,
+            "replies": [
+                {
+                    "id": 82,
+                    "message": "Pesquise por ''open directories''. eyedex.org odp.org odcrawler.xyz `mpv ftp://anonymous:@213.141.130.11:21/storage/Music/W.A.S.P/06-The Crimson Idol Cd1 1992/01-The Titanic Overture.mp3 ` tatu4u.net/videos/ allmylove.org/audio/ modland.com keygenmusic.org music.ishkur.com"
+                },
+                {
+                    "id": 88,
+                    "message": "Não é um acervo, mas uma lista de músicas recomendadas."
+                },
+                {
+                    "id": 183,
+                    "message": "Baixe albuns diretamente do Spofity, e de outros serviços de streaming."
+                }
+            ]
+        },
+        {
+            "id": 178,
+            "replies": [
+                {
+                    "id": 178,
+                    "message": "Algum anão ainda tem os álbuns que fazíamos em conjunto anos atrás? Perdi todos, adoraria ter eles de volta."
+                },
+                {
+                    "id": 179,
+                    "message": "Você está falando do Vitrola 27chan?"
+                },
+                {
+                    "id": 180,
+                    "message": "Eu tinha no meu MP3 player, mas ele faleceu."
+                },
+                {
+                    "id": 181,
+                    "message": "Tá na mão: /o/82"
+                },
+                {
+                    "id": 182,
+                    "message": "Anão é irmão!"
+                }
+            ]
+        },
+        {
+            "id": 176,
+            "replies": [
+                {
+                    "id": 176,
+                    "message": "Pesquise uma música no YouTube com o que você acha que eles cantam e poste se o algoritmo acertar. Existe uma fodendo playlist com o nome que eu pesquisei."
+                }
+            ]
+        },
+        {
+            "id": 171,
+            "replies": [
+                {
+                    "id": 171,
+                    "message": "Não necessariamente EDM, mas músicas que mesmo feitas com eletrônicos, tenham um certo foco na parte teórica e experimental da coisa toda. Exemplos de estilos: IDM. Ambient Techno, Acid House, Synth Pop, Berlin School, Krautrock, Dungeon Synth, Kosmiche, Minimal Synth, New Wave, EBM, Trip Hop, Downtempo, Electro, Industrial, Drum and Bass, Breakcore, etc..."
+                },
+                {
+                    "id": 172,
+                    "message": "Contribuindo."
+                }
+            ]
+        },
+        {
+            "id": 165,
+            "replies": [
+                {
+                    "id": 165,
+                    "message": "Anões, poderiam me dizer aonde encontrar esta musica? Sei que é do anime Locke the Superman e o nome ラフノールよ永遠に. Mas não consigo achar nada sobre, sem video no youtube, soundcloud e spotify sem audios, apenas sites japoneses vendendo a OST completa do Locke the Superman e este video que encontrei por aqui faz tempos"
+                },
+                {
+                    "id": 166,
+                    "message": "Você ao menos PINADO? Trackers públicos de música japonesa: Tokyo Toshokan e Nyaa Pergunte ao anão do /b/13605 qual a **release**, foi dele que pegou o arquivo, also aprenda a usar acentuação."
+                }
+            ]
+        },
+        {
+            "id": 112,
+            "replies": [
+                {
+                    "id": 112,
+                    "message": "0 resultado Sériosamente. Postem as melhores e repassem seus conhecimentos, tenho boas ideias para este fio, mas não tenho muito tempo, então irei dar bump de tempos em tempos se necessário. Começo com Erik Satie e suas Gnossiennes 1°, 2°, 3°, 4°, 5° e 6°."
+                },
+                {
+                    "id": 115,
+                    "message": "mil japoneses tocando e cantando a 9ª sinfonia de BeethovenMeus amigos, por essa eu não esperava:"
+                },
+                {
+                    "id": 127,
+                    "message": "Não sei se se encaixa, mas essa Experiência Sinfônica de Cavaleiros do Zodíaco é magnifica."
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "replies": []
+        },
+        {
+            "id": 80,
+            "replies": [
+                {
+                    "id": 80,
+                    "message": "Músicas brasileiras."
+                },
+                {
+                    "id": 87,
+                    "message": "Um anão compartilhou isso no 1500:"
+                },
+                {
+                    "id": 129,
+                    "message": "João Gilberto - Você e Eu"
+                },
+                {
+                    "id": 130,
+                    "message": "Não Creio Em Mais Nada - Paulo Sérgio"
+                },
+                {
+                    "id": 131,
+                    "message": "A Palo Seco - Belchior"
+                },
+                {
+                    "id": 132,
+                    "message": "Preciso Me Encontrar - Cartola Chega de Saudade - João Gilberto Azul da Cor do Mar - Tim Maia Ouro de Tolo - Raul Seixas João Gilberto - Solidão"
+                },
+                {
+                    "id": 133,
+                    "message": "Tom Jobim - A Felicidade João Gilberto - Louco Magoa - João Gilberto Luiz Bonfá - Melancolia Chega De Saudade - Tom Jobim"
+                },
+                {
+                    "id": 135,
+                    "message": "Triste - Tom Jobim (Thiago Rabello and Nelson Faria) Pra Machucar meu Coração - Stan Getz & João Gilberto A Valsa de Quem não tem Amor - João Gilberto Carinhoso - Pixinguinha Melodia Triste - Cauby Peixoto"
+                },
+                {
+                    "id": 137,
+                    "message": "O João Gilberto tem uma das vozes mais irritantes que já ouvi. Simplesmente não consigo gostar de nenhuma música dele por causa disso. É uma pena."
+                },
+                {
+                    "id": 138,
+                    "message": "Tudo outra vez - Belchior Fotografia 3X4 - Belchior Alucinação - Belchior Esperanças perdidas - Os originais do samba"
+                },
+                {
+                    "id": 141,
+                    "message": "Talvez seja o tom de voz dele, além do mais ele é velho."
+                }
+            ]
+        },
+        {
+            "id": 125,
+            "replies": [
+                {
+                    "id": 125,
+                    "message": "Anões, como vocês reagem ao cenário musical atual cada vez mais infestado de liberalismo boiola e com a musicalidade cada vez em segundo plano? Minha resposta é sempre ficar no guarda-chuva das décadas anteriores ou tirar este viés político repudiável do que escuto (o que nem sempre é possível visto que, o que acontece hoje, já foram pintadas tempos atrás por grandes artistas ao pregarem a liberdade irrestrita de opinião, libertinagem e tantas outras coisas)."
+                },
+                {
+                    "id": 126,
+                    "message": "Que músicas você escuta e quais você não gosta hoje?"
+                },
+                {
+                    "id": 134,
+                    "message": "Minha resposta é sempre ficar no guarda-chuva das décadas anteriores Infelizmente é o que tem para hoje, se você não quiser escutar o que é popular tem que virar o tiozão onde na minha época era melhor . O que é normal de se ouvir hoje em dia é sertanejo universitário , funk, rap e suas 400 variações, pop atual que é reggaeton cantado até com sotaque latino e MPB moderno que é acústico onde a cantora tem vozinha de menininha que parece que está com diarreia e cólicas de TPM. O temas são sempre, festa, bebedeira, cornice, sexo, putaria, ostentação ou depressão. Deve até existir música boa nacional sendo produzida, não duvido, mas é afogado em meio ao tanto de lixo produzido industrialmente para as massas que me canso antes mesmo de procurar. Outro lugar para escapar do cenário atual é ouvir instrumental."
+                }
+            ]
+        },
+        {
+            "id": 128,
+            "replies": [
+                {
+                    "id": 128,
+                    "message": "Sugestões e indicações."
+                }
+            ]
+        },
+        {
+            "id": 120,
+            "replies": [
+                {
+                    "id": 120,
+                    "message": "Fio para postar e apreciar Gondolas. Vamos comentar sobre os cenários e músicas em vez de apenas dumpar."
+                },
+                {
+                    "id": 123,
+                    "message": "Não é possível que só eu gosto de gondolas, se fosse o caso não existiriam tantas. Mas eu criei um fio no /mu/ da versão antiga e ninguém postava, criei um nesse e acho que não terá adesão."
+                },
+                {
+                    "id": 124,
+                    "message": "Pessoalmente nunca vi graça no meme, mas tome alguns **links** interessantes:"
+                }
+            ]
+        },
+        {
+            "id": 91,
+            "replies": [
+                {
+                    "id": 91,
+                    "message": "Vocês conhecem a série In Ya Mellow Tone ? São músicas de Rap antigas remixadas com instrumentos de música clássica. A ídeia era vender isso no mercado asiático. Algumas faixas foram tiradas do vídeos do youtube. Acho que continham muitos palavrões. Eu tenho todos aqui em flac. Os meus favoritos são esses dois abaixo, mas todos são legais de ouvir."
+                },
+                {
+                    "id": 92,
+                    "message": "Não conhecia mas comecei a ouvir a primeira e me lembrou muito aquelas misturas de RAP com músicas japonesas que faziam de brincadeira antigamente."
+                },
+                {
+                    "id": 99,
+                    "message": "Soa como Nujabes, acho que deve conhecer."
+                }
+            ]
+        },
+        {
+            "id": 67,
+            "replies": [
+                {
+                    "id": 67,
+                    "message": "(Refazendo o fio) Vocês conhecem Lost Wave? O que vocês acham de Lost Wave? Quais Lost Waves vocês conhecem?. Me refiro ao gênero Lost Wave ( Penso eu que se tornou uma especíe de gênero) ou somente a mística mesmo. Vejam a história da Música Mais Mistériosa Da Internet ela ilustra bem o que eu estou falando. Enfim, deixo aqui meu fio"
+                }
+            ]
+        },
+        {
+            "id": 45,
+            "replies": [
+                {
+                    "id": 45,
+                    "message": "Qualquer coisa, feita por AI, outros artistas, feita por autistas na internet, tudo vale. Explicar porque acha melhor é opcional. Começando com uma música nova do Rick Astley Onde a original enchem de efeito, palmas irritantes, coral no fundo cobre a voz principal e autotune em excesso."
+                },
+                {
+                    "id": 53,
+                    "message": "A voz do Freddy é excelente para o Sertanejo."
+                },
+                {
+                    "id": 54,
+                    "message": "Mais uma, se nota como a voz em inglês não consegue reproduzir a fonética portuguesa."
+                },
+                {
+                    "id": 56,
+                    "message": "Interessante, parece um sotaque de Portugal, as vezes o modelo usado foi treinado por tugas. Colaborando para o fio de músicas de realidade alternativa, seguem o que achei que uns coreanos malucos fizeram anos atrás. (fonte nas tags)"
+                },
+                {
+                    "id": 100,
+                    "message": "Covers feitos com IA."
+                }
+            ]
+        },
+        {
+            "id": 44,
+            "replies": [
+                {
+                    "id": 44,
+                    "message": "Saudações, anões do /mu/. Procuro por um plugin de guitarra que cante frases pré definidas como um Vocaloid da vida. Isso existe? Conhecem algum?"
+                },
+                {
+                    "id": 46,
+                    "message": "Consegue explicar melhor, anão? Está bem vago, não sei se quer um gerador de riffs / acordes, ou um plugin para vocalizar guitarra, em ambos os casos existe muita coisa, fora que depende muito do software / hardware que tens disponível."
+                },
+                {
+                    "id": 47,
+                    "message": "Perdão pela dislexia. ou um plugin para vocalizar guitarra Basicamente isso. Algo como aquele pedal Korg Miku Stomp seria o ideal. Tenho aqui uma interface de audio e um teclado MIDI, mas queria algo especificamente para a guitarra."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "replies": [
+                {
+                    "id": 20,
+                    "message": "NT: Músicas que você sente aversão mas mesmo assim passou a gostar de ouvir ou NT: Músicas que você escuta escondido Eu começo. Dreamcatcher (드림캐쳐) - 'Gritar' (Scream) FLOW ESPACIAL - Teto, WIU & Matuê (ÁUDIO OFICIAL)"
+                }
+            ]
+        }
+    ]
+}

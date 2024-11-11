@@ -1,0 +1,1987 @@
+{
+    "id": "mod",
+    "name": "mod",
+    "description": "Moderação. A moderação não vai tirar seu ban, anão.",
+    "threads": [
+        {
+            "id": 452,
+            "replies": [
+                {
+                    "id": 453,
+                    "message": "Iria postar na board correta, mas não consegui. Espero que vejam meu comentário e ajeitem isso, por favorzinho."
+                },
+                {
+                    "id": 454,
+                    "message": "Não consegui reproduzir. Aqui está funcionando normalmente."
+                },
+                {
+                    "id": 455,
+                    "message": "Não sei se tô fazendo algo de errado."
+                },
+                {
+                    "id": 456,
+                    "message": "Qual é o dispositivo e navegador?"
+                },
+                {
+                    "id": 457,
+                    "message": "Vou tentar ver se funciona em outro."
+                },
+                {
+                    "id": 458,
+                    "message": "É, o problema é com o navegador, testei em outro. O Magali tá bem zoado no Chrome, nem a banlist aparece pra mim."
+                },
+                {
+                    "id": 459,
+                    "message": "Nossa, tá bem bizarro mesmo no Chrome mobile."
+                },
+                {
+                    "id": 460,
+                    "message": "Qual a versão do Chrome vocês estão usando?"
+                },
+                {
+                    "id": 462,
+                    "message": "Consegue testar na guia anônima? Parece que o javascript não atualizou, o que pode ser problema do cache no navegador."
+                },
+                {
+                    "id": 463,
+                    "message": "Na guia anônima deu certo! Não consigo printar, mas por 1 segundo ficou como no print anterior e depois carregou da forma certa."
+                },
+                {
+                    "id": 464,
+                    "message": "Para resolver é só limpar os dados/cache do site."
+                },
+                {
+                    "id": 465,
+                    "message": "Farei isso, obrigada!"
+                },
+                {
+                    "id": 466,
+                    "message": "Que diabo é isso? kek"
+                },
+                {
+                    "id": 467,
+                    "message": "Você postou alguma palavra proibida."
+                },
+                {
+                    "id": 472,
+                    "message": "Mostre um print do que você está tentando postar."
+                },
+                {
+                    "id": 473,
+                    "message": "Teste"
+                },
+                {
+                    "id": 474,
+                    "message": "Desculpa responder por aqui, mas foi a única maneira. Basicamente, não posso responder uma segunda vez o mesmo fio e não posso criar fios."
+                },
+                {
+                    "id": 475,
+                    "message": "Acho que agora vai dar certo."
+                },
+                {
+                    "id": 476,
+                    "message": "Testinho."
+                },
+                {
+                    "id": 477,
+                    "message": "Deu certo!!"
+                },
+                {
+                    "id": 478,
+                    "message": "Consegui quebrar as traduções. Até amanhã espero ter resolvido."
+                },
+                {
+                    "id": 479,
+                    "message": "As IDs estão sem cor, mesmo após fazer a limpeza de cache. Só avisando, não sei se mudaram propositalmente. Se for, ignorem a user burrinha."
+                },
+                {
+                    "id": 480,
+                    "message": "Navegador e dispositivo?"
+                },
+                {
+                    "id": 481,
+                    "message": "Realizei diversas mudanças nos javascript. Se algo der errado, descreva o que está no OP."
+                },
+                {
+                    "id": 482,
+                    "message": "Moderação, no pc a parte do banlist está bugada, não está aparecendo nada, no celular já não sei."
+                },
+                {
+                    "id": 483,
+                    "message": "banlist não tá aparecendo, nem pelo pc nem pelo celular!!"
+                },
+                {
+                    "id": 484,
+                    "message": "Mas as tags voltaram!"
+                },
+                {
+                    "id": 485,
+                    "message": "Agora já está funcionando normalmente."
+                },
+                {
+                    "id": 486,
+                    "message": "Mas vai bem além das minhas capacidades de código. Só que como tava relacionado a webm, eu só mexi nas config e voltou."
+                },
+                {
+                    "id": 487,
+                    "message": "ativa."
+                },
+                {
+                    "id": 488,
+                    "message": "Entendi agora, que demais! Obrigada, vou fazer isso."
+                },
+                {
+                    "id": 489,
+                    "message": "Acredito que o hover foi resolvido."
+                },
+                {
+                    "id": 490,
+                    "message": "Testei aqui e resolveu sim. Obrigada, rainha anã dev."
+                },
+                {
+                    "id": 491,
+                    "message": "como eu falo qual a moderação??? é um assunto sério. muito sério qual o email??"
+                },
+                {
+                    "id": 492,
+                    "message": "magalichan@insiberia.net"
+                },
+                {
+                    "id": 493,
+                    "message": "Qualquer problema que sugir, faça o que está escrito na OPéia."
+                },
+                {
+                    "id": 494,
+                    "message": "Implementado pop-up para denúncias e deletar post."
+                },
+                {
+                    "id": 495,
+                    "message": "Implementado opção para marcar posts como (You)."
+                },
+                {
+                    "id": 496,
+                    "message": "Como funciona? Eu só posso marcar como (You) o que esta no meu IP?"
+                },
+                {
+                    "id": 497,
+                    "message": "Clique nas barrinhas do lado de Anônima e Adicionar/Remover."
+                },
+                {
+                    "id": 499,
+                    "message": "Ahh legal! Meu IP vive mudando porque meu router reinicia. Obrigada, anã dev!"
+                },
+                {
+                    "id": 500,
+                    "message": "Moderação, não sei o que aconteceu que meu comentário num fio duplicou, e quando vou apagar aparece requisição inválida"
+                },
+                {
+                    "id": 501,
+                    "message": "Corrigido. Fiz uma alteração e esqueci o código antigo."
+                },
+                {
+                    "id": 502,
+                    "message": "Fizeram um bot no bluesky que reposta todos os fios novos daqui. É de conhecimento da moderação?"
+                },
+                {
+                    "id": 503,
+                    "message": "Como assim?"
+                },
+                {
+                    "id": 504,
+                    "message": "@magalichan.bluesky.bot"
+                },
+                {
+                    "id": 505,
+                    "message": "é não oficial, então provavelmente acho que não."
+                },
+                {
+                    "id": 506,
+                    "message": "É, não tenho muito o que fazer. A anã está utilizando a API para puxar os posts."
+                },
+                {
+                    "id": 507,
+                    "message": "Possibilidade de habilitar geração de thumbnail para vídeos. (Menu de opções)"
+                },
+                {
+                    "id": 508,
+                    "message": "Pode colocar um contador de caracteres na caixa de texto também, por favor??"
+                },
+                {
+                    "id": 509,
+                    "message": "Posso sim."
+                },
+                {
+                    "id": 511,
+                    "message": "Adicionado."
+                },
+                {
+                    "id": 512,
+                    "message": "Uma deusa, uma dev, uma feiticeira: Ela é demais!"
+                },
+                {
+                    "id": 515,
+                    "message": "- Adicionado margem entre os botões de arquivos."
+                },
+                {
+                    "id": 517,
+                    "message": "- Mudanças no jeito que alguns scripts funcionam para melhorar a velocidade."
+                },
+                {
+                    "id": 523,
+                    "message": "Oi moderadora linda, eu não sei se é bug ou para tirar com a cara dos meros mortais sulistas, mas meu estado bola está marcando bahia quando claramente eu não estou nela."
+                },
+                {
+                    "id": 524,
+                    "message": "Vou atualizar o maxmind, se não der certo eu posso forçar a estadobola para o IP."
+                },
+                {
+                    "id": 525,
+                    "message": "Atualizei a base, anã. Me avise se foi. Caso não, me fale o estado que eu forço."
+                },
+                {
+                    "id": 526,
+                    "message": "Vou testar aqui"
+                },
+                {
+                    "id": 527,
+                    "message": "Aí sim, obrigada moderadora você é foda!!"
+                },
+                {
+                    "id": 528,
+                    "message": "Agora é possivel embed + arquivos."
+                },
+                {
+                    "id": 529,
+                    "message": "file_path e thumb_path."
+                },
+                {
+                    "id": 530,
+                    "message": "Você tem canais para indicar de desenvolvimento web?"
+                },
+                {
+                    "id": 531,
+                    "message": "Não tenho."
+                },
+                {
+                    "id": 532,
+                    "message": "Muito obrigada, anã dev! Vou copiar e tentar brincar aqui um pouco."
+                },
+                {
+                    "id": 533,
+                    "message": "Depois eu penso em expandir adicionado limit de bump, se está trancada e etc."
+                },
+                {
+                    "id": 534,
+                    "message": "Adicionado informações básicas de configuração das boards."
+                },
+                {
+                    "id": 535,
+                    "message": "Kek! Preciso voltar a ler. Eu curtia Chico Bento Moço também."
+                },
+                {
+                    "id": 536,
+                    "message": "Moderadoras, quando tento fazer um novo tópico, aparece isso pra mim: Sua requisição parece automatizada; Mensagem descartada O que isso significa?"
+                },
+                {
+                    "id": 537,
+                    "message": "E quando tento responder alguém pelo balão de resposta rápida também"
+                },
+                {
+                    "id": 538,
+                    "message": "Em quais páginas? Índex, thread, overboard?"
+                },
+                {
+                    "id": 539,
+                    "message": "Aqui também. Tentei postar no /b ontem."
+                },
+                {
+                    "id": 541,
+                    "message": "Pelo index!"
+                },
+                {
+                    "id": 542,
+                    "message": "Threads, overboad, qualquer uma que eu tente fazer uma postagem ou responder pelo balão"
+                },
+                {
+                    "id": 543,
+                    "message": "Eu vou tentar fazer uma postagem pra ver se normalizou"
+                },
+                {
+                    "id": 544,
+                    "message": "Admin, teria como colocar o anã está digitando… igual que tem lá no outro chan?"
+                },
+                {
+                    "id": 545,
+                    "message": "Impossível. Não temos suporte para websockets e não vejo utilidade por ser uma quebra de privacidade."
+                },
+                {
+                    "id": 547,
+                    "message": "A caixa de mensagem rápida não está se movendo. ;-;"
+                },
+                {
+                    "id": 548,
+                    "message": "Navegador e versão?"
+                },
+                {
+                    "id": 549,
+                    "message": "E não estava funcionando quando eu abria uma thread pelo Ver todos em qualquer board."
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "replies": [
+                {
+                    "id": 36,
+                    "message": "magalichan@insiberia.net."
+                },
+                {
+                    "id": 88,
+                    "message": "É o nome da personagem, anta."
+                },
+                {
+                    "id": 89,
+                    "message": "Foi apenas um aviso, não há necessidade de estresse. Nem todas as anãs são animefags e nem são obrigadas a saber nome de personagem de anime, a mod apenas tentou conter pois de vez em quando surgem algumas paneleiras com amiguismo por aqui. Mas já está esclarecido."
+                },
+                {
+                    "id": 90,
+                    "message": "Entendi, perdão."
+                },
+                {
+                    "id": 91,
+                    "message": "Ainda bem que aqui não tem pornô, passei a ter nojo de esbarrar com isso nos outros chans."
+                },
+                {
+                    "id": 102,
+                    "message": ":3"
+                },
+                {
+                    "id": 110,
+                    "message": "Por que apagaram meu fio?"
+                },
+                {
+                    "id": 111,
+                    "message": "Qual fio? O com a imagem da Rei? Se você for a Angela, a resposta é óbvia. Caso contrário, desconsidere, haja vista que já evadiu mesmo."
+                },
+                {
+                    "id": 133,
+                    "message": "Anã."
+                },
+                {
+                    "id": 134,
+                    "message": "Tamanho aumentado para 7MB."
+                },
+                {
+                    "id": 135,
+                    "message": "Muitíssimo obrigada!"
+                },
+                {
+                    "id": 136,
+                    "message": "Obrigada pelo respeito. Eu não tinha lido o report anterior, nem essa parte das regras. Agora eu li. Kek."
+                },
+                {
+                    "id": 139,
+                    "message": "Sempre disse: não sou serious business. Não serei agora. Vocês é que estão sendo bastante serious business about nothing ."
+                },
+                {
+                    "id": 140,
+                    "message": "padrão de imageboards brasileiros, pode falar que estou moldando o magali, ou que sou bastante serious business ou qualquer outra merda que te agrade, de qualquer forma, essa é a maneira que eu decidi administrar e moderar meu chan. Agora.. se isso te incomoda, você tem milhares de alternativas que cultivam o padrão dos imageboards brasileiros, como o 1500chan, VHS, Salmão e outros. ^^"
+                },
+                {
+                    "id": 141,
+                    "message": "Tá perdoada, sua fofa."
+                },
+                {
+                    "id": 178,
+                    "message": "o dia todo ainda consigo acompanhar infiltração de suíno, tá tendo postagem de possível CP no /b/ e basicamente nada ocorre feijoada. Se isso daqui cair eu NUNCA vou perdoar cada uma de vocês por me tirarem mais uma vez meu único comfy place da internet."
+                },
+                {
+                    "id": 179,
+                    "message": "Tá na hora de recrutar mais algumas moderadoras, hein?"
+                },
+                {
+                    "id": 180,
+                    "message": "Inclusive, se possível, repasse o IP de quem posta CP para as autoridades."
+                },
+                {
+                    "id": 185,
+                    "message": "Impressão minha ou o recinto está meio bugado?"
+                },
+                {
+                    "id": 187,
+                    "message": "Como assim?"
+                },
+                {
+                    "id": 188,
+                    "message": "Pelo menos aqui aparenta estar"
+                },
+                {
+                    "id": 189,
+                    "message": "Aqui está tudo bugado também. A caixinha de respostas não aparece, a banlist está bugada e o chão está travando em certos momentos."
+                },
+                {
+                    "id": 190,
+                    "message": "Não tinha testado o site no celular, corrigi isso."
+                },
+                {
+                    "id": 191,
+                    "message": "Bom dia anãs, sou nova por aqui. Como se cria um fio novo?"
+                },
+                {
+                    "id": 192,
+                    "message": "teste"
+                },
+                {
+                    "id": 193,
+                    "message": "testando"
+                },
+                {
+                    "id": 194,
+                    "message": "Você pode criar fios quando for mais ativa no chan."
+                },
+                {
+                    "id": 198,
+                    "message": "O que a foda vocês querem dizer com Lurk Moar? Eu uso chans a anos e esse recinto a meses. Me deixe portar porra."
+                },
+                {
+                    "id": 199,
+                    "message": "Você precisa de um número mínimo de postagens no histórico para criar fios."
+                },
+                {
+                    "id": 200,
+                    "message": "Mas eu ja postei aqui varias vezes. Acho que está bugado por eu estar na casa do meu namorado, mas tenho certeza que já fiz fios estando nessa internet. Also, aproveitando que finalmente coloquei algo no mod, por que demora tanto para fios e replys aparecerem?"
+                },
+                {
+                    "id": 201,
+                    "message": "Como assim? Na board ou na overboard? Aqui sempre aparece logo que o post é feito. No celular eu percebi que é preciso clicar no botão recarregar para aparecer posts novo. Não sei porque acontece isso no celular."
+                },
+                {
+                    "id": 202,
+                    "message": "Fix'd"
+                },
+                {
+                    "id": 203,
+                    "message": "Tanto na overboard quanto em boards específicas. Mas na overboard é pior, já aconteceu de eu fazer um fio e ele so aparecer na overboard no dia seguinte. E sim, isso no mobile."
+                },
+                {
+                    "id": 204,
+                    "message": "Pois é, quando eu estou no mobile ele só recarrega com sucesso quando eu clico no botão ali em cima. Eu não sei porque acontece isso."
+                },
+                {
+                    "id": 210,
+                    "message": "Consertem essa caixa de Lurk Moar que não está deixando criar fios! Preciso movimentar o bê!"
+                },
+                {
+                    "id": 211,
+                    "message": "Cadê a moderação? Problema continua."
+                },
+                {
+                    "id": 212,
+                    "message": "."
+                },
+                {
+                    "id": 213,
+                    "message": "Fode não, tenho vários fios aqui no magali, mas meu IP não é estático."
+                },
+                {
+                    "id": 214,
+                    "message": "Isso é meio bad, ainda mais que em rede móvel é praticamente impossível continuar o mesmo ip, é literal um apartheid para quem está no computador e tem ip fixo, fode não, moderação."
+                },
+                {
+                    "id": 215,
+                    "message": "Também acho essa ideia estúpida, por favor retirem isso. Se um suíno spamar é só banir, já não temos movimento e ainda querem limitar a criação de fios?"
+                },
+                {
+                    "id": 216,
+                    "message": "Concordo, nem movimentando fios essa caixa sai pra mim."
+                },
+                {
+                    "id": 217,
+                    "message": "A caixa só sai para quem não é suíno."
+                },
+                {
+                    "id": 219,
+                    "message": "Vou arrumar uma solução pra isso."
+                },
+                {
+                    "id": 221,
+                    "message": "Vão se foder, suas retardadas. Cria dicionário e pina no cu então, bando de rampeira."
+                },
+                {
+                    "id": 223,
+                    "message": "ESPERO QUE VOCÊ MORRA! Antes ME DIGA, que merda que eu fiz de errado, tonta."
+                },
+                {
+                    "id": 224,
+                    "message": "Inclusive, peço minhas mais sinceras desculpas pelo meu mau comportamento nos replys acima, fora um momento de extrema frustração."
+                },
+                {
+                    "id": 225,
+                    "message": "a meses e continuo tendo problema com o Lurk Moar . Não teria como deixar essa função anti raid ativa somente a noite?"
+                },
+                {
+                    "id": 226,
+                    "message": "Me deixe criar fios, moderadora."
+                },
+                {
+                    "id": 227,
+                    "message": "Me deixem postar, pelo amor de Deus."
+                },
+                {
+                    "id": 228,
+                    "message": "Gente, me deixem postar, eu preciso criar um tópico urgente no /escória/"
+                },
+                {
+                    "id": 229,
+                    "message": "Tente agora."
+                },
+                {
+                    "id": 230,
+                    "message": "Fiquem bem. Acho que, em mais de década, não fico tão satisfeita em ver um monte de melancias em uma porra de tela. Obrigada mesmo."
+                },
+                {
+                    "id": 231,
+                    "message": "Anãs trans são totalmente bem vindas no magali. Todas que postam no magali vão ser acolhidas igualmente por nós da administração e usuárias, ou seja, aceitamos todas as anãs sem distinção. Porém as discussões aqui devem permeiar entre assuntos randômicos e outras coisas do universo feminino."
+                },
+                {
+                    "id": 232,
+                    "message": "Eu vim perguntar sobre o futuro do magali, esse recinto anda muito parado, vocês planejam fazer algo para aumentar o movimento por aqui ou vão mantê-lo assim mesmo? Eu sei que manter um chan é trabalhoso e custa alguns bons trocados, está valendo a pena tanta dedicação para um chan que raramente tem mais do que 3 posts diários? Eu gostaria de sugerir a vocês para cogitar a ideia de aproveitar a estrutura do magali para transformá-lo em um outro chan com uma userbase mais abrangente, atualmente andamos carentes de IBs brasileiros."
+                },
+                {
+                    "id": 233,
+                    "message": "Nem sempre cabe apenas à staff. Pode ser um trabalho que podemos fazer juntas. Funciona melhor se nos unirmos com ideias."
+                },
+                {
+                    "id": 234,
+                    "message": "Porque eu não conheço ninguém que seja channer e jamais deixaria alguém saber que eu sou uma anã. Mas adoraria poder ajudar de alguma forma, acho que esse chan está desperdiçando o espaço que tem. Enfim, foi apenas uma sugestão para aumentar a userbase ao diversificá-la."
+                },
+                {
+                    "id": 237,
+                    "message": "Eu particularmente não sou muito adepta a abrir o chan para outras pessoas. Acho que o cenário está bem ok. Claro que poderia melhorar em alguns pontos, mas não vejo vantagem em ser um vhs 2.0."
+                },
+                {
+                    "id": 238,
+                    "message": "Eu acho que vale você convidar pessoas que você conhece e que não sejam completas estúpidas. Moças que tenham capacidade de raciocinar, queiram conversar sem serem julgadas a toa e saibam seguir regras simples. Não é difícil encontrar pessoas assim."
+                },
+                {
+                    "id": 239,
+                    "message": "Entendo o seu lado. Acho difícil que existam anãs perdidas por aí, todo o mundo que acessa os chans sabe da existência dessa versão do magali. Also, se houver algo que eu puder fazer para ajudar a nossa casinha crescer podem contar comigo."
+                },
+                {
+                    "id": 241,
+                    "message": "Estou falando sério. Vai funcionar. Poderá surgir caminhoneiros por um tempo, mas surgirão usuárias assíduas ou, no mínimo, curiosas. Universitários sempre tem interesse em socializar e falar seus podres no sigilo… e como não temos interesse em menores de idade, esta é nossa melhor opção."
+                },
+                {
+                    "id": 243,
+                    "message": "SUGERIU E DEIXEM ISSO SÓ DE MADRUGADA, SEI LÁ, SE VIREM, MAS EU QUERO POSTAR E APOSTO QUE VÁRIAS OUTRAS ANÃS TAMBÉM QUEREM. DESGRAÇA, MERDA, BOSTA."
+                },
+                {
+                    "id": 245,
+                    "message": "Não, eu não odeio o magali para fazer isso."
+                },
+                {
+                    "id": 246,
+                    "message": "Tente pensar com carinho. É uma divulgação forte que, apesar dos, riscos, pode nos trazer muito movimento."
+                },
+                {
+                    "id": 247,
+                    "message": "Mas quem caralhos faria isso? Eu acesso esse recinto mas meu maior medo é descobrirem na Universidade porque só tem comunista maluco que acha que todo chan é nazista."
+                },
+                {
+                    "id": 248,
+                    "message": "Não sabia que isso era possível. Já corrigi."
+                },
+                {
+                    "id": 249,
+                    "message": "E por que você mesma não faz isso?"
+                },
+                {
+                    "id": 250,
+                    "message": "Alguma objeção, staff?"
+                },
+                {
+                    "id": 251,
+                    "message": ". Acho importante colar apenas em banheiros femininos, nenhum outro lugar."
+                },
+                {
+                    "id": 252,
+                    "message": "Eu não sou estudante e provavelmente não vão me deixar acessar os banheiros femininos porque imagem relatada. Acha possível elaborar um mais genérico? Também soube que há locais específicos para se colar cartazes, que devem ser visíveis a todos."
+                },
+                {
+                    "id": 253,
+                    "message": "Saudade desse Max Scott, btw. Muito tempo sem ver esse malditozinho. Eu tinha uma coleção de artes dele."
+                },
+                {
+                    "id": 254,
+                    "message": "O Vhiv é para lá, gordão, você nunca será uma mulher."
+                },
+                {
+                    "id": 255,
+                    "message": "/b/"
+                },
+                {
+                    "id": 256,
+                    "message": "Xô, homem de calcinha! Se você não é bem-vindo num banheiro feminino também não será bem-vindo num chan feminino. Aqui não é o teu lugar, doente mental."
+                },
+                {
+                    "id": 257,
+                    "message": "tem toda a razão aqui. Iriam foder todo o status quo que construímos e transformar isso num VHS 2.0."
+                },
+                {
+                    "id": 258,
+                    "message": "."
+                },
+                {
+                    "id": 259,
+                    "message": "Grata pela compreensão."
+                },
+                {
+                    "id": 260,
+                    "message": "Talvez uma anã mais sociável infiltrada tenha a capacidade de reconhecer uma garota decente para compartilhar da casa conosco e convidá-la individualmente em vez de fazer essa divulgação em massa, por exemplo. Seria uma ideia mais sensata, parando para pensar."
+                },
+                {
+                    "id": 261,
+                    "message": "Não ligo que divulguem o chan, essas divulgações sempre foram feitas porque ter uma userbase ativa é necessário para a sobrevivência de qualquer chan. Sei que isso vai atrair gente indesejada (como se todo anão/anã já não fosse) e o câncer para cá, mas aí a moderação que se vire para filtrar o conteúdo, é para isso que ela serve."
+                },
+                {
+                    "id": 262,
+                    "message": "apontou, lá existem pessoas de todos os tipos, inclusive as que se encaixariam bem aqui. Eu, por exemplo, faço faculdade e acesso o recinto, aposto que muitas outras anãs também, logo, por que não teriam outras por aí? Elas apenas precisam de um empurrãozinho, não somos floquinhos de neve especiais."
+                },
+                {
+                    "id": 263,
+                    "message": "Aquele que está no FAQ ainda é válido?"
+                },
+                {
+                    "id": 264,
+                    "message": "Eu realmente estou tentando entender essa postura. O posicionamento foi um, mas estão decidindo outra coisa."
+                },
+                {
+                    "id": 265,
+                    "message": "Esse ban foi baseado demais."
+                },
+                {
+                    "id": 266,
+                    "message": "Eu gostei também."
+                },
+                {
+                    "id": 269,
+                    "message": "Também não entendi nada. A moderadora mentiu na cara dura, fez o traveco se expor aqui e travecar no bê para no final levar um ban, kek."
+                },
+                {
+                    "id": 270,
+                    "message": "Sei lá, só prestem atenção na caixa de report e no teor dos posts aí. Tá bem difícil conversar com umas manas quando se trata de falar sobre sexo."
+                },
+                {
+                    "id": 271,
+                    "message": "O problema não é as anãs serem virjonas frígidas , mas sim que você ser uma twitteira normalfag de bosta. Nem fui eu que te reportei, mas seja lá quem for, baseada."
+                },
+                {
+                    "id": 272,
+                    "message": "Volta pro Dogola ou outro chan do tipo."
+                },
+                {
+                    "id": 273,
+                    "message": "Volte para o Twitter, por favor."
+                },
+                {
+                    "id": 274,
+                    "message": "Tentei postar cinco vezes na porra do bêzinho e o Magali me manda lurkar. Vagabunda? Conversei com uma amiga que frequenta essa lixeira aqui e ela disse que é porque não sou muito ativa e estão fazendo isso para evitar raids. Que tal se você fosse aprender um código que presta ao invés de barrar quem quer postar de vez em quando? Que decadência. Saudades da Magatecnológica pelo menos o chan dela era seguro e funcionava."
+                },
+                {
+                    "id": 276,
+                    "message": "IP dinâmico?"
+                },
+                {
+                    "id": 282,
+                    "message": "Teste."
+                },
+                {
+                    "id": 283,
+                    "message": "2 suínos invadiram o chan e ficaram macaqueando a noite toda. Espero que as mods consigam limpar logo as boards."
+                },
+                {
+                    "id": 288,
+                    "message": "Me deixem postar, por favor. Sou a anã que fez o tema Magalain. Não se pode mais questionar o Lula? Mulher também pode debater, é tão difícil aceitar que existe uma mulher de Terceira Posição? Eu provo que sou mulher se quiserem."
+                },
+                {
+                    "id": 289,
+                    "message": "Dê um ban de alguns dias para anãs que respondem aos homens. Elas não se aguentam."
+                },
+                {
+                    "id": 291,
+                    "message": "Apoio."
+                },
+                {
+                    "id": 299,
+                    "message": "TL;DR: Não existe necessidade alguma de querer se diferenciar ou se identificar em um ambiente anônimo, já que você será respeitada e tratada como igual se só agir como mais uma anã."
+                },
+                {
+                    "id": 301,
+                    "message": "As anãs do pássaro estão acabando com o recinto. Estive lurkando o chanzinho inteiro e já perdi as contas de quantos replys de quero-ser-anoréxica já vi no nosso cantinho. Muitas conversas acabam tomando o rumo de transtornos alimentares apenas por attwhoragem. Estou cansada disso, moderadora! Por favor, faça alguma coisa. Não deixem o nosso recinto se tornar essas redes sociais de adolescentes querendo provar que tem transtorno alimentar."
+                },
+                {
+                    "id": 304,
+                    "message": "Eu não entendi o ban por panelismo, moderadora. Eu conhecia um anão paneleiro pessoalmente (e sei que ele era um anão justamente por ele ser attwhore), mas ele nunca soube que eu era anã e nunca participei de nenhuma panela em redes sociais ou sei lá."
+                },
+                {
+                    "id": 305,
+                    "message": "pois vocês estão carecas de saber que o magali, ou qualquer outro chan brasileiro, não é um safespace."
+                },
+                {
+                    "id": 309,
+                    "message": "Não acho que ele me reconheceria porque o ocorrido foi há uns anos, mas realmente foi meio imprudente parando para pensar."
+                },
+                {
+                    "id": 310,
+                    "message": "Só pensamos no melhor para a userbase, fica tranquila que você já está desbanida, entretanto, fique atenta ao fazer comentários do tipo."
+                },
+                {
+                    "id": 316,
+                    "message": "Entendeu ou precisa que desenhe? E tome esse ban por ficar balançando esse piru atrofiado."
+                },
+                {
+                    "id": 327,
+                    "message": "Por que apagaram o fio da anã falando sobre a falta de maturidade dos homens de hoje em dia? Eu não anotei o nome da antropologa e da socióloga que a Opéia citou, não estava esperando que o fio fosse ser apagado!"
+                },
+                {
+                    "id": 330,
+                    "message": "A discussão até que estava interessante, eu sentia muito potencial naquele fio, mas entendo os seus motivos para trancar e arquivar a thread e o acho razoável."
+                },
+                {
+                    "id": 334,
+                    "message": "É recomendado que esse tipo de fio seja feito no /mod/ ou nessa thread. Infelizmente nós da staff não temos os recursos e tempo pra fazer esse tema, porém se você quiser contribuir ou conhece alguém que possa ajudar ficaríamos agradecidas!"
+                },
+                {
+                    "id": 349,
+                    "message": "O que a admin acha de filtros aqui no magali?"
+                },
+                {
+                    "id": 351,
+                    "message": "Aqui está funcionando."
+                },
+                {
+                    "id": 353,
+                    "message": "Quando um fio é movido, as replies deletadas reaparecem. Deleta pra mim, por favor. /escoria/2941"
+                },
+                {
+                    "id": 354,
+                    "message": "Achei o post e deletei. Vou arrumar isso hoje. Obrigada por perceber e avisar."
+                },
+                {
+                    "id": 356,
+                    "message": "Corrigido na segunda."
+                },
+                {
+                    "id": 359,
+                    "message": "Sobre os filtros.. eu não havia pensado na possibilidade, talvez no futuro a gente tenha alguns filtros (ex: homens filtraria para suínos), só que ainda não é nada concreto."
+                },
+                {
+                    "id": 364,
+                    "message": "Enfim, melhore as qualidades das suas threads ou pelo menos interaja mais em outras threads ativas ao invés de poluir o local com threads de perguntinhas pras anãs, já temos muitas threads assim no magali e não precisamos de mais um zilhão de threads desse tipo."
+                },
+                {
+                    "id": 380,
+                    "message": "Esses dias levei um ban por uma thread que criei na calada da noite e totalmente inconsciente mas quando fui checar o /bans/ simplesmente não encontrei nada lá. Threads apagadas não vão pra lista? Ainda não sei o motivo dos meus 7 dias no relento."
+                },
+                {
+                    "id": 393,
+                    "message": "Não consigo criar fios nem dar reply em recém bumpados. Aparece sempre esse erro. Já troquei de navegador, já troquei de wifi e 4g, o erro ocorre tanto no burrofone como no mesatopo. Linderadora, ajudaí."
+                },
+                {
+                    "id": 394,
+                    "message": "Corrigido."
+                },
+                {
+                    "id": 396,
+                    "message": ". Ele nunca deu up mesmo e estou maluca?"
+                },
+                {
+                    "id": 399,
+                    "message": "tenho medo"
+                },
+                {
+                    "id": 401,
+                    "message": "Há um cooldown entre os replies para evitar flood. Não é nada demais."
+                },
+                {
+                    "id": 429,
+                    "message": "Por favor, chequem o e-mail."
+                },
+                {
+                    "id": 430,
+                    "message": "Estou tendo problemas com o antigo endereço. Poderia reenviar para o AirMail, por favor?"
+                },
+                {
+                    "id": 431,
+                    "message": "E-mail enviado."
+                },
+                {
+                    "id": 432,
+                    "message": "Obrigada por avisar."
+                },
+                {
+                    "id": 436,
+                    "message": "Uma pena. Você aparenta ser uma boa anã."
+                },
+                {
+                    "id": 437,
+                    "message": "Só pra deixar claro que sou mulher (e de maior) para evitar outro banimento injusto."
+                },
+                {
+                    "id": 438,
+                    "message": "Tudo bem. Não poste fotos que possam quebrar o seu anonimato, anã. Por segurança."
+                },
+                {
+                    "id": 448,
+                    "message": "gente sou nova aqui, que negocio é esse de anões anãs? sla"
+                },
+                {
+                    "id": 449,
+                    "message": "Anão vem de anon que vem de anônimo."
+                },
+                {
+                    "id": 513,
+                    "message": "anãs, sou nova aqui e gostaria de perguntar algo. estou lurkando bastante ainda mas li em um comentário outra anã se retratando por uma advertencia (?) que aparentemente foi por uma risada que usou aqui. qual é a forma certa de rir por aqui? Ela usou kek no final do texto, só kek é permitido?"
+                },
+                {
+                    "id": 514,
+                    "message": "inclusive, aonde posso ver caso alguém me responda? entendi q a conta é por ip, consegui postar sem senha e pa, mas pra ver as notificacoes preciso colocar senha? aonde eu abro a caixa de mensagens ou sla?"
+                }
+            ]
+        },
+        {
+            "id": 144,
+            "replies": [
+                {
+                    "id": 144,
+                    "message": "O vermelho texto tá bugando em fio, ocorreu duas vezes comigo."
+                },
+                {
+                    "id": 145,
+                    "message": "Teste."
+                },
+                {
+                    "id": 146,
+                    "message": "Tem que ser com dois em cada lado."
+                },
+                {
+                    "id": 147,
+                    "message": "Perdi."
+                },
+                {
+                    "id": 175,
+                    "message": "Teste."
+                },
+                {
+                    "id": 177,
+                    "message": "teste"
+                },
+                {
+                    "id": 184,
+                    "message": "teste"
+                },
+                {
+                    "id": 195,
+                    "message": "teste"
+                },
+                {
+                    "id": 196,
+                    "message": "Santa inclusão…"
+                },
+                {
+                    "id": 205,
+                    "message": "Teste"
+                },
+                {
+                    "id": 209,
+                    "message": "teste"
+                },
+                {
+                    "id": 302,
+                    "message": "teste"
+                },
+                {
+                    "id": 398,
+                    "message": "teste"
+                },
+                {
+                    "id": 468,
+                    "message": "*"
+                },
+                {
+                    "id": 546,
+                    "message": "texte"
+                }
+            ]
+        },
+        {
+            "id": 407,
+            "replies": [
+                {
+                    "id": 407,
+                    "message": "EU VOU MATAR VOU MATAR TODAS AS ANÃS VOCÊS ESTÃO ME ENCHENDO A PACIÊNCIA ESSA SEMANA EU VOU DEGOLAR VOU MATAR VOU ESTRANGULAR VOU DECEPAR A CABECINHA DE CADA ANÃ RETARDADINHA QUE NÃO LÊ A BUCETA DOS FIOS PINADOS ANTES DE CRIAR FIO QUE NÃO LÊ AS REGRAS ANTES DE POSTAR QUE VEM CHORAR NO APELO DE BAN EU VOU MATAR MATAR MATAR VOU MATAR TODAS UMA POR UMA ME ESPEREM NAS SUAS CASAS, EU ESTOU VINDO LHE PEGAR!"
+                },
+                {
+                    "id": 408,
+                    "message": "Adoraria ser degolada por você, moderlinda."
+                },
+                {
+                    "id": 409,
+                    "message": "Meus pêsames à moderação, mas dei uma cascada com esses ocorridos. Damn que semaninha…"
+                },
+                {
+                    "id": 410,
+                    "message": "Você pode desconta sua raiva em mim~ /////<"
+                },
+                {
+                    "id": 411,
+                    "message": "Pise em minha cara, linderadora :3"
+                },
+                {
+                    "id": 412,
+                    "message": "Agora respire fundo e acalme…."
+                },
+                {
+                    "id": 413,
+                    "message": "V-Você não pode fazer isso, moderadora… Você não pode cuspir na minha cara, falar que sou sua cadela, me encher de tapas e me estrangular enquanto domina meu corpo frágil com o seu, isso é ousadia demais! Como você tem coragem de fazer uma coisa dessas, não tem escrúpulos? Pare imediatamente de me possuir e me fazer adorar submissivamente seu corpo lindo enquanto derrama saliva na minha boca, e eu como boa garota bebendo tudo de golada e pedindo mais, isso não se faz…"
+                },
+                {
+                    "id": 414,
+                    "message": "Ew."
+                },
+                {
+                    "id": 415,
+                    "message": ":3"
+                },
+                {
+                    "id": 416,
+                    "message": "Cringe."
+                },
+                {
+                    "id": 417,
+                    "message": "Geleiou duro."
+                },
+                {
+                    "id": 418,
+                    "message": "Só sobrou você de moderadora, é por isso que está tirando motivos de ban do cu, claramente afetada, e deletando posts em boards secundárias como se isso aqui já não fosse jogado às moscas? Com trabalho porco de moderação fica difícil o chan vingar, né? Se não aguenta o tranco, melhor sair e deixar pra outra pessoa, parece uma adolescente birrenta xingando nos motivos de ban. Aqui não é o 55, ninguém vai ficar voltando igual mulher de bandido, fracassada."
+                },
+                {
+                    "id": 419,
+                    "message": "Fica olhando pelo biscoito pra ver se postaram de outros lugares para você deletar tudo num ataque de histeria, não é? Será que você é só uma neurótica descontrolada ou é alguém fazendo de propósito pra impedir o magali de crescer?"
+                },
+                {
+                    "id": 420,
+                    "message": "Bom dia pra você, lindona."
+                },
+                {
+                    "id": 421,
+                    "message": "Onde deixei a entender que era uma pessoa diferente, imbecil? Por essa falta de inteligência e risadinha cancerosa, além não saber o que está fazendo, veio direto do Twitter. Bravo!"
+                },
+                {
+                    "id": 422,
+                    "message": "Você está carente, anã? Ou é só raivinha pelo ban que te dei? Pode continuar se descabelando à vontade, não é como se eu desse importância. Na verdade, até me compadeço com a sua falta do que fazer."
+                },
+                {
+                    "id": 423,
+                    "message": "Liga pra ela não. Tu me deu ban por ser attwhore e eu ainda te amo. Bom, talvez ela esteja certa, talvez eu seja igual mulher de bandido, sou espancada e ainda continuo amando meu espancador. Mas ainda assim, aqui é um dos poucos lugares onde tenho outras que me entendem. ME apedrejam às vezes, mas me entendem :3"
+                },
+                {
+                    "id": 424,
+                    "message": "/twitter/"
+                },
+                {
+                    "id": 425,
+                    "message": "Não adianta tentar inverter, você quem fez esse fio attwhorando com capcode e você que dá ban afetadinha."
+                },
+                {
+                    "id": 428,
+                    "message": "Comentei acerca do primeiro post no IP por saber que se trata de uma evasão, senhora anã. Raramente aplicamos punições por primeiro post no IP e essas situações se dão exclusivamente quando são replies suspeitos."
+                },
+                {
+                    "id": 518,
+                    "message": "Estou com saudade dessa moderadora, nunca mais postou por aqui. Você ainda está aí, meu bem?"
+                },
+                {
+                    "id": 520,
+                    "message": "Nada pessoal mas eu não estou tankando o fato de você ser mod e agir igual criancinha principalmente usando o fatídico gif de higurashi kek"
+                },
+                {
+                    "id": 521,
+                    "message": "A ex-moderadora em questão decidiu, por iniciativa própria, afastar-se das funções de moderação."
+                },
+                {
+                    "id": 522,
+                    "message": "N-Não….. ;-;"
+                }
+            ]
+        },
+        {
+            "id": 440,
+            "replies": [
+                {
+                    "id": 440,
+                    "message": "Isso é real? Antigamente realmente existiu um /foguinho/ - Elas e eles ? Se sim, por que não existe mais?"
+                },
+                {
+                    "id": 441,
+                    "message": "Foguinho e elas e eles nunca foram boards que existiram por aqui, visto que essa versão do magali não tem como objetivo integrar os anões e as anãs, e sim ser um ambiente no qual as anãs possam postar livremente."
+                },
+                {
+                    "id": 443,
+                    "message": "Also, eu peguei essa imagem em um site de arquivamento."
+                },
+                {
+                    "id": 444,
+                    "message": "Seria muito mais proveitoso para o site se vocês paneleiros não ficassem poluindo o /b/ com threads como essa, passar bem."
+                },
+                {
+                    "id": 445,
+                    "message": "Bons tempos, fiz muitas amizades e inimigos na época do foguinho! Era cada doido que aparecia! Pena que perdi contato com todos…"
+                }
+            ]
+        },
+        {
+            "id": 332,
+            "replies": [
+                {
+                    "id": 332,
+                    "message": "Moderação, eu gostaria de fazer uma entrevista para montar um artigo sobre o Magalichan. Como posso entrar em contato?"
+                },
+                {
+                    "id": 333,
+                    "message": "Você nem ao menos leu as boards do recinto. Com todo respeito vai tomar no cu."
+                },
+                {
+                    "id": 335,
+                    "message": "Li. Eu até mandei email."
+                },
+                {
+                    "id": 336,
+                    "message": "E está tudo bem. Desculpas por quaisquer estupidez de minha parte."
+                },
+                {
+                    "id": 339,
+                    "message": "O que mais me surpreende é a ideia de fazer um artigo científico sobre o magali. Somos no máximo meia duzia de anãs falhas que descobriram o recinto aleatoriamente."
+                },
+                {
+                    "id": 357,
+                    "message": "OBS: Censurei o nome dos outros imageboards e sites relacionados pelo motivo de eu não saber como a moderação lida com citações a outras plataformas."
+                },
+                {
+                    "id": 358,
+                    "message": "Outra coisa também, é que no mundo anglófono possui um imageboard similar ao Magalichan que é a crystal cafe"
+                },
+                {
+                    "id": 433,
+                    "message": "Você precisa estudar mais."
+                }
+            ]
+        },
+        {
+            "id": 384,
+            "replies": [
+                {
+                    "id": 384,
+                    "message": "Mandei um email explicando melhor a situação."
+                },
+                {
+                    "id": 385,
+                    "message": "Irei responder seu email hoje."
+                },
+                {
+                    "id": 386,
+                    "message": "As dúvidas a partir de agora provavelmente serão respondidas com tentativa e erro. Mais uma vez, obrigada."
+                }
+            ]
+        },
+        {
+            "id": 382,
+            "replies": [
+                {
+                    "id": 382,
+                    "message": "?!?!"
+                },
+                {
+                    "id": 383,
+                    "message": "Obs: youtube."
+                }
+            ]
+        },
+        {
+            "id": 365,
+            "replies": [
+                {
+                    "id": 365,
+                    "message": ". Eu quero liberdade de expressão no Magali! Abaixa as moderadoras totalitárias! MAGALI LIVRE JÁ!"
+                },
+                {
+                    "id": 366,
+                    "message": "Factos. Recebi ban sem nem ao menos (na minha cabeça só pode ter sido sem querer). Literalmente, eu não posto nem falo nada de mais no recinto. O chan já não é muito movimentado e ainda por cima ficam dando ban e apagando replys."
+                },
+                {
+                    "id": 367,
+                    "message": "Baseada, falou o que tenho vontade mas não tenho coragem."
+                },
+                {
+                    "id": 368,
+                    "message": "das anãs que não concordam com a política ditatorial delas."
+                },
+                {
+                    "id": 369,
+                    "message": "Por fim, magali é um livre, só aviso que liberdade ≠ libertinagem."
+                },
+                {
+                    "id": 370,
+                    "message": "Não é consistente com a realidade, moderadora, já vi vários replies sem maldade ou intuito de causar discórdia, e mesmo assim são apagados, mas fácil botar uma espécie de aviso com justificativa do porquê do reply ser apagado, ou menos dar um ban de pouco tempo, porém com a justificativa do ban, tá faltando transparência nesse política de apagar rpely."
+                },
+                {
+                    "id": 373,
+                    "message": "Tá foda."
+                },
+                {
+                    "id": 374,
+                    "message": "Acho que o que mais me incomoda são os posts excluídos com a justificativa que atraem suínos. Até em um chan que deveria ser nosso refugio temos que filtrar sobre o que falar para não chamar atenção de macho ."
+                },
+                {
+                    "id": 375,
+                    "message": "Sim, completamente sem sentido, aqui é a nossa casa e foda-se os meninos, deveríamos falar sobre o que quisermos sem censura alguma."
+                },
+                {
+                    "id": 378,
+                    "message": "Ela se importa com opinião de macho, pior ainda, se importa com opinião de macho incel que não sai de casa KEK!"
+                }
+            ]
+        },
+        {
+            "id": 346,
+            "replies": [
+                {
+                    "id": 346,
+                    "message": "Por que recebo esse erro ao reportar alguém?"
+                },
+                {
+                    "id": 347,
+                    "message": "Recebi isso quando tentei deletar um post."
+                },
+                {
+                    "id": 348,
+                    "message": "Corrigido."
+                }
+            ]
+        },
+        {
+            "id": 324,
+            "replies": [
+                {
+                    "id": 324,
+                    "message": "De onde está vindo tantas anãs novas? E por que elas não leem as regras? Fica a fica pras administradoras deixarem um lembrete sobre escrever corretamente antes de criar um fio ou reply. Que agonia, parece que estou no twitter."
+                },
+                {
+                    "id": 325,
+                    "message": "Está literalmente no pinado (não sei se você leu) e nós aplicamos as medidas de contenção conforme ocorrem casos assim."
+                },
+                {
+                    "id": 326,
+                    "message": "Onde?"
+                }
+            ]
+        },
+        {
+            "id": 320,
+            "replies": [
+                {
+                    "id": 320,
+                    "message": "é so uma dica, não me levem a mal."
+                },
+                {
+                    "id": 322,
+                    "message": "Sem contar que os homens iriam achar que esse /homi/ é uma board de contenção pra eles, e isso atrairia mais homens pro magali."
+                },
+                {
+                    "id": 323,
+                    "message": "Realmente, magali é bem pouco movimentado so iria poluir mais o chan."
+                }
+            ]
+        },
+        {
+            "id": 306,
+            "replies": [
+                {
+                    "id": 306,
+                    "message": "O chan está cheio de homens: travecos. Não entendi a lógica, não. Homens podem postar aqui desde que tenham transtornos mentais e se vejam como mulheres? É isso? Sem condições. É a mesma coisa de eu chegar no chan dos meninos e dizer ser um homem trans – supondo que eu realmente tivesse tal doença. Eu levaria ban na hora, não existe essa palhaçada. Essas aberrações do sexo masculino postam livremente aqui, deixam claro que são homens e não arruma nada? Pelo amor de Deus, staff."
+                },
+                {
+                    "id": 307,
+                    "message": "Continuem colaborando denunciando e se possível, não respondendo-os."
+                },
+                {
+                    "id": 308,
+                    "message": "Ótimo."
+                }
+            ]
+        },
+        {
+            "id": 295,
+            "replies": [
+                {
+                    "id": 295,
+                    "message": "Está dando erro toda vez que tento excluir."
+                },
+                {
+                    "id": 296,
+                    "message": "Feito."
+                }
+            ]
+        },
+        {
+            "id": 292,
+            "replies": [
+                {
+                    "id": 292,
+                    "message": "Não consigo responder fios. Toda vez que clico em reply , caio em uma janela de download. Ajuda aí, moderação. Sou phoneposter, btw."
+                },
+                {
+                    "id": 294,
+                    "message": "Desativei por enquanto até eu arranjar um tempo para ver o que exatamente quebrou."
+                }
+            ]
+        },
+        {
+            "id": 293,
+            "replies": [
+                {
+                    "id": 293,
+                    "message": "Eu quero responder os fios."
+                }
+            ]
+        },
+        {
+            "id": 159,
+            "replies": [
+                {
+                    "id": 159,
+                    "message": "Por quê não temos uma board de ocultismo, anãs?"
+                },
+                {
+                    "id": 160,
+                    "message": "Porque o chan tá morto. Veja as outras boards, só as moscas."
+                },
+                {
+                    "id": 161,
+                    "message": "É só questão de tempo até que as anãs voltem. Confia!"
+                },
+                {
+                    "id": 242,
+                    "message": "Iria ser muito legal uma board para misticismo."
+                },
+                {
+                    "id": 244,
+                    "message": "Fragmentada."
+                },
+                {
+                    "id": 267,
+                    "message": "Uma boa board seria um /sig/ para as anãs."
+                },
+                {
+                    "id": 290,
+                    "message": "Apoio."
+                }
+            ]
+        },
+        {
+            "id": 284,
+            "replies": [
+                {
+                    "id": 284,
+                    "message": "A partir de quantas mensagens posso criar tópicos?"
+                },
+                {
+                    "id": 285,
+                    "message": "Se tu conseguiu criar um fio, deveria saber…"
+                }
+            ]
+        },
+        {
+            "id": 275,
+            "replies": [
+                {
+                    "id": 275,
+                    "message": "postar, me ajuda, Véia!"
+                },
+                {
+                    "id": 277,
+                    "message": "Troque de navegador, não instale nenhuma extensão e tente de novo."
+                },
+                {
+                    "id": 278,
+                    "message": "Vai dar uma volta."
+                },
+                {
+                    "id": 279,
+                    "message": "Já tentei isso, e desativei todas as extensões, nada muda."
+                }
+            ]
+        },
+        {
+            "id": 181,
+            "replies": [
+                {
+                    "id": 181,
+                    "message": "Se temos uma board pra animu por que não temos para Cartoons também? Alguma anã apoia a criação de um /co/ aqui?"
+                },
+                {
+                    "id": 182,
+                    "message": "Não."
+                },
+                {
+                    "id": 183,
+                    "message": "Melhor mudar o nome da board para animação então. Os dois são a mesma coisa em principio."
+                },
+                {
+                    "id": 197,
+                    "message": "Anime é super famoso em imageboards e mesmo assim a board está morta, faça-me o favor."
+                }
+            ]
+        },
+        {
+            "id": 149,
+            "replies": [
+                {
+                    "id": 149,
+                    "message": "Anãs, tem algo estranho acontecendo ou é meu pc sendo uma bosta? Já fazem alguns dias que a overboard não atualiza os posts, mesmo que eu recarregue continua como na pica. O mesmo acontece com os fios, a última reply que mostra no /b/ não é a mais nova, mas se eu clico para abrir o fio as respostas atuais aparecem."
+                },
+                {
+                    "id": 151,
+                    "message": "Vou dar uma olhada nisso hoje, anã."
+                },
+                {
+                    "id": 152,
+                    "message": "O catálogo do /b/ mesmo não atualiza."
+                },
+                {
+                    "id": 153,
+                    "message": "O cátalogo é atualizado a cada post novo. Acabei de fazer um teste."
+                },
+                {
+                    "id": 154,
+                    "message": "Tô com o mesmo erro. anã. Não tá atualizando pra mim faz uns dias, tô acompanhando pelo overboard mas mesmo assim quando abro os posts eles não carregam"
+                },
+                {
+                    "id": 155,
+                    "message": "O catálogo do magali não tinha um javascript para atualizar os posts automaticamente por ser um chan de baixo movimento. Estou tentando manter o uso de javascript no nível mínimo possível, mas botei isso."
+                },
+                {
+                    "id": 156,
+                    "message": "Eu tentei limpar os cookies e alterar o tema do chan, abri em outro navegador também, mas aparentemente as novas replies só atualizam se recarregar a pagina/F5, por exemplo, mesmo se eu estiver no escória e ir pro b, os fios só são atualizados ao recarregar a página e antes iriam automaticamente nesse processo. Mas não sei o que poderia ser."
+                },
+                {
+                    "id": 157,
+                    "message": "Achei o problema, anã. O script de auto update da index não está ativado ou não está funcionando. Vou dar uma olhada nisso."
+                },
+                {
+                    "id": 158,
+                    "message": "Corrigi o problema da thread. Erro meu e não percebi, tinha modificado algo no template e estava interferindo com o script de reload."
+                },
+                {
+                    "id": 164,
+                    "message": "Os posts ainda estão demorando muito para atualizar na overboard."
+                },
+                {
+                    "id": 165,
+                    "message": "Eu não sei porque a overboard não está sendo gerada naturalmente. A gambiarra que eu fiz foi forçar ela a gerar a cada 30 min, mas vou resolver isso assim que eu tiver mais um tempinho livre."
+                },
+                {
+                    "id": 167,
+                    "message": "Pronto, resolvido o problema."
+                },
+                {
+                    "id": 170,
+                    "message": "Obrigada!"
+                },
+                {
+                    "id": 171,
+                    "message": "Teste"
+                },
+                {
+                    "id": 173,
+                    "message": "Acredito que o problema tenha voltado a acontecer, os posts não estão atualizando pra mim, overboard também não atualiza há alguns dias aqui, não sei se é algo só comigo"
+                },
+                {
+                    "id": 174,
+                    "message": "A overboard eu percebi que só atualiza os posts dando ctrl + shift + r , mas o auto update dos fios está funcionando, pelo menos para mim."
+                },
+                {
+                    "id": 176,
+                    "message": "Voltou a funcionar aqui, foi questão de limpar o cachê do navegador. Obrigada!"
+                }
+            ]
+        },
+        {
+            "id": 172,
+            "replies": [
+                {
+                    "id": 172,
+                    "message": "Estão muito completas as funcionalidades e muito fluido o recinto!"
+                }
+            ]
+        },
+        {
+            "id": 162,
+            "replies": [
+                {
+                    "id": 162,
+                    "message": "Não entendi se o erro é por tentar colocar algo no inserir ou por dar CTRL C/V"
+                },
+                {
+                    "id": 163,
+                    "message": "!"
+                },
+                {
+                    "id": 166,
+                    "message": "Que merda, como eu odeio essa merda. Enfim, é para funcionar agora."
+                }
+            ]
+        },
+        {
+            "id": 142,
+            "replies": [
+                {
+                    "id": 142,
+                    "message": "Confesso que queria um espaço exatamente assim pra falar de ocultismo e magia, mas não sei se teria o interesse das usuárias. A board também poderia ser usada pra falar de assuntos mórbidos como crimes ou bizarrices em geral. O que acham, minhas anoas?"
+                },
+                {
+                    "id": 143,
+                    "message": "Board nova dá em feijoada."
+                }
+            ]
+        },
+        {
+            "id": 118,
+            "replies": [
+                {
+                    "id": 118,
+                    "message": "Caso as anãs estejam interessadas, dumpar esta thread seria útil para demonstrar o nosso interesse perante a administração. Desde já agracio."
+                },
+                {
+                    "id": 120,
+                    "message": "Bump. Definitivamente necessário."
+                },
+                {
+                    "id": 121,
+                    "message": "Sou contra. Vai atrair suínos tal como um maceirão cheio de lavagem."
+                },
+                {
+                    "id": 127,
+                    "message": "Apoiado."
+                },
+                {
+                    "id": 128,
+                    "message": "Bump, devíamos ter uma board para redpills, entre outros."
+                },
+                {
+                    "id": 129,
+                    "message": "Sou contra, não temos movimentos o suficiente para isso. Pedi para criar uma board de animes, criaram e ninguém usa."
+                },
+                {
+                    "id": 130,
+                    "message": "Fixado."
+                },
+                {
+                    "id": 132,
+                    "message": "Fique com este antissemita autoritário com QI minimamente respeitável."
+                },
+                {
+                    "id": 137,
+                    "message": "bump, apoio"
+                },
+                {
+                    "id": 138,
+                    "message": "Aqui, não."
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "replies": [
+                {
+                    "id": 21,
+                    "message": "o que eu escrevi de errado aqui moderação?"
+                },
+                {
+                    "id": 25,
+                    "message": "Simplesmente escreva como você observa as outras anãs escrevendo, com letra maiúscula em início de frase e ponto final. Não fazer isso pode, inclusive, se tornar um modo de identificar suas postagens, já que elas escrevem de um jeito e você de outro. Para mais, serve também para manter a ordem e criar um padrão, pois se admitirmos esse tipo de escrita, é um passo para começarem a usar vc , pq , etc. Espero que entenda e colabore."
+                },
+                {
+                    "id": 32,
+                    "message": "Volte para a quinta série."
+                },
+                {
+                    "id": 126,
+                    "message": "Recebi o report agora há pouco, entendi o porque, ok, vou tentar escrever igual."
+                },
+                {
+                    "id": 131,
+                    "message": "Senti. Obrigada pelo esclarecimento!"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "replies": [
+                {
+                    "id": 14,
+                    "message": "Moderalinda, o botão de report não está funcionando, dá 405. Assim fica difícil chutar os homens daqui."
+                },
+                {
+                    "id": 15,
+                    "message": "Não consegui reproduzir esse bug. No mais, modifiquei as permissões do arquivo que lida com os reports, talvez isso arrume."
+                },
+                {
+                    "id": 16,
+                    "message": "Ainda não está funcionando."
+                },
+                {
+                    "id": 17,
+                    "message": "Descobri o motivo, anã. Você estava dando report pela overboard. O report não funciona por lá não sei por qual motivo, vou procurar uma solução mais tarde. Por enquanto, é só abrir o fio e reportar por lá."
+                },
+                {
+                    "id": 125,
+                    "message": "Fio antigo, mas consegui resolver esse problema esses dias. Agora dá para reportar pela overboard."
+                }
+            ]
+        },
+        {
+            "id": 123,
+            "replies": [
+                {
+                    "id": 123,
+                    "message": "Isso é pura preguiça. Caso notem tais sendo criados repetidamente com os mesmo ips creio que vale uma advertência (ou puxão de orelha)."
+                },
+                {
+                    "id": 124,
+                    "message": "E eu concordo com você, porém entendo o porquê disso acontecer.. Infelizmente ou felizmente o /b/ é uma das boards mais utilizadas e a nova leva de usuárias que provavelmente apareceram de outros chans brasileiros estão mais acostumadas a usar o /b/ do que qualquer outra tábua e esquecem das outras boards."
+                }
+            ]
+        },
+        {
+            "id": 122,
+            "replies": [
+                {
+                    "id": 122,
+                    "message": "Onde está o fodendo /lit/?"
+                }
+            ]
+        },
+        {
+            "id": 119,
+            "replies": [
+                {
+                    "id": 119,
+                    "message": "Boa noite, anãs. Uma prancha para postagem de arte ou criatividade no geral seria legal."
+                }
+            ]
+        },
+        {
+            "id": 81,
+            "replies": [
+                {
+                    "id": 81,
+                    "message": "Vai ter board de animus?"
+                },
+                {
+                    "id": 86,
+                    "message": "Sobre criação de novas boards, o problema disso é que não acabam sendo tão usadas igual o /b/, por mim seria legal, mas é bom lembrar que não adianta eu e as outras mods criarem boards novas se ninguém usa. Igual o /coz/, era uma board para coisas femininas, ninguém usou e eu excluí, e esses dias estavam pedindo uma board só pra fofocarem, aí fica difícil.."
+                },
+                {
+                    "id": 87,
+                    "message": "Quanto a de fofoca eu não sei, mas a de animus vale a pena fazer um censo de animefags no recinto. Se tivermos no mínimo 5, já vale pena."
+                },
+                {
+                    "id": 117,
+                    "message": "Dumpo pra caralho. Acho que 90% das anãs no recinto são animefags."
+                }
+            ]
+        },
+        {
+            "id": 97,
+            "replies": [
+                {
+                    "id": 97,
+                    "message": "Não sou homem tarado querendo fap material, só perguntando pra evitar ban mais lá pra frente."
+                },
+                {
+                    "id": 98,
+                    "message": "Mas vou ser franca, quando cuidava do rein, eu tinha muito problema com fios masculinos com esse tipo de perguntas relacionadas a pornografia ou pedindo conselhos femininos (ou querendo afirmação feminina por serem diferentes ), então fiquem atentas e cuidado com os fios que vocês fazem."
+                },
+                {
+                    "id": 101,
+                    "message": "O meu medo mesmo era parecer hominfalseflag como algum tarado tentando pescar fap material fazendo perguntas de fetiche e tals. Eu trabalho com coisas NSFW e nunca realmente tive um meio pra procurar saber da sexualidade de outras fêmeas sem filtro, como o anonimato daqui permite. Além de, claro, como você mesma citou: acabar atraindo tarados descarrilhando tudo."
+                },
+                {
+                    "id": 103,
+                    "message": "."
+                },
+                {
+                    "id": 104,
+                    "message": "Eu normalmente chamo assim. Não vejo como algo pejorativo, acho fofo porque lembra bicho. Não sabia que eles usavam esse termo."
+                },
+                {
+                    "id": 105,
+                    "message": "Mentira."
+                },
+                {
+                    "id": 106,
+                    "message": "Que?!"
+                },
+                {
+                    "id": 107,
+                    "message": "Ele usam como forma de bicho no sentido pejorativo, já que nos enxergam como inferiores, não recomendo usar por aqui."
+                },
+                {
+                    "id": 116,
+                    "message": ". Apenas aceite engolir a vermelhinha e siga a vontade de deus."
+                }
+            ]
+        },
+        {
+            "id": 113,
+            "replies": [
+                {
+                    "id": 113,
+                    "message": "Perdão pela novaviadagem, mas como eu faço para reportar um comentário?"
+                },
+                {
+                    "id": 114,
+                    "message": "Assinale essa caixinha, coloque um motivo e clique em denunciar."
+                },
+                {
+                    "id": 115,
+                    "message": "Obrigada, anã."
+                }
+            ]
+        },
+        {
+            "id": 82,
+            "replies": [
+                {
+                    "id": 82,
+                    "message": "É realmente imprescindível ter que sempre abrir um nova aba para que assistíssemos os vídeos inseridos do you tube?"
+                },
+                {
+                    "id": 83,
+                    "message": "Não tinha percebido isso. Sempre abri os embed em uma nova janela, mas já corrigi isso."
+                },
+                {
+                    "id": 84,
+                    "message": "Baseada, e obrigada."
+                },
+                {
+                    "id": 85,
+                    "message": "Massa."
+                }
+            ]
+        },
+        {
+            "id": 72,
+            "replies": [
+                {
+                    "id": 72,
+                    "message": "Tenho a impressão que se eu postasse algo que achei engraçado e encontrei fora de ibs, estaria tudo bem, mas se virem que o que eu postei está no catálogo de algum post em outro xã vai ser taxado de cancroposting."
+                },
+                {
+                    "id": 74,
+                    "message": "Não é proibido, anã. Sinta-se livre para postar conteúdos que viu em outros chans, desde que esteja contido nas regras. Faça uso do bom senso também, por exemplo, fios de raça e lookismo já estão saturados, panelagem não é bem-vinda, etc."
+                },
+                {
+                    "id": 75,
+                    "message": "achei engraçado (as duas estavam vestidas)."
+                },
+                {
+                    "id": 76,
+                    "message": "Meus lados. Coitada, ela sobreviveu?"
+                },
+                {
+                    "id": 77,
+                    "message": "Na melhor das hipóteses teve risco de vida e teve de ser levada com urgência para o hospital."
+                },
+                {
+                    "id": 78,
+                    "message": "Isso já aconteceu comigo quando eu estava no ensino fundamental. Fui pular nas costas de uma colega gorda e ela distraída se desequilibrou e caiu em cima de mim. Todo mundo ficou preocupado comigo, mas ela bateu a cabeça e se machucou e ninguém ligou, tadinha."
+                },
+                {
+                    "id": 80,
+                    "message": "Analfabetismo fixado."
+                }
+            ]
+        },
+        {
+            "id": 68,
+            "replies": [
+                {
+                    "id": 68,
+                    "message": "Anã, os filenames sumiram propositalmente?"
+                },
+                {
+                    "id": 69,
+                    "message": "Sim, eu escondi os filenames originais para evitar uma possível perseguição das anãs em outros imageboards. É uma ideia que nós da moderação concordamos e se a userbase não gostar, eu tiro."
+                },
+                {
+                    "id": 70,
+                    "message": "Sinceramente eu espero que tirem. Eu preciso do filename dos meus gatinhos."
+                },
+                {
+                    "id": 71,
+                    "message": "Isso foi muito bom, obrigada!"
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "replies": [
+                {
+                    "id": 37,
+                    "message": "Outra coisa é a possibilidade de scrollar o texto do post pelo catálogo, nos outros ibs é só você clicar no texto que você consegue scrollar sem ter que abrir o fio, isso é bem funcional."
+                },
+                {
+                    "id": 55,
+                    "message": "."
+                },
+                {
+                    "id": 56,
+                    "message": ".jfif"
+                },
+                {
+                    "id": 60,
+                    "message": "Eu até posso inserir, visto que não deu problema nenhum problema localmente, mas eu nunca tinha escutado falar até hoje desse formato."
+                },
+                {
+                    "id": 61,
+                    "message": "Ativei mp3 e o jfif, mas estamos sem o ícone por enquanto."
+                },
+                {
+                    "id": 62,
+                    "message": "Use o duckduckgo ou o yandex, lá é mais fácil de encontrar jotafife."
+                },
+                {
+                    "id": 63,
+                    "message": "Also, qual o nome dessa musga?"
+                },
+                {
+                    "id": 64,
+                    "message": "teste"
+                },
+                {
+                    "id": 65,
+                    "message": "Remix de london bridge da osno1."
+                },
+                {
+                    "id": 66,
+                    "message": "Thumbnails arrumada para próximos arquivos."
+                },
+                {
+                    "id": 67,
+                    "message": "Modifiquei o javascript de expandir e agora vai dar para escutar o mp3 no chan. Só estou esperando a cloudflare."
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "replies": [
+                {
+                    "id": 38,
+                    "message": "Diabo é isso?"
+                },
+                {
+                    "id": 44,
+                    "message": "Mazda."
+                },
+                {
+                    "id": 46,
+                    "message": "O que você queria postar? Tira um printscreen e manda."
+                },
+                {
+                    "id": 47,
+                    "message": "Teste."
+                },
+                {
+                    "id": 48,
+                    "message": "Não entendi por quê."
+                },
+                {
+                    "id": 49,
+                    "message": "Estou com o mesmo problema."
+                },
+                {
+                    "id": 50,
+                    "message": "Pronto."
+                },
+                {
+                    "id": 51,
+                    "message": "Boa implementação, mas não faça algo que vá atrapalhar as nossas conversas, por favor."
+                },
+                {
+                    "id": 52,
+                    "message": "Acordei hoje com o chan mais movimentado do que o normal e não estou conseguindo postar nada porque aparece isso."
+                },
+                {
+                    "id": 53,
+                    "message": "Perdão ;_;"
+                },
+                {
+                    "id": 54,
+                    "message": "Está tudo bem, fofinha. Continue com o ótimo trabalho. :3"
+                },
+                {
+                    "id": 57,
+                    "message": "Aliás, eu não estava floodando. Eu estava testando as palavras."
+                },
+                {
+                    "id": 58,
+                    "message": "Eu fui ver o código que tinha inserido e percebi o meu erro. Não se culpe, a falha foi toda minha."
+                },
+                {
+                    "id": 59,
+                    "message": "Tudo bem, fofinha. É que recebi um aviso por flood."
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "replies": [
+                {
+                    "id": 33,
+                    "message": "[/code]"
+                },
+                {
+                    "id": 35,
+                    "message": "Atualizei o botão. Obrigada pela contribuição."
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "replies": [
+                {
+                    "id": 28,
+                    "message": "É proposital que as respostas usem uma fonte diferente de todo o resto? Fica tão estranho."
+                },
+                {
+                    "id": 29,
+                    "message": "Qual CSS? Poderia postar algum printscreen? Aqui não aparece isso."
+                },
+                {
+                    "id": 30,
+                    "message": "Percebi agora, cometi um typo no css. Escrevi serif e esqueci do sans . Vou corrigir."
+                },
+                {
+                    "id": 31,
+                    "message": "Prontinho."
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "replies": [
+                {
+                    "id": 26,
+                    "message": "Se o chan é anônimo então para que serve as ID"
+                },
+                {
+                    "id": 27,
+                    "message": "As anãs que criam o fio podem escolher se querem com ou sem IDs. A maioria escolhe criar com."
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "replies": [
+                {
+                    "id": 22,
+                    "message": "Por que o número de replies e imagens demora pra atualizar no catálogo? No VHS também acontece isso. É algum bug do vichan?"
+                },
+                {
+                    "id": 23,
+                    "message": "Hmmm, não tinha percebido isso. Vou dar uma olhada."
+                },
+                {
+                    "id": 24,
+                    "message": "Falha minha, não tinha marcado uma opção de dar update a cada novo reply. Só estava atualizando a cada novo post."
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "replies": [
+                {
+                    "id": 20,
+                    "message": "Podemos ter um /x/?"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "replies": [
+                {
+                    "id": 1,
+                    "message": "Sugestão: Criar uma board onde homens são permitidos para poder interagir com as anãs. Aí fica o /b/ só de mulheres e essa outra board com a participação dos anões liberada."
+                },
+                {
+                    "id": 2,
+                    "message": "Aceito. Não tem como barrar os gordões mesmo."
+                },
+                {
+                    "id": 3,
+                    "message": "Sugestão de nome: /coed/."
+                },
+                {
+                    "id": 4,
+                    "message": "Reparem que a permissão de homens/travecos foi um fator comum à ruína de todos os magalis, sendo o do infinito a exceção. Big nono for me."
+                },
+                {
+                    "id": 5,
+                    "message": "Não, vai se foder. Só mesmo um homem pra dar uma ideia de girico dessas."
+                },
+                {
+                    "id": 6,
+                    "message": "Criar também uma board só para pr0n, já que é proibido postar pr0n no /b/."
+                },
+                {
+                    "id": 7,
+                    "message": "Nenhum deles tinha uma board específica para isso."
+                },
+                {
+                    "id": 8,
+                    "message": "Por que não volta para o buraco de onde você saiu? Lá tem um pr0n."
+                },
+                {
+                    "id": 9,
+                    "message": "This. Procurar pornografia em imageboard não faz nem sentido para começar."
+                },
+                {
+                    "id": 10,
+                    "message": "Não. Prefiro que os gordões precisem se disfarçar de menininhas."
+                },
+                {
+                    "id": 11,
+                    "message": "Eu prefiro que eles peguem a foda fora."
+                },
+                {
+                    "id": 12,
+                    "message": "Eu só quero que aumentem um pouco a fonte dos posts, está muito pequena."
+                },
+                {
+                    "id": 13,
+                    "message": "Feito, talvez demore um pouco para que a cloudflare atualize o cache."
+                },
+                {
+                    "id": 18,
+                    "message": "Vem um, vem dez, vem zoar, vem raidar."
+                },
+                {
+                    "id": 19,
+                    "message": "Por quê temos que ser boazinhas com eles? Amor com amor se paga."
+                }
+            ]
+        }
+    ]
+}

@@ -16,4 +16,6 @@ source ~/.zshrc
 echo 'layout python $(pyenv which python)' > .envrc
 direnv allow
 
+pip install pip-tools
+pip-compile requirements.in
 pip install -r requirements.txt
